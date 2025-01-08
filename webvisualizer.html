@@ -183,6 +183,12 @@
             });
         });
 
+        datasets.sort((a, b) => {
+            const latestPriceA = a.data[a.data.length - 1]; // Last price of GPU A
+            const latestPriceB = b.data[b.data.length - 1]; // Last price of GPU B
+            return latestPriceB - latestPriceA; // Sort descending
+        });
+
         const ctx = document.getElementById("priceChart").getContext("2d");
         chart = new Chart(ctx, {
             type: 'line',
@@ -199,12 +205,38 @@
                         color: 'white' // Title color
                     },
                     tooltip: {
-                        mode: 'index',
-                        intersect: false
+                        mode: 'nearest', // Tooltip only shows the closest point to the hover
+                        intersect: true, // Ensures you only see the data for a single point
+                        callbacks: {
+                            title: (context) => {
+                                return `Date: ${context[0].label}`; // Show the hovered date
+                            },
+                            label: (context) => {
+                                const gpuName = context.dataset.label;
+                                const price = context.raw !== null ? `€${context.raw}` : 'No data';
+                                return `${gpuName}: ${price}`; // Show the hovered GPU and its price
+                            }
+                        }
                     },
                     legend: {
+                        position: 'top', // Move legend above the graph
+                        align: 'start', // Align legend items vertically
                         labels: {
-                            color: 'white' // Legend text color
+                            color: 'white',
+                            boxWidth: 20, // Adjust box size
+                            padding: 10, // Add spacing between legend items
+                            generateLabels: (chart) => {
+                                // Use the sorted datasets to generate legend labels
+                                return chart.data.datasets.map((dataset, index) => ({
+                                    text: `${dataset.label}`,
+                                    fillStyle: dataset.borderColor,
+                                    strokeStyle: dataset.borderColor,
+                                    pointStyle: dataset.pointStyle,
+                                    rotation: dataset.rotation,
+                                    fontColor: '#fff',
+                                    tension: dataset.tension
+                                }));
+                            }
                         }
                     }
                 },

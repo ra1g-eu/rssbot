@@ -1,0 +1,1318 @@
+{
+    "AMD Ryzen 3 4100": {
+        "link": "https:\/\/www.alza.sk\/amd-ryzen-3-4100-d7082017.htm",
+        "name": "AMD Ryzen 3 4100",
+        "04-01-2025": {
+            "price": "66,90",
+            "availability": 5
+        },
+        "05-01-2025": {
+            "price": "66,90",
+            "availability": 5
+        },
+        "06-01-2025": {
+            "price": "67,90",
+            "availability": 5
+        },
+        "07-01-2025": {
+            "price": "67,90",
+            "availability": 5
+        }
+    },
+    "AMD Ryzen 5 4500": {
+        "link": "https:\/\/www.alza.sk\/amd-ryzen-5-4500-d7082016.htm",
+        "name": "AMD Ryzen 5 4500",
+        "04-01-2025": {
+            "price": "68,90",
+            "availability": 5
+        },
+        "05-01-2025": {
+            "price": "68,90",
+            "availability": 5
+        },
+        "06-01-2025": {
+            "price": "72,90",
+            "availability": 5
+        },
+        "07-01-2025": {
+            "price": "72,90",
+            "availability": 5
+        }
+    },
+    "AMD Ryzen 5 3600": {
+        "link": "https:\/\/www.alza.sk\/amd-ryzen-5-3600-d12490788.htm",
+        "name": "AMD Ryzen 5 3600",
+        "04-01-2025": {
+            "price": "75,90",
+            "availability": 5
+        },
+        "05-01-2025": {
+            "price": "75,90",
+            "availability": 5
+        },
+        "06-01-2025": {
+            "price": "74,90",
+            "availability": 5
+        },
+        "07-01-2025": {
+            "price": "75,90",
+            "availability": 5
+        }
+    },
+    "AMD Ryzen 5 5500": {
+        "link": "https:\/\/www.alza.sk\/amd-ryzen-5-5500-d7082022.htm",
+        "name": "AMD Ryzen 5 5500",
+        "04-01-2025": {
+            "price": "86,90",
+            "availability": 5
+        },
+        "05-01-2025": {
+            "price": "86,90",
+            "availability": 5
+        },
+        "06-01-2025": {
+            "price": "86,90",
+            "availability": 5
+        },
+        "07-01-2025": {
+            "price": "86,90",
+            "availability": 5
+        }
+    },
+    "AMD Ryzen 3 4300G": {
+        "link": "https:\/\/www.alza.sk\/amd-ryzen-3-4300g-d7463834.htm",
+        "name": "AMD Ryzen 3 4300G",
+        "04-01-2025": {
+            "price": "88,90",
+            "availability": 5
+        },
+        "05-01-2025": {
+            "price": "88,90",
+            "availability": 5
+        },
+        "06-01-2025": {
+            "price": "89,90",
+            "availability": 5
+        },
+        "07-01-2025": {
+            "price": "90,90",
+            "availability": 5
+        }
+    },
+    "Intel Core i3-12100F": {
+        "link": "https:\/\/www.alza.sk\/intel-core-i3-12100f-d6939808.htm",
+        "name": "Intel Core i3-12100F",
+        "04-01-2025": {
+            "price": "88,90",
+            "availability": 5
+        },
+        "05-01-2025": {
+            "price": "88,90",
+            "availability": 5
+        },
+        "06-01-2025": {
+            "price": "89,90",
+            "availability": 5
+        },
+        "07-01-2025": {
+            "price": "88,90",
+            "availability": 5
+        }
+    },
+    "Intel Core i3-14100F": {
+        "link": "https:\/\/www.alza.sk\/intel-core-i3-14100f-d8574513.htm",
+        "name": "Intel Core i3-14100F",
+        "04-01-2025": {
+            "price": "93,90",
+            "availability": 5
+        },
+        "05-01-2025": {
+            "price": "93,90",
+            "availability": 5
+        },
+        "06-01-2025": {
+            "price": "93,90",
+            "availability": 5
+        },
+        "07-01-2025": {
+            "price": "93,90",
+            "availability": 5
+        }
+    },
+    "AMD Ryzen 5 5500GT": {
+        "link": "https:\/\/www.alza.sk\/amd-ryzen-5-5500gt-d9667968.htm",
+        "name": "AMD Ryzen 5 5500GT",
+        "04-01-2025": {
+            "price": "117,90",
+            "availability": 5
+        },
+        "05-01-2025": {
+            "price": "117,90",
+            "availability": 5
+        },
+        "06-01-2025": {
+            "price": "117,90",
+            "availability": 5
+        },
+        "07-01-2025": {
+            "price": "117,90",
+            "availability": 5
+        }
+    },
+    "Intel Core i5-12400F": {
+        "link": "https:\/\/www.alza.sk\/intel-core-i5-12400f-d6939807.htm",
+        "name": "Intel Core i5-12400F",
+        "04-01-2025": {
+            "price": "120,90",
+            "availability": 5
+        },
+        "05-01-2025": {
+            "price": "120,90",
+            "availability": 5
+        },
+        "06-01-2025": {
+            "price": "120,90",
+            "availability": 5
+        },
+        "07-01-2025": {
+            "price": "120,90",
+            "availability": 5
+        }
+    },
+    "AMD Ryzen 5 5600": {
+        "link": "https:\/\/www.alza.sk\/amd-ryzen-5-5600-d7082021.htm",
+        "name": "AMD Ryzen 5 5600",
+        "04-01-2025": {
+            "price": "124,90",
+            "availability": 5
+        },
+        "05-01-2025": {
+            "price": "124,90",
+            "availability": 5
+        },
+        "06-01-2025": {
+            "price": "129,90",
+            "availability": 5
+        },
+        "07-01-2025": {
+            "price": "129,90",
+            "availability": 5
+        }
+    },
+    "Intel Core i3-12100": {
+        "link": "https:\/\/www.alza.sk\/intel-core-i3-12100-d6939806.htm",
+        "name": "Intel Core i3-12100",
+        "04-01-2025": {
+            "price": "125,90",
+            "availability": 5
+        },
+        "05-01-2025": {
+            "price": "125,90",
+            "availability": 5
+        },
+        "06-01-2025": {
+            "price": "128,90",
+            "availability": 3
+        },
+        "07-01-2025": {
+            "price": "125,90",
+            "availability": 2
+        }
+    },
+    "Intel Core i3-14100": {
+        "link": "https:\/\/www.alza.sk\/intel-core-i3-14100-d8574515.htm",
+        "name": "Intel Core i3-14100",
+        "04-01-2025": {
+            "price": "131,90",
+            "availability": 5
+        },
+        "05-01-2025": {
+            "price": "131,90",
+            "availability": 5
+        },
+        "06-01-2025": {
+            "price": "131,90",
+            "availability": 5
+        },
+        "07-01-2025": {
+            "price": "131,90",
+            "availability": 5
+        }
+    },
+    "AMD Ryzen 5 5600GT": {
+        "link": "https:\/\/www.alza.sk\/amd-ryzen-5-5600gt-d9667966.htm",
+        "name": "AMD Ryzen 5 5600GT",
+        "04-01-2025": {
+            "price": "136,90",
+            "availability": 5
+        },
+        "05-01-2025": {
+            "price": "136,90",
+            "availability": 5
+        },
+        "06-01-2025": {
+            "price": "136,90",
+            "availability": 5
+        },
+        "07-01-2025": {
+            "price": "137,90",
+            "availability": 5
+        }
+    },
+    "AMD Ryzen 5 5600G": {
+        "link": "https:\/\/www.alza.sk\/amd-ryzen-5-5600g-d6667494.htm",
+        "name": "AMD Ryzen 5 5600G",
+        "04-01-2025": {
+            "price": "136,90",
+            "availability": 5
+        },
+        "05-01-2025": {
+            "price": "136,90",
+            "availability": 5
+        },
+        "06-01-2025": {
+            "price": "136,90",
+            "availability": 5
+        },
+        "07-01-2025": {
+            "price": "137,90",
+            "availability": 5
+        }
+    },
+    "AMD Ryzen 5 8500G": {
+        "link": "https:\/\/www.alza.sk\/gaming\/amd-ryzen-5-8500g-d9667971.htm",
+        "name": "AMD Ryzen 5 8500G",
+        "04-01-2025": {
+            "price": "151,90",
+            "availability": 5
+        },
+        "05-01-2025": {
+            "price": "151,90",
+            "availability": 5
+        },
+        "06-01-2025": {
+            "price": "151,90",
+            "availability": 5
+        },
+        "07-01-2025": {
+            "price": "152,90",
+            "availability": 5
+        }
+    },
+    "Intel Core i5-14400F": {
+        "link": "https:\/\/www.alza.sk\/intel-core-i5-14400f-d8574514.htm",
+        "name": "Intel Core i5-14400F",
+        "04-01-2025": {
+            "price": "153,90",
+            "availability": 5
+        },
+        "05-01-2025": {
+            "price": "153,90",
+            "availability": 5
+        },
+        "06-01-2025": {
+            "price": "153,90",
+            "availability": 5
+        },
+        "07-01-2025": {
+            "price": "153,90",
+            "availability": 5
+        }
+    },
+    "Intel Core i5-13400F": {
+        "link": "https:\/\/www.alza.sk\/intel-core-i5-13400f-d7598454.htm",
+        "name": "Intel Core i5-13400F",
+        "04-01-2025": {
+            "price": "155,90",
+            "availability": 5
+        },
+        "05-01-2025": {
+            "price": "155,90",
+            "availability": 5
+        },
+        "06-01-2025": {
+            "price": "153,90",
+            "availability": 5
+        },
+        "07-01-2025": {
+            "price": "153,90",
+            "availability": 5
+        }
+    },
+    "AMD Ryzen 7 5800X": {
+        "link": "https:\/\/www.alza.sk\/amd-ryzen-7-5800x-d6205103.htm",
+        "name": "AMD Ryzen 7 5800X",
+        "04-01-2025": {
+            "price": "157,90",
+            "availability": 5
+        },
+        "05-01-2025": {
+            "price": "157,90",
+            "availability": 5
+        },
+        "06-01-2025": {
+            "price": "157,90",
+            "availability": 5
+        },
+        "07-01-2025": {
+            "price": "181,90",
+            "availability": 5
+        }
+    },
+    "AMD Ryzen 5 5600T": {
+        "link": "https:\/\/www.alza.sk\/amd-ryzen-5-5600t-d12737176.htm",
+        "name": "AMD Ryzen 5 5600T",
+        "04-01-2025": {
+            "price": "161,84",
+            "availability": 5
+        },
+        "05-01-2025": {
+            "price": "161,84",
+            "availability": 5
+        },
+        "06-01-2025": {
+            "price": "153,90",
+            "availability": 5
+        },
+        "07-01-2025": {
+            "price": "153,90",
+            "availability": 5
+        }
+    },
+    "Intel Core i5-12400": {
+        "link": "https:\/\/www.alza.sk\/intel-core-i5-12400-d6939805.htm",
+        "name": "Intel Core i5-12400",
+        "04-01-2025": {
+            "price": "163,90",
+            "availability": 5
+        },
+        "05-01-2025": {
+            "price": "166,90",
+            "availability": 5
+        },
+        "06-01-2025": {
+            "price": "163,90",
+            "availability": 5
+        },
+        "07-01-2025": {
+            "price": "163,90",
+            "availability": 5
+        }
+    },
+    "AMD Ryzen 5 8400F": {
+        "link": "https:\/\/www.alza.sk\/gaming\/amd-ryzen-5-8400f-d12359927.htm",
+        "name": "AMD Ryzen 5 8400F",
+        "04-01-2025": {
+            "price": "164,90",
+            "availability": 5
+        },
+        "05-01-2025": {
+            "price": "164,90",
+            "availability": 5
+        },
+        "06-01-2025": {
+            "price": "153,90",
+            "availability": 5
+        },
+        "07-01-2025": {
+            "price": "153,90",
+            "availability": 5
+        }
+    },
+    "AMD Ryzen 7 5700G": {
+        "link": "https:\/\/www.alza.sk\/amd-ryzen-7-5700g-d6667495.htm",
+        "name": "AMD Ryzen 7 5700G",
+        "04-01-2025": {
+            "price": "164,90",
+            "availability": 5
+        },
+        "05-01-2025": {
+            "price": "164,90",
+            "availability": 5
+        },
+        "06-01-2025": {
+            "price": "164,90",
+            "availability": 5
+        },
+        "07-01-2025": {
+            "price": "177,90",
+            "availability": 5
+        }
+    },
+    "Intel Core i5-14400": {
+        "link": "https:\/\/www.alza.sk\/intel-core-i5-14400-d8574510.htm",
+        "name": "Intel Core i5-14400",
+        "04-01-2025": {
+            "price": "173,90",
+            "availability": 5
+        },
+        "05-01-2025": {
+            "price": "173,90",
+            "availability": 5
+        },
+        "06-01-2025": {
+            "price": "177,90",
+            "availability": 5
+        },
+        "07-01-2025": {
+            "price": "177,90",
+            "availability": 5
+        }
+    },
+    "AMD Ryzen 7 5700X": {
+        "link": "https:\/\/www.alza.sk\/amd-ryzen-7-5700x-d7082020.htm",
+        "name": "AMD Ryzen 7 5700X",
+        "04-01-2025": {
+            "price": "176,90",
+            "availability": 5
+        },
+        "05-01-2025": {
+            "price": "176,90",
+            "availability": 5
+        },
+        "06-01-2025": {
+            "price": "176,90",
+            "availability": 5
+        },
+        "07-01-2025": {
+            "price": "177,90",
+            "availability": 5
+        }
+    },
+    "Intel Core i5-13400": {
+        "link": "https:\/\/www.alza.sk\/intel-core-i5-13400-d7598455.htm",
+        "name": "Intel Core i5-13400",
+        "04-01-2025": {
+            "price": "179,90",
+            "availability": 5
+        },
+        "05-01-2025": {
+            "price": "179,90",
+            "availability": 5
+        },
+        "06-01-2025": {
+            "price": "177,90",
+            "availability": 5
+        },
+        "07-01-2025": {
+            "price": "177,90",
+            "availability": 5
+        }
+    },
+    "Intel Core i5-12600K": {
+        "link": "https:\/\/www.alza.sk\/intel-core-i5-12600k-d6767572.htm",
+        "name": "Intel Core i5-12600K",
+        "04-01-2025": {
+            "price": "191,90",
+            "availability": 5
+        },
+        "05-01-2025": {
+            "price": "191,90",
+            "availability": 5
+        },
+        "06-01-2025": {
+            "price": "191,90",
+            "availability": 5
+        },
+        "07-01-2025": {
+            "price": "191,90",
+            "availability": 5
+        }
+    },
+    "AMD Ryzen 5 5600XT": {
+        "link": "https:\/\/www.alza.sk\/amd-ryzen-5-5600xt-d12737175.htm",
+        "name": "AMD Ryzen 5 5600XT",
+        "04-01-2025": {
+            "price": "193,63",
+            "availability": 5
+        },
+        "05-01-2025": {
+            "price": "193,90",
+            "availability": 5
+        },
+        "06-01-2025": {
+            "price": "173,90",
+            "availability": 5
+        },
+        "07-01-2025": {
+            "price": "173,90",
+            "availability": 5
+        }
+    },
+    "AMD Ryzen 5 7600": {
+        "link": "https:\/\/www.alza.sk\/amd-ryzen-5-7600-d7612605.htm",
+        "name": "AMD Ryzen 5 7600",
+        "04-01-2025": {
+            "price": "209,90",
+            "availability": 5
+        },
+        "05-01-2025": {
+            "price": "209,90",
+            "availability": 5
+        },
+        "06-01-2025": {
+            "price": "213,90",
+            "availability": 5
+        },
+        "07-01-2025": {
+            "price": "213,90",
+            "availability": 5
+        }
+    },
+    "Intel Core i7-12700KF": {
+        "link": "https:\/\/www.alza.sk\/intel-core-i7-12700kf-d6767571.htm",
+        "name": "Intel Core i7-12700KF",
+        "04-01-2025": {
+            "price": "213,90",
+            "availability": 5
+        },
+        "05-01-2025": {
+            "price": "213,90",
+            "availability": 5
+        },
+        "06-01-2025": {
+            "price": "213,90",
+            "availability": 5
+        },
+        "07-01-2025": {
+            "price": "213,90",
+            "availability": 5
+        }
+    },
+    "AMD Ryzen 5 7600X": {
+        "link": "https:\/\/www.alza.sk\/amd-ryzen-5-7600x-d7435938.htm",
+        "name": "AMD Ryzen 5 7600X",
+        "04-01-2025": {
+            "price": "229,90",
+            "availability": 5
+        },
+        "05-01-2025": {
+            "price": "229,90",
+            "availability": 5
+        },
+        "06-01-2025": {
+            "price": "234,90",
+            "availability": 5
+        },
+        "07-01-2025": {
+            "price": "234,90",
+            "availability": 5
+        }
+    },
+    "Intel Core i5-14600KF": {
+        "link": "https:\/\/www.alza.sk\/intel-core-i5-14600kf-d7950858.htm",
+        "name": "Intel Core i5-14600KF",
+        "04-01-2025": {
+            "price": "230,90",
+            "availability": 5
+        },
+        "05-01-2025": {
+            "price": "230,90",
+            "availability": 5
+        },
+        "06-01-2025": {
+            "price": "242,90",
+            "availability": 5
+        },
+        "07-01-2025": {
+            "price": "242,90",
+            "availability": 5
+        }
+    },
+    "AMD Ryzen 7 5700X3D": {
+        "link": "https:\/\/www.alza.sk\/amd-ryzen-7-5700x3d-d9667969.htm",
+        "name": "AMD Ryzen 7 5700X3D",
+        "04-01-2025": {
+            "price": "233,90",
+            "availability": 5
+        },
+        "05-01-2025": {
+            "price": "233,90",
+            "availability": 5
+        },
+        "06-01-2025": {
+            "price": "250,90",
+            "availability": 5
+        },
+        "07-01-2025": {
+            "price": "262,90",
+            "availability": 5
+        }
+    },
+    "AMD Ryzen 9 5900X": {
+        "link": "https:\/\/www.alza.sk\/amd-ryzen-9-5900x-d6215746.htm",
+        "name": "AMD Ryzen 9 5900X",
+        "04-01-2025": {
+            "price": "233,90",
+            "availability": 5
+        },
+        "05-01-2025": {
+            "price": "233,90",
+            "availability": 5
+        },
+        "06-01-2025": {
+            "price": "233,90",
+            "availability": 5
+        },
+        "07-01-2025": {
+            "price": "262,90",
+            "availability": 5
+        }
+    },
+    "Intel Core i5-14600K": {
+        "link": "https:\/\/www.alza.sk\/intel-core-i5-14600k-d7950856.htm",
+        "name": "Intel Core i5-14600K",
+        "04-01-2025": {
+            "price": "269,90",
+            "availability": 5
+        },
+        "05-01-2025": {
+            "price": "269,90",
+            "availability": 5
+        },
+        "06-01-2025": {
+            "price": "269,90",
+            "availability": 5
+        },
+        "07-01-2025": {
+            "price": "269,90",
+            "availability": 5
+        }
+    },
+    "AMD Ryzen 7 5800XT": {
+        "link": "https:\/\/www.alza.sk\/amd-ryzen-7-5800xt-d12458378.htm",
+        "name": "AMD Ryzen 7 5800XT",
+        "04-01-2025": {
+            "price": "280,90",
+            "availability": 5
+        },
+        "05-01-2025": {
+            "price": "280,90",
+            "availability": 5
+        },
+        "06-01-2025": {
+            "price": "238,90",
+            "availability": 5
+        },
+        "07-01-2025": {
+            "price": "238,90",
+            "availability": 5
+        }
+    },
+    "AMD Ryzen 5 9600X": {
+        "link": "https:\/\/www.alza.sk\/amd-ryzen-5-9600x-d12482042.htm",
+        "name": "AMD Ryzen 5 9600X",
+        "04-01-2025": {
+            "price": "281,90",
+            "availability": 5
+        },
+        "05-01-2025": {
+            "price": "281,90",
+            "availability": 5
+        },
+        "06-01-2025": {
+            "price": "281,90",
+            "availability": 5
+        },
+        "07-01-2025": {
+            "price": "282,90",
+            "availability": 5
+        }
+    },
+    "AMD Ryzen 7 7700": {
+        "link": "https:\/\/www.alza.sk\/amd-ryzen-7-7700-d7612606.htm",
+        "name": "AMD Ryzen 7 7700",
+        "04-01-2025": {
+            "price": "318,90",
+            "availability": 5
+        },
+        "05-01-2025": {
+            "price": "318,90",
+            "availability": 5
+        },
+        "06-01-2025": {
+            "price": "318,90",
+            "availability": 5
+        },
+        "07-01-2025": {
+            "price": "318,90",
+            "availability": 5
+        }
+    },
+    "AMD Ryzen 7 7700X": {
+        "link": "https:\/\/www.alza.sk\/amd-ryzen-7-7700x-d7435939.htm",
+        "name": "AMD Ryzen 7 7700X",
+        "04-01-2025": {
+            "price": "330,90",
+            "availability": 5
+        },
+        "05-01-2025": {
+            "price": "330,90",
+            "availability": 5
+        },
+        "06-01-2025": {
+            "price": "330,90",
+            "availability": 5
+        },
+        "07-01-2025": {
+            "price": "331,90",
+            "availability": 5
+        }
+    },
+    "AMD Ryzen 9 5950X": {
+        "link": "https:\/\/www.alza.sk\/amd-ryzen-9-5950x-d6205104.htm",
+        "name": "AMD Ryzen 9 5950X",
+        "04-01-2025": {
+            "price": "330,90",
+            "availability": 1512025
+        },
+        "05-01-2025": {
+            "price": "330,90",
+            "availability": 1512025
+        },
+        "06-01-2025": {
+            "price": "330,90",
+            "availability": 1712025
+        }
+    },
+    "Intel Core Ultra 5 245KF": {
+        "link": "https:\/\/www.alza.sk\/intel-core-ultra-5-245kf-d12601691.htm",
+        "name": "Intel Core Ultra 5 245KF",
+        "04-01-2025": {
+            "price": "340,90",
+            "availability": 5
+        },
+        "05-01-2025": {
+            "price": "340,90",
+            "availability": 5
+        },
+        "06-01-2025": {
+            "price": "340,90",
+            "availability": 5
+        },
+        "07-01-2025": {
+            "price": "340,90",
+            "availability": 5
+        }
+    },
+    "Intel Core Ultra 5 245K": {
+        "link": "https:\/\/www.alza.sk\/intel-core-ultra-5-245k-d12601689.htm",
+        "name": "Intel Core Ultra 5 245K",
+        "04-01-2025": {
+            "price": "360,90",
+            "availability": 5
+        },
+        "05-01-2025": {
+            "price": "360,90",
+            "availability": 5
+        },
+        "06-01-2025": {
+            "price": "360,90",
+            "availability": 5
+        },
+        "07-01-2025": {
+            "price": "360,90",
+            "availability": 5
+        }
+    },
+    "AMD Ryzen 7 9700X": {
+        "link": "https:\/\/www.alza.sk\/amd-ryzen-7-9700x-d12482041.htm",
+        "name": "AMD Ryzen 7 9700X",
+        "04-01-2025": {
+            "price": "374,90",
+            "availability": 5
+        },
+        "05-01-2025": {
+            "price": "374,90",
+            "availability": 5
+        },
+        "06-01-2025": {
+            "price": "394,90",
+            "availability": 5
+        },
+        "07-01-2025": {
+            "price": "403,90",
+            "availability": 5
+        }
+    },
+    "AMD Ryzen 9 7900": {
+        "link": "https:\/\/www.alza.sk\/amd-ryzen-9-7900-d7612607.htm",
+        "name": "AMD Ryzen 9 7900",
+        "04-01-2025": {
+            "price": "378,90",
+            "availability": 5
+        },
+        "05-01-2025": {
+            "price": "378,90",
+            "availability": 5
+        },
+        "06-01-2025": {
+            "price": "378,90",
+            "availability": 5
+        },
+        "07-01-2025": {
+            "price": "379,90",
+            "availability": 5
+        }
+    },
+    "Intel Core i7-14700KF": {
+        "link": "https:\/\/www.alza.sk\/intel-core-i7-14700kf-d7950855.htm",
+        "name": "Intel Core i7-14700KF",
+        "04-01-2025": {
+            "price": "386,90",
+            "availability": 5
+        },
+        "05-01-2025": {
+            "price": "386,90",
+            "availability": 5
+        },
+        "06-01-2025": {
+            "price": "386,90",
+            "availability": 5
+        },
+        "07-01-2025": {
+            "price": "386,90",
+            "availability": 1812025
+        }
+    },
+    "AMD Ryzen 9 7900X": {
+        "link": "https:\/\/www.alza.sk\/amd-ryzen-9-7900x-d7435935.htm",
+        "name": "AMD Ryzen 9 7900X",
+        "04-01-2025": {
+            "price": "390,90",
+            "availability": 5
+        },
+        "05-01-2025": {
+            "price": "390,90",
+            "availability": 5
+        },
+        "06-01-2025": {
+            "price": "395,90",
+            "availability": 5
+        },
+        "07-01-2025": {
+            "price": "395,90",
+            "availability": 5
+        }
+    },
+    "AMD Ryzen 9 5900XT": {
+        "link": "https:\/\/www.alza.sk\/amd-ryzen-9-5900xt-d12458377.htm",
+        "name": "AMD Ryzen 9 5900XT",
+        "04-01-2025": {
+            "price": "401,90",
+            "availability": 5
+        },
+        "05-01-2025": {
+            "price": "401,90",
+            "availability": 5
+        },
+        "06-01-2025": {
+            "price": "395,90",
+            "availability": 5
+        },
+        "07-01-2025": {
+            "price": "395,90",
+            "availability": 5
+        }
+    },
+    "Intel Core i7-14700K": {
+        "link": "https:\/\/www.alza.sk\/intel-core-i7-14700k-d7950854.htm",
+        "name": "Intel Core i7-14700K",
+        "04-01-2025": {
+            "price": "421,90",
+            "availability": 5
+        },
+        "05-01-2025": {
+            "price": "421,90",
+            "availability": 5
+        },
+        "06-01-2025": {
+            "price": "421,90",
+            "availability": 5
+        },
+        "07-01-2025": {
+            "price": "421,90",
+            "availability": 5
+        }
+    },
+    "Intel Core Ultra 7 265KF": {
+        "link": "https:\/\/www.alza.sk\/intel-core-ultra-7-265kf-d12601690.htm",
+        "name": "Intel Core Ultra 7 265KF",
+        "04-01-2025": {
+            "price": "453,90",
+            "availability": 5
+        },
+        "05-01-2025": {
+            "price": "453,90",
+            "availability": 5
+        },
+        "06-01-2025": {
+            "price": "453,90",
+            "availability": 5
+        },
+        "07-01-2025": {
+            "price": "453,90",
+            "availability": 5
+        }
+    },
+    "Intel Core Ultra 7 265K": {
+        "link": "https:\/\/www.alza.sk\/intel-core-ultra-7-265k-d12601693.htm",
+        "name": "Intel Core Ultra 7 265K",
+        "04-01-2025": {
+            "price": "468,90",
+            "availability": 5
+        },
+        "05-01-2025": {
+            "price": "468,90",
+            "availability": 5
+        },
+        "06-01-2025": {
+            "price": "468,90",
+            "availability": 5
+        },
+        "07-01-2025": {
+            "price": "468,90",
+            "availability": 5
+        }
+    },
+    "AMD Ryzen 9 9900X": {
+        "link": "https:\/\/www.alza.sk\/amd-ryzen-9-9900x-d12482040.htm",
+        "name": "AMD Ryzen 9 9900X",
+        "04-01-2025": {
+            "price": "483,90",
+            "availability": 5
+        },
+        "05-01-2025": {
+            "price": "483,90",
+            "availability": 5
+        },
+        "06-01-2025": {
+            "price": "483,90",
+            "availability": 5
+        },
+        "07-01-2025": {
+            "price": "484,90",
+            "availability": 5
+        }
+    },
+    "Intel Core i9-14900KF": {
+        "link": "https:\/\/www.alza.sk\/intel-core-i9-14900kf-d7950853.htm",
+        "name": "Intel Core i9-14900KF",
+        "04-01-2025": {
+            "price": "501,90",
+            "availability": 5
+        },
+        "05-01-2025": {
+            "price": "501,90",
+            "availability": 5
+        },
+        "06-01-2025": {
+            "price": "501,90",
+            "availability": 5
+        },
+        "07-01-2025": {
+            "price": "501,90",
+            "availability": 5
+        }
+    },
+    "Intel Core i9-14900K": {
+        "link": "https:\/\/www.alza.sk\/intel-core-i9-14900k-d7950857.htm",
+        "name": "Intel Core i9-14900K",
+        "04-01-2025": {
+            "price": "522,90",
+            "availability": 5
+        },
+        "05-01-2025": {
+            "price": "522,90",
+            "availability": 5
+        },
+        "06-01-2025": {
+            "price": "522,90",
+            "availability": 5
+        },
+        "07-01-2025": {
+            "price": "522,90",
+            "availability": 5
+        }
+    },
+    "AMD Ryzen 7 7800X3D": {
+        "link": "https:\/\/www.alza.sk\/amd-ryzen-7-7800x3d-d7665224.htm",
+        "name": "AMD Ryzen 7 7800X3D",
+        "04-01-2025": {
+            "price": "532,90",
+            "availability": 5
+        },
+        "05-01-2025": {
+            "price": "532,90",
+            "availability": 5
+        },
+        "06-01-2025": {
+            "price": "529,90",
+            "availability": 5
+        },
+        "07-01-2025": {
+            "price": "528,90",
+            "availability": 5
+        }
+    },
+    "AMD Ryzen 9 7950X": {
+        "link": "https:\/\/www.alza.sk\/amd-ryzen-9-7950x-d7435937.htm",
+        "name": "AMD Ryzen 9 7950X",
+        "04-01-2025": {
+            "price": "547,90",
+            "availability": 5
+        },
+        "05-01-2025": {
+            "price": "547,90",
+            "availability": 5
+        },
+        "06-01-2025": {
+            "price": "547,90",
+            "availability": 5
+        },
+        "07-01-2025": {
+            "price": "549,90",
+            "availability": 5
+        }
+    },
+    "AMD Ryzen 7 9800X3D": {
+        "link": "https:\/\/www.alza.sk\/amd-ryzen-7-9800x3d-d12671823.htm",
+        "name": "AMD Ryzen 7 9800X3D",
+        "04-01-2025": {
+            "price": "607,72",
+            "availability": 0
+        },
+        "05-01-2025": {
+            "price": "607,90",
+            "availability": 0
+        },
+        "06-01-2025": {
+            "price": "607,90",
+            "availability": 0
+        },
+        "07-01-2025": {
+            "price": "604,90",
+            "availability": 0
+        }
+    },
+    "Intel Core Ultra 9 285K": {
+        "link": "https:\/\/www.alza.sk\/intel-core-ultra-9-285k-d12601692.htm",
+        "name": "Intel Core Ultra 9 285K",
+        "04-01-2025": {
+            "price": "701,90",
+            "availability": 0
+        },
+        "05-01-2025": {
+            "price": "701,90",
+            "availability": 0
+        },
+        "06-01-2025": {
+            "price": "701,90",
+            "availability": 0
+        },
+        "07-01-2025": {
+            "price": "701,90",
+            "availability": 3
+        }
+    },
+    "AMD Ryzen 9 9950X": {
+        "link": "https:\/\/www.alza.sk\/amd-ryzen-9-9950x-d12482043.htm",
+        "name": "AMD Ryzen 9 9950X",
+        "04-01-2025": {
+            "price": "704,90",
+            "availability": 5
+        },
+        "05-01-2025": {
+            "price": "704,90",
+            "availability": 5
+        },
+        "06-01-2025": {
+            "price": "704,90",
+            "availability": 5
+        },
+        "07-01-2025": {
+            "price": "709,90",
+            "availability": 5
+        }
+    },
+    "AMD Ryzen 9 7950X3D": {
+        "link": "https:\/\/www.alza.sk\/amd-ryzen-9-7950x3d-d7665222.htm",
+        "name": "AMD Ryzen 9 7950X3D",
+        "04-01-2025": {
+            "price": "716,90",
+            "availability": 5
+        },
+        "05-01-2025": {
+            "price": "716,90",
+            "availability": 5
+        },
+        "06-01-2025": {
+            "price": "729,90",
+            "availability": 5
+        },
+        "07-01-2025": {
+            "price": "767,90",
+            "availability": 5
+        }
+    },
+    "AMD Ryzen Threadripper 7960X": {
+        "link": "https:\/\/www.alza.sk\/amd-ryzen-threadripper-7960x-d12496753.htm",
+        "name": "AMD Ryzen Threadripper 7960X",
+        "04-01-2025": {
+            "price": "1749",
+            "availability": 1
+        },
+        "05-01-2025": {
+            "price": "1749",
+            "availability": 1
+        },
+        "06-01-2025": {
+            "price": "1459",
+            "availability": 1
+        },
+        "07-01-2025": {
+            "price": "1459",
+            "availability": 0
+        }
+    },
+    "AMD Ryzen Threadripper 7970X": {
+        "link": "https:\/\/www.alza.sk\/amd-ryzen-threadripper-7970x-d12496751.htm",
+        "name": "AMD Ryzen Threadripper 7970X",
+        "04-01-2025": {
+            "price": "2959",
+            "availability": 1
+        },
+        "05-01-2025": {
+            "price": "2959",
+            "availability": 1
+        },
+        "06-01-2025": {
+            "price": "2549",
+            "availability": 1
+        },
+        "07-01-2025": {
+            "price": "2549",
+            "availability": 1
+        }
+    },
+    "AMD Ryzen Threadripper PRO 7965WX": {
+        "link": "https:\/\/www.alza.sk\/amd-ryzen-threadripper-pro-7965wx-d8421270.htm",
+        "name": "AMD Ryzen Threadripper PRO 7965WX",
+        "04-01-2025": {
+            "price": "3079",
+            "availability": 1
+        },
+        "05-01-2025": {
+            "price": "3079",
+            "availability": 1
+        },
+        "06-01-2025": {
+            "price": "3079",
+            "availability": 1
+        },
+        "07-01-2025": {
+            "price": "3079",
+            "availability": 1
+        }
+    },
+    "AMD Ryzen Threadripper PRO 7975WX": {
+        "link": "https:\/\/www.alza.sk\/amd-ryzen-threadripper-pro-7975wx-d8421269.htm",
+        "name": "AMD Ryzen Threadripper PRO 7975WX",
+        "04-01-2025": {
+            "price": "4579",
+            "availability": 0
+        },
+        "05-01-2025": {
+            "price": "4579",
+            "availability": 0
+        },
+        "06-01-2025": {
+            "price": "4579",
+            "availability": 0
+        },
+        "07-01-2025": {
+            "price": "4589",
+            "availability": 0
+        }
+    },
+    "AMD Ryzen Threadripper 7980X": {
+        "link": "https:\/\/www.alza.sk\/amd-ryzen-threadripper-7980x-d12496752.htm",
+        "name": "AMD Ryzen Threadripper 7980X",
+        "04-01-2025": {
+            "price": "5919",
+            "availability": 0
+        },
+        "05-01-2025": {
+            "price": "5919",
+            "availability": 0
+        },
+        "06-01-2025": {
+            "price": "5339",
+            "availability": 0
+        },
+        "07-01-2025": {
+            "price": "5339",
+            "availability": 0
+        }
+    },
+    "AMD Ryzen Threadripper PRO 7985WX": {
+        "link": "https:\/\/www.alza.sk\/amd-ryzen-threadripper-pro-7985wx-d8421268.htm",
+        "name": "AMD Ryzen Threadripper PRO 7985WX",
+        "04-01-2025": {
+            "price": "8769",
+            "availability": 0
+        },
+        "05-01-2025": {
+            "price": "8769",
+            "availability": 0
+        },
+        "06-01-2025": {
+            "price": "8769",
+            "availability": 0
+        },
+        "07-01-2025": {
+            "price": "8779",
+            "availability": 0
+        }
+    },
+    "AMD Ryzen Threadripper PRO 7995WX": {
+        "link": "https:\/\/www.alza.sk\/amd-ryzen-threadripper-pro-7995wx-d8421271.htm",
+        "name": "AMD Ryzen Threadripper PRO 7995WX",
+        "04-01-2025": {
+            "price": "12099",
+            "availability": 0
+        },
+        "05-01-2025": {
+            "price": "12099",
+            "availability": 0
+        },
+        "06-01-2025": {
+            "price": "12099",
+            "availability": 0
+        },
+        "07-01-2025": {
+            "price": "12109",
+            "availability": 0
+        }
+    },
+    "AMD Ryzen 5 5600X": {
+        "link": "https:\/\/www.alza.sk\/amd-ryzen-5-5600x-d6205102.htm",
+        "name": "AMD Ryzen 5 5600X",
+        "06-01-2025": {
+            "price": "133,90",
+            "availability": 5
+        },
+        "07-01-2025": {
+            "price": "137,90",
+            "availability": 5
+        }
+    },
+    "Intel Core i9-12900K": {
+        "link": "https:\/\/www.alza.sk\/intel-core-i9-12900k-d6767573.htm",
+        "name": "Intel Core i9-12900K",
+        "07-01-2025": {
+            "price": "363,90",
+            "availability": 1
+        }
+    }
+}

@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alza Price Trends</title>
+    <link href="https://bootswatch.com/5/lux/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Chart.js -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+    <style>
+        body {
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        .form-group label {
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+    <h1 class="text-center my-4">Alza Price Trend Visualization</h1>
+
+    <!-- Filter Form -->
+    <div class="row">
+        <div class="col-md-4">
+            <div class="form-group">
+                <label for="nameFilter">Name ("geforce", "radeon", "ryzen"):</label>
+                <input type="text" class="form-control" id="nameFilter" placeholder="geforce, radeon, ryzen, intel">
+            </div>
+        </div>
+
+        <div class="col-md-4">
+            <div class="form-group">
+                <label for="minPrice">Min Price:</label>
+                <input type="number" class="form-control" id="minPrice" value="0" placeholder="200">
+            </div>
+        </div>
+
+        <div class="col-md-4">
+            <div class="form-group">
+                <label for="maxPrice">Max Price:</label>
+                <input type="number" class="form-control" id="maxPrice" value="2500" placeholder="2500">
+            </div>
+        </div>
+    </div>
+
+    <div class="row text-center p-3">
+        <div class="col-md-12">
+            <div class="btn-group" role="group" aria-label="Basic radio toggle button group">
+                <input type="radio" class="btn-check" name="radios" id="gpuradio1" autocomplete="off" checked="">
+                <label class="btn btn-outline-primary" for="gpuradio1">Show GPU</label>
+                <input type="radio" class="btn-check" name="radios" id="cpuradio2" autocomplete="off" checked="">
+                <label class="btn btn-outline-primary" for="cpuradio2">Show CPU</label>
+            </div>
+        </div>
+    </div>
+
+    <div class="row text-center p-3">
+        <div class="col-md-12">
+            <div class="btn-group" role="group" aria-label="Basic radio toggle button group">
+                <input type="radio" class="btn-check" name="storeradios" id="alzaradio1" autocomplete="off" checked="">
+                <label class="btn btn-outline-primary" for="alzaradio1">Alza.sk</label>
+                <input type="radio" class="btn-check" name="storeradios" id="dcradio2" autocomplete="off" checked="">
+                <label class="btn btn-outline-primary" for="dcradio2">Datacomp.sk</label>
+            </div>
+        </div>
+    </div>
+
+    <div class="text-center">
+        <button class="btn btn-primary mt-2" onclick="updateGraph()">Update Graph</button>
+    </div>
+
+    <br>
+
+    <!-- Graph Canvas -->
+    <div class="row justify-content-center">
+        <div class="col-md-12">
+            <canvas id="priceChart" width="1200" height="800"></canvas>
+        </div>
+    </div>
+</div>
+
+<script>
+    // Example data (replace this with your actual JSON data)
+    let chart = null;
+
+    // Function to filter the data based on user input
+    function filterData(data) {
+        const nameFilter = document.getElementById("nameFilter").value.toLowerCase().split(",");
+        const minPrice = parseFloat(document.getElementById("minPrice").value);
+        const maxPrice = parseFloat(document.getElementById("maxPrice").value);
+
+        const filteredData = [];
+
+        // Iterate over each GPU data
+        for (const gpuName in data) {
+            if (nameFilter.some(filter => gpuName.toLowerCase().includes(filter.trim()))) {
+                const gpuDetails = data[gpuName];
+                for (const date in gpuDetails) {
+                    if (date !== "link" && date !== "name") {
+                        const price = parseFloat(gpuDetails[date].price.replace(",", "."));
+                        if (price >= minPrice && price <= maxPrice) {
+                            filteredData.push({
+                                GPU: gpuName,
+                                Date: date,
+                                Price: price
+                            });
+                        }
+                    }
+                }
+            }
+        }
+        return filteredData;
+    }
+
+    // Function to update the graph with filtered data
+    async function updateGraph() {
+        const gpuRadio = document.getElementById("gpuradio1").checked;
+        const cpuRadio = document.getElementById("cpuradio2").checked;
+
+        const alzaRadio = document.getElementById("alzaradio1").checked;
+        const dcRadio = document.getElementById("dcradio2").checked;
+
+        let data = [];
+        let store = "";
+
+        if (cpuRadio) {
+            if (alzaRadio) {
+                store = "cpus";
+            } else if (dcRadio) {
+                store = "cpus-datacomp";
+            }
+            data = await fetch(`./${store}.json`).then(response => response.json());
+        } else if (gpuRadio) {
+            if (alzaRadio) {
+                store = "gpus";
+            } else if (dcRadio) {
+                store = "gpus-datacomp";
+            }
+            data = await fetch(`./${store}.json`).then(response => response.json());
+        }
+
+        const filteredData = filterData(data);
+        if (filteredData.length === 0) {
+            alert("No data matching the filters.");
+            return;
+        }
+
+        if (chart) {
+            chart.destroy();
+        }
+
+        const labels = [];
+        const datasets = [];
+        const gpuNames = [...new Set(filteredData.map(item => item.GPU))];
+
+        gpuNames.forEach(gpuName => {
+            const gpuData = filteredData.filter(item => item.GPU === gpuName);
+            const prices = gpuData.map(item => item.Price);
+            const dates = gpuData.map(item => item.Date);
+
+            datasets.push({
+                label: gpuName,
+                data: prices,
+                borderColor: getRandomColor(),
+                fill: false,
+                tension: 0.1
+            });
+
+            if (labels.length === 0) {
+                labels.push(...dates);
+            }
+        });
+
+        const ctx = document.getElementById("priceChart").getContext("2d");
+        chart = new Chart(ctx, {
+            type: 'line',
+            data: {
+                labels: labels,
+                datasets: datasets
+            },
+            options: {
+                responsive: true,
+                plugins: {
+                    title: {
+                        display: true,
+                        text: 'Alza Price Trends'
+                    },
+                    tooltip: {
+                        mode: 'index',
+                        intersect: false
+                    }
+                },
+                scales: {
+                    x: {
+                        title: {
+                            display: true,
+                            text: 'Date'
+                        }
+                    },
+                    y: {
+                        title: {
+                            display: true,
+                            text: 'Price (€)'
+                        }
+                    }
+                }
+            }
+        });
+    }
+
+    // Utility function to generate random color for each line in the graph
+    function getRandomColor() {
+        const letters = '0123456789ABCDEF';
+        let color = '#';
+        for (let i = 0; i < 6; i++) {
+            color += letters[Math.floor(Math.random() * 16)];
+        }
+        return color;
+    }
+
+</script>
+</body>
+</html>

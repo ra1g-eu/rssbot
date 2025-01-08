@@ -32,8 +32,11 @@
     <div class="row">
         <div class="col-md-4">
             <div class="form-group">
-                <label for="nameFilter">Name ("geforce", "radeon", "ryzen"):</label>
-                <input type="text" class="form-control" id="nameFilter" placeholder="geforce, radeon, ryzen, intel">
+                <form id="productForm" name="productForm" onsubmit="return false">
+                    <label for="nameFilter">Name ("geforce", "radeon", "ryzen"):</label>
+                    <input type="text" class="form-control" id="nameFilter" placeholder="rtx, rx 7900, ryzen, intel"
+                           name="nameFilter" autocomplete="on">
+                </form>
             </div>
         </div>
 
@@ -66,7 +69,8 @@
     <div class="row text-center p-3">
         <div class="col-md-12">
             <div class="btn-group" role="group" aria-label="Basic radio toggle button group">
-                <input type="radio" class="btn-check" name="storeradios" id="alzaradio1" autocomplete="off" checked="checked">
+                <input type="radio" class="btn-check" name="storeradios" id="alzaradio1" autocomplete="off"
+                       checked="checked">
                 <label class="btn btn-outline-primary" for="alzaradio1">Alza.sk</label>
                 <input type="radio" class="btn-check" name="storeradios" id="dcradio2" autocomplete="off">
                 <label class="btn btn-outline-primary" for="dcradio2">Datacomp.sk</label>
@@ -75,7 +79,7 @@
     </div>
 
     <div class="text-center">
-        <button class="btn btn-success mt-2" onclick="updateGraph()">Update Graph</button>
+        <button class="btn btn-success mt-2" onclick="updateGraph()" form="productForm">Update Graph</button>
     </div>
 
     <br>

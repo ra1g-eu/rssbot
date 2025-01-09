@@ -122,6 +122,21 @@ class Scraper
                 )
             );
 
+            $imageNode = $xpath->query(".//img[contains(@class, 'js-box-image')]", $productNode)?->item(0);
+            $productImage = null;
+            if ($imageNode) {
+                $srcset = $imageNode->getAttribute('srcset') ?? '';
+                $srcsetUrls = array_map('trim', explode(',', $srcset));
+                $firstUrl = $srcsetUrls[0] ?? null;
+                if ($firstUrl) {
+                    $productImage = explode(' ', $firstUrl)[0]; // Get the URL before any width specifier
+                }
+            }
+
+            if (isset($savedJson[$name])) {
+                $savedJson[$name]["image"] = $productImage;
+            }
+
             if (isset($savedJson[$name][$currentDateAndHour])) {
                 continue;
             }
@@ -135,6 +150,7 @@ class Scraper
                 $savedJson[$name] = [
                     "link" => "https://www.alza.sk" . $link,
                     "name" => $name,
+                    "image" => $productImage,
                     $currentDateAndHour => [
                         "price" => $price,
                         "availability" => $availability,
@@ -365,6 +381,17 @@ class DatacompScraper extends Scraper
                 )
             );
 
+            $imageNode = $xpath->query("//a[@data-link='product']//img")?->item(0);
+
+            $productImage = null;
+            if ($imageNode) {
+                $productImage = $imageNode->getAttribute('src') ?? null;
+            }
+
+            if (isset($savedJson[$name])) {
+                $savedJson[$name]["image"] = $productImage;
+            }
+
             if (isset($savedJson[$name][$currentDateAndHour])) {
                 continue;
             }
@@ -378,6 +405,7 @@ class DatacompScraper extends Scraper
                 $savedJson[$name] = [
                     "link" => "https://www.datacomp.sk" . $link,
                     "name" => $name,
+                    "image" => $productImage,
                     $currentDateAndHour => [
                         "price" => $price,
                         "availability" => $availability,

@@ -10,50 +10,44 @@
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 
     <style>
-        body {
-            padding: 20px;
-        }
-
-        .container {
-            max-width: 1200px;
-            margin: 0 auto;
-        }
-
         .form-group label {
             font-weight: bold;
         }
     </style>
 </head>
 <body>
-<div class="container">
+<div class="container-xxl" style="max-width: 1700px;">
     <h1 class="text-center my-4">Price Trend Visualization</h1>
 
-    <!-- Filter Form -->
-    <div class="row">
-        <div class="col-md-4">
-            <div class="form-group">
-                <form id="productForm" name="productForm" onsubmit="return false">
-                    <label for="nameFilter">Name ("geforce", "radeon", "ryzen"):</label>
-                    <input type="text" class="form-control" id="nameFilter" placeholder="rtx, rx 7900, ryzen, intel"
-                           name="nameFilter" autocomplete="on">
-                </form>
+    <form id="productForm" name="productForm" onsubmit="return false">
+        <div class="row">
+            <div class="col-md-4">
+                <label for="nameFilter" class="form-label mb-0">Name ("geforce", "radeon", "ryzen"):</label>
+                <div class="input-group">
+                    <input type="text" class="form-control" id="nameFilter"
+                           placeholder="4070 super, msi -> shows only 4070 super from MSi"
+                           name="nameFilter" autocomplete="on" aria-describedby="button-clear1">
+                    <button class="btn btn-outline-danger" type="button" id="button-clear1"
+                            onclick="clearInput('nameFilter')">X
+                    </button>
+                </div>
             </div>
-        </div>
 
-        <div class="col-md-4">
-            <div class="form-group">
-                <label for="minPrice">Min Price:</label>
-                <input type="number" class="form-control" id="minPrice" value="0" placeholder="200">
+            <div class="col-md-4">
+                <div class="form-group">
+                    <label for="minPrice">Min Price:</label>
+                    <select class="form-control" id="minPrice"></select>
+                </div>
             </div>
-        </div>
 
-        <div class="col-md-4">
-            <div class="form-group">
-                <label for="maxPrice">Max Price:</label>
-                <input type="number" class="form-control" id="maxPrice" value="2500" placeholder="2500">
+            <div class="col-md-4">
+                <div class="form-group">
+                    <label for="maxPrice">Max Price:</label>
+                    <select class="form-control" id="maxPrice"></select>
+                </div>
             </div>
         </div>
-    </div>
+    </form>
 
     <div class="row text-center p-3">
         <div class="col-md-12">
@@ -82,195 +76,29 @@
         <button class="btn btn-success mt-2" onclick="updateGraph()" form="productForm">Update Graph</button>
     </div>
 
-    <br>
+    <div class="row" id="productCardsContainer"></div>
 
     <!-- Graph Canvas -->
     <div class="row justify-content-center">
-        <div class="col-md-12">
-            <canvas id="priceChart" width="1200" height="800"></canvas>
+        <div class="col-12 col-md-12 col-lg-12">
+            <div style="position: relative; height: 60vh; width: 100%; overflow-x: auto;">
+                <canvas id="priceChart"></canvas>
+            </div>
         </div>
     </div>
 </div>
 
 <script>
-    // Example data (replace this with your actual JSON data)
     let chart = null;
+    let selectedProducts = new Set(); // To track selected products
+    let allProductData = {}; // Store all product data for easy access
 
-    // Function to filter the data based on user input
-    function filterData(data) {
-        const nameFilter = document.getElementById("nameFilter").value.toLowerCase().split(",");
-        const minPrice = parseFloat(document.getElementById("minPrice").value);
-        const maxPrice = parseFloat(document.getElementById("maxPrice").value);
-
-        const filteredData = [];
-
-        // Iterate over each GPU data
-        for (const gpuName in data) {
-            if (nameFilter.some(filter => gpuName.toLowerCase().includes(filter.trim()))) {
-                const gpuDetails = data[gpuName];
-                for (const date in gpuDetails) {
-                    if (date !== "link" && date !== "name") {
-                        const price = parseFloat(gpuDetails[date].price.replace(",", "."));
-                        if (price >= minPrice && price <= maxPrice) {
-                            filteredData.push({
-                                GPU: gpuName,
-                                Date: date,
-                                Price: price
-                            });
-                        }
-                    }
-                }
-            }
-        }
-        return filteredData;
+    function clearInput(inputId) {
+        document.getElementById(inputId).value = '';
+        updateUrlWithParams();
     }
 
-    // Function to update the graph with filtered data
-    async function updateGraph() {
-        const gpuRadio = document.getElementById("gpuradio1").checked;
-        const cpuRadio = document.getElementById("cpuradio2").checked;
-
-        const alzaRadio = document.getElementById("alzaradio1").checked;
-        const dcRadio = document.getElementById("dcradio2").checked;
-
-        let data = [];
-        let store = "";
-
-        if (cpuRadio) {
-            if (alzaRadio) {
-                store = "cpus";
-            } else if (dcRadio) {
-                store = "cpus-datacomp";
-            }
-            data = await fetch(`./${store}.json`).then(response => response.json());
-        } else if (gpuRadio) {
-            if (alzaRadio) {
-                store = "gpus";
-            } else if (dcRadio) {
-                store = "gpus-datacomp";
-            }
-            data = await fetch(`./${store}.json`).then(response => response.json());
-        }
-
-        const filteredData = filterData(data);
-        if (filteredData.length === 0) {
-            alert("No data matching the filters.");
-            return;
-        }
-
-        if (chart) {
-            chart.destroy();
-        }
-
-        const allDates = [...new Set(filteredData.map(item => item.Date))].sort((a, b) => {
-            const dateA = new Date(a.split('-').reverse().join('-'));
-            const dateB = new Date(b.split('-').reverse().join('-'));
-            return dateA - dateB;
-        });
-
-        const datasets = [];
-        const gpuNames = [...new Set(filteredData.map(item => item.GPU))];
-
-        gpuNames.forEach(gpuName => {
-            const gpuData = filteredData.filter(item => item.GPU === gpuName);
-            const pricesByDate = allDates.map(date => {
-                const record = gpuData.find(item => item.Date === date);
-                return record ? record.Price : null; // Fill missing dates with `null`
-            });
-
-            datasets.push({
-                label: gpuName,
-                data: pricesByDate,
-                borderColor: getRandomColor(),
-                fill: false,
-                tension: 0.1
-            });
-        });
-
-        datasets.sort((a, b) => {
-            const latestPriceA = a.data[a.data.length - 1]; // Last price of GPU A
-            const latestPriceB = b.data[b.data.length - 1]; // Last price of GPU B
-            return latestPriceB - latestPriceA; // Sort descending
-        });
-
-        const ctx = document.getElementById("priceChart").getContext("2d");
-        chart = new Chart(ctx, {
-            type: 'line',
-            data: {
-                labels: allDates,
-                datasets: datasets
-            },
-            options: {
-                responsive: true,
-                plugins: {
-                    title: {
-                        display: true,
-                        text: 'Price Trends',
-                        color: 'white' // Title color
-                    },
-                    tooltip: {
-                        mode: 'nearest', // Tooltip only shows the closest point to the hover
-                        intersect: true, // Ensures you only see the data for a single point
-                        callbacks: {
-                            title: (context) => {
-                                return `Date: ${context[0].label}`; // Show the hovered date
-                            },
-                            label: (context) => {
-                                const gpuName = context.dataset.label;
-                                const price = context.raw !== null ? `€${context.raw}` : 'No data';
-                                return `${gpuName}: ${price}`; // Show the hovered GPU and its price
-                            }
-                        }
-                    },
-                    legend: {
-                        position: 'top', // Move legend above the graph
-                        align: 'start', // Align legend items vertically
-                        labels: {
-                            color: 'white',
-                            boxWidth: 20, // Adjust box size
-                            padding: 10, // Add spacing between legend items
-                            generateLabels: (chart) => {
-                                // Use the sorted datasets to generate legend labels
-                                return chart.data.datasets.map((dataset, index) => ({
-                                    text: `${dataset.label}`,
-                                    fillStyle: dataset.borderColor,
-                                    strokeStyle: dataset.borderColor,
-                                    pointStyle: dataset.pointStyle,
-                                    rotation: dataset.rotation,
-                                    fontColor: '#fff',
-                                    tension: dataset.tension
-                                }));
-                            }
-                        }
-                    }
-                },
-                scales: {
-                    x: {
-                        title: {
-                            display: true,
-                            text: 'Date',
-                            color: 'white' // X-axis title color
-                        },
-                        ticks: {
-                            color: 'white' // X-axis tick color
-                        }
-                    },
-                    y: {
-                        title: {
-                            display: true,
-                            text: 'Price (€)',
-                            color: 'white' // Y-axis title color
-                        },
-                        ticks: {
-                            color: 'white' // Y-axis tick color
-                        }
-                    }
-                }
-            }
-        });
-    }
-
-    // Utility function to generate random color for each line in the graph
+    // Utility function to generate random colors
     function getRandomColor() {
         const letters = '0123456789ABCDEF';
         let color = '#';
@@ -280,6 +108,289 @@
         return color;
     }
 
+    // Populate min/max price dropdowns
+    function populatePriceDropdowns() {
+        const priceOptions = Array.from({length: 51}, (_, i) => i * 50); // 0 to 2500 in 50€ intervals
+        const minPriceSelect = document.getElementById("minPrice");
+        const maxPriceSelect = document.getElementById("maxPrice");
+
+        priceOptions.forEach((price) => {
+            const optionMin = document.createElement("option");
+            const optionMax = document.createElement("option");
+
+            optionMin.value = price;
+            optionMin.textContent = `€${price}`;
+            optionMax.value = price;
+            optionMax.textContent = `€${price}`;
+
+            minPriceSelect.appendChild(optionMin);
+            maxPriceSelect.appendChild(optionMax);
+            minPriceSelect.selectedIndex = 0;
+            maxPriceSelect.selectedIndex = 25;
+        });
+    }
+
+    // Function to fetch and filter data
+    async function updateGraph() {
+        const gpuRadio = document.getElementById("gpuradio1").checked;
+        const cpuRadio = document.getElementById("cpuradio2").checked;
+        const alzaRadio = document.getElementById("alzaradio1").checked;
+        const dcRadio = document.getElementById("dcradio2").checked;
+
+        if (document
+            .getElementById("nameFilter")
+            .value.length === 0) {
+            return;
+        }
+
+        let data = [];
+        let store = "";
+
+        if (cpuRadio) {
+            store = alzaRadio ? "cpus" : "cpus-datacomp";
+        } else if (gpuRadio) {
+            store = alzaRadio ? "gpus" : "gpus-datacomp";
+        }
+
+        data = await fetch(`./${store}.json`).then((response) => response.json());
+
+        const nameFilter = document
+            .getElementById("nameFilter")
+            .value.toLowerCase()
+            .split(",")
+            .map((keyword) => keyword.trim())
+            .filter(Boolean); // Remove empty strings
+
+        const minPrice = parseFloat(document.getElementById("minPrice").value);
+        const maxPrice = parseFloat(document.getElementById("maxPrice").value);
+
+        const filteredData = Object.keys(data)
+            .filter((productName) => {
+                // Ensure all keywords match the product name
+                return nameFilter.every((keyword) =>
+                    productName.toLowerCase().includes(keyword)
+                );
+            })
+            .map((productName) => {
+                const product = data[productName];
+                const dates = [];
+                const prices = [];
+
+                for (const date in product) {
+                    if (date !== "link" && date !== "name" && date !== "image") {
+                        const price = parseFloat(product[date].price.replace(",", "."));
+                        if (price >= minPrice && price <= maxPrice) {
+                            dates.push(date);
+                            prices.push(price);
+                        }
+                    }
+                }
+
+                return {
+                    name: productName,
+                    link: product.link,
+                    image: product.image,
+                    dates,
+                    prices,
+                };
+            });
+
+        allProductData = filteredData.reduce((acc, product) => {
+            acc[product.name] = product;
+            return acc;
+        }, {});
+
+        generateProductCards(filteredData);
+        drawGraph(filteredData);
+    }
+
+
+    // Generate Bootstrap cards for products
+    function generateProductCards(products) {
+        const container = document.getElementById("productCardsContainer");
+        container.innerHTML = ""; // Clear previous cards
+
+        //remove products with undefined prices:
+        products = products.filter((product) => product.prices.length > 0);
+
+        //sort products by last price from lowest:
+        products.sort((a, b) => a.prices[a.prices.length - 1] - b.prices[b.prices.length - 1]);
+
+        products.forEach((product) => {
+            const card = document.createElement("div");
+            card.className = `col-lg-1 col-sm-2 mb-3 ms-4`;
+            card.innerHTML = `
+                <div class="card h-100 text-center"
+                     data-product="${product.name}" style="width: 10rem;">
+                     <div class="ratio ratio-4x3">
+                     <img src="${product.image ?? './boxImgPlaceholder.png'}" class="card-img-top" style="cursor: pointer; object-fit: fill;" alt="${product.name}" onclick="toggleProductSelection('${product.name}')">
+                     </div>
+                    <div class="card-body d-flex flex-column justify-content-between">
+                        <h5 class="card-title fs-6" style="cursor: pointer;" onclick="window.open('${product.link}', '_blank')"><u>${product.name}</u></h5>
+                        <p class="card-text fs-6"><small>Last Price: <strong class="text-warning">€ ${product.prices[product.prices.length - 1]}</strong></small></p>
+                    </div>
+                </div>
+            `;
+            container.appendChild(card);
+        });
+    }
+
+    // Toggle product selection for the graph
+    function toggleProductSelection(productName) {
+        if (selectedProducts.has(productName)) {
+            selectedProducts.delete(productName); // Remove product from selection
+        } else {
+            selectedProducts.add(productName); // Add product to selection
+        }
+
+        // Update card styles to visually indicate selection
+        const productCards = document.querySelectorAll('[data-product]');
+        productCards.forEach(card => {
+            const name = card.getAttribute('data-product');
+            if (selectedProducts.has(name)) {
+                card.classList.add('border');
+                card.classList.add('border-4');
+                card.classList.add('border-warning'); // Highlight selected card
+            } else {
+                card.classList.remove('border');
+                card.classList.remove('border-4');
+                card.classList.remove('border-warning'); // Remove highlight
+            }
+        });
+
+        // Determine the products to display in the graph
+        const filteredData = selectedProducts.size
+            ? [...selectedProducts].map(name => allProductData[name])
+            : Object.values(allProductData); // Show all if none are selected
+
+        drawGraph(filteredData); // Update the graph with selected products
+    }
+
+
+    // Draw the graph with selected or all products
+    function drawGraph(products) {
+        const ctx = document.getElementById("priceChart").getContext("2d");
+        if (chart) chart.destroy();
+
+        const allDates = [
+            ...new Set(products.flatMap((product) => product.dates)),
+        ].sort((a, b) => new Date(a.split("-").reverse()) - new Date(b.split("-").reverse()));
+
+        const datasets = products.map((product) => ({
+            label: product.name,
+            data: allDates.map((date) =>
+                product.dates.includes(date)
+                    ? product.prices[product.dates.indexOf(date)]
+                    : null
+            ),
+            borderColor: getRandomColor(),
+            fill: false,
+            tension: 0.1,
+        }));
+
+        chart = new Chart(ctx, {
+            type: "line",
+            data: {
+                labels: allDates,
+                datasets: datasets,
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                plugins: {
+                    legend: {
+                        display: true,
+                    },
+                },
+                scales: {
+                    x: {
+                        title: {
+                            display: true,
+                            text: "Date",
+                        },
+                    },
+                    y: {
+                        title: {
+                            display: true,
+                            text: "Price (€)",
+                        },
+                    },
+                },
+            },
+        });
+    }
+
+    // Initialize price dropdowns
+    document.addEventListener("DOMContentLoaded", () => {
+        populatePriceDropdowns();
+    });
+
+    // Parse URL parameters
+    function getQueryParams() {
+        const params = new URLSearchParams(window.location.search);
+        return {
+            nameFilter: params.get('name') || '',
+            minPrice: params.get('minPrice') || '0',
+            maxPrice: params.get('maxPrice') || '2500',
+            shop: params.get('shop') || 'alza', // Default to Alza
+            category: params.get('category') || 'gpu' // Default to GPU
+        };
+    }
+
+    // Populate form fields with URL parameters
+    function populateFormFromParams(params) {
+        document.getElementById('nameFilter').value = params.nameFilter;
+        document.getElementById('minPrice').value = params.minPrice;
+        document.getElementById('maxPrice').value = params.maxPrice;
+
+        // Set shop radio button
+        if (params.shop === 'datacomp') {
+            document.getElementById('dcradio2').checked = true;
+        } else {
+            document.getElementById('alzaradio1').checked = true;
+        }
+
+        // Set category radio button
+        if (params.category === 'cpu') {
+            document.getElementById('cpuradio2').checked = true;
+        } else {
+            document.getElementById('gpuradio1').checked = true;
+        }
+    }
+
+    // Update URL with current search parameters
+    function updateUrlWithParams() {
+        const nameFilter = document.getElementById('nameFilter').value.trim();
+        const minPrice = document.getElementById('minPrice').value;
+        const maxPrice = document.getElementById('maxPrice').value;
+        const shop = document.getElementById('alzaradio1').checked ? 'alza' : 'datacomp';
+        const category = document.getElementById('gpuradio1').checked ? 'gpu' : 'cpu';
+
+        const params = new URLSearchParams({
+            name: nameFilter,
+            minPrice,
+            maxPrice,
+            shop,
+            category
+        });
+
+        window.history.replaceState({}, '', `?${params.toString()}`);
+    }
+
+    // Automatically load search parameters and trigger the search
+    document.addEventListener('DOMContentLoaded', () => {
+        const params = getQueryParams();
+        populateFormFromParams(params);
+
+        // Trigger the search with the loaded parameters
+        updateGraph();
+    });
+
+    // Hook into the Update Graph button to update URL
+    document.getElementById('productForm').addEventListener('input', updateUrlWithParams);
+    document.getElementById('productForm').addEventListener('submit', updateUrlWithParams);
+
 </script>
+
 </body>
 </html>

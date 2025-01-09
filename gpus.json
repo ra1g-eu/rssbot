@@ -2,6 +2,7 @@
     "PNY NVIDIA T400 4G": {
         "link": "https:\/\/www.alza.sk\/pny-nvidia-t400-4g-d12336717.htm",
         "name": "PNY NVIDIA T400 4G",
+        "image": "https:\/\/image.alza.cz\/products\/PNYa27\/PNYa27.jpg?width=230&height=230",
         "04-01-2025": {
             "price": "202,90",
             "availability": 2
@@ -15,6 +16,14 @@
             "availability": 2
         },
         "07-01-2025": {
+            "price": "202,90",
+            "availability": 4
+        },
+        "08-01-2025": {
+            "price": "201,90",
+            "availability": 4
+        },
+        "09-01-2025": {
             "price": "202,90",
             "availability": 4
         }
@@ -37,7 +46,16 @@
         "07-01-2025": {
             "price": "217,90",
             "availability": 51012025
-        }
+        },
+        "08-01-2025": {
+            "price": "217,90",
+            "availability": 51012025
+        },
+        "09-01-2025": {
+            "price": "217,90",
+            "availability": 51012025
+        },
+        "image": "https:\/\/image.alza.cz\/products\/PALr35k1\/PALr35k1.jpg?width=230&height=230"
     },
     "ASUS DUAL GeForce RTX 3050 O6G": {
         "link": "https:\/\/www.alza.sk\/asus-dual-geforce-rtx-3050-o6g-d9895101.htm",
@@ -57,7 +75,16 @@
         "07-01-2025": {
             "price": "219,90",
             "availability": 5
-        }
+        },
+        "08-01-2025": {
+            "price": "219,90",
+            "availability": 5
+        },
+        "09-01-2025": {
+            "price": "219,90",
+            "availability": 5
+        },
+        "image": "https:\/\/image.alza.cz\/products\/ECr3050d4\/ECr3050d4.jpg?width=230&height=230"
     },
     "SPARKLE IntelArc A750 ORC OC Edition 8G": {
         "link": "https:\/\/www.alza.sk\/sparkle-intel-arc-a750-orc-oc-edition-8g-d8011733.htm",
@@ -97,7 +124,16 @@
         "07-01-2025": {
             "price": "226,90",
             "availability": 0
-        }
+        },
+        "08-01-2025": {
+            "price": "226,90",
+            "availability": 1912025
+        },
+        "09-01-2025": {
+            "price": "226,90",
+            "availability": 0
+        },
+        "image": "https:\/\/image.alza.cz\/products\/XFXr6600ss1\/XFXr6600ss1.jpg?width=230&height=230"
     },
     "MSI GeForce RTX 3050 VENTUS 2X XS 8G OC": {
         "link": "https:\/\/www.alza.sk\/msi-geforce-rtx-3050-ventus-2x-xs-8g-oc-d8633121.htm",
@@ -117,7 +153,16 @@
         "07-01-2025": {
             "price": "229,90",
             "availability": 0
-        }
+        },
+        "08-01-2025": {
+            "price": "229,90",
+            "availability": 0
+        },
+        "09-01-2025": {
+            "price": "229,90",
+            "availability": 1
+        },
+        "image": "https:\/\/image.alza.cz\/products\/EFr3050v2xx2\/EFr3050v2xx2.jpg?width=230&height=230"
     },
     "PALIT GeForce RTX 3050 StormX 8GB GDDR6": {
         "link": "https:\/\/www.alza.sk\/palit-geforce-rtx-3050-stormx-8gb-gddr6-d12509719.htm",
@@ -137,7 +182,16 @@
         "07-01-2025": {
             "price": "233,90",
             "availability": 5
-        }
+        },
+        "08-01-2025": {
+            "price": "233,90",
+            "availability": 5
+        },
+        "09-01-2025": {
+            "price": "233,90",
+            "availability": 5
+        },
+        "image": "https:\/\/image.alza.cz\/products\/PALr35s1\/PALr35s1.jpg?width=230&height=230"
     },
     "PNY NVIDIA RTX A400 4 GB": {
         "link": "https:\/\/www.alza.sk\/pny-nvidia-rtx-a400-4-gb-d12365795.htm",
@@ -157,7 +211,16 @@
         "07-01-2025": {
             "price": "255,90",
             "availability": 5
-        }
+        },
+        "08-01-2025": {
+            "price": "254,90",
+            "availability": 5
+        },
+        "09-01-2025": {
+            "price": "254,90",
+            "availability": 5
+        },
+        "image": "https:\/\/image.alza.cz\/products\/PNYa30\/PNYa30.jpg?width=230&height=230"
     },
     "ASUS DUAL GeForce RTX 3050 O8G V2": {
         "link": "https:\/\/www.alza.sk\/asus-dual-geforce-rtx-3050-o8g-v2-d12275883.htm",
@@ -177,7 +240,16 @@
         "07-01-2025": {
             "price": "273,90",
             "availability": 4
-        }
+        },
+        "08-01-2025": {
+            "price": "269,90",
+            "availability": 5
+        },
+        "09-01-2025": {
+            "price": "269,90",
+            "availability": 4
+        },
+        "image": "https:\/\/image.alza.cz\/products\/ECr3050d6\/ECr3050d6.jpg?width=230&height=230"
     },
     "GIGABYTE GeForce RTX 3060 GAMING OC 8G": {
         "link": "https:\/\/www.alza.sk\/gigabyte-geforce-rtx-3060-gaming-oc-8g-d7667300.htm",
@@ -197,7 +269,16 @@
         "07-01-2025": {
             "price": "286,90",
             "availability": 5
-        }
+        },
+        "08-01-2025": {
+            "price": "286,90",
+            "availability": 5
+        },
+        "09-01-2025": {
+            "price": "286,90",
+            "availability": 5
+        },
+        "image": "https:\/\/image.alza.cz\/products\/EGr3060g6\/EGr3060g6.jpg?width=230&height=230"
     },
     "Inno3D GeForce RTX 3060 Twin X2 12G": {
         "link": "https:\/\/www.alza.sk\/inno3d-geforce-rtx-3060-twin-x2-12g-d6330256.htm",
@@ -217,6 +298,10 @@
         "07-01-2025": {
             "price": "290,90",
             "availability": 5
+        },
+        "09-01-2025": {
+            "price": "290,90",
+            "availability": 1
         }
     },
     "SAPPHIRE PULSE AMD Radeon RX 7600 8 G": {
@@ -237,7 +322,16 @@
         "07-01-2025": {
             "price": "290,90",
             "availability": 5
-        }
+        },
+        "08-01-2025": {
+            "price": "290,90",
+            "availability": 5
+        },
+        "09-01-2025": {
+            "price": "290,90",
+            "availability": 5
+        },
+        "image": "https:\/\/image.alza.cz\/products\/ELrx7600p1\/ELrx7600p1.jpg?width=230&height=230"
     },
     "GAINWARD GeForce RTX 4060 Python II 8G": {
         "link": "https:\/\/www.alza.sk\/gainward-geforce-rtx-4060-python-ii-8g-d12458381.htm",
@@ -257,7 +351,16 @@
         "07-01-2025": {
             "price": "298,90",
             "availability": 5
-        }
+        },
+        "08-01-2025": {
+            "price": "304,90",
+            "availability": 5
+        },
+        "09-01-2025": {
+            "price": "304,90",
+            "availability": 5
+        },
+        "image": "https:\/\/image.alza.cz\/products\/EGr4060py1\/EGr4060py1.jpg?width=230&height=230"
     },
     "GIGABYTE GeForce RTX 4060 WINDFORCE OC 8G": {
         "link": "https:\/\/www.alza.sk\/gigabyte-geforce-rtx-4060-windforce-oc-8g-d7805974.htm",
@@ -277,7 +380,16 @@
         "07-01-2025": {
             "price": "301,90",
             "availability": 5
-        }
+        },
+        "08-01-2025": {
+            "price": "315,90",
+            "availability": 2
+        },
+        "09-01-2025": {
+            "price": "314,90",
+            "availability": 1
+        },
+        "image": "https:\/\/image.alza.cz\/products\/EGr4060w2\/EGr4060w2.jpg?width=230&height=230"
     },
     "ASUS DUAL GeForce RTX 4060 O8G EVO": {
         "link": "https:\/\/www.alza.sk\/asus-dual-geforce-rtx-4060-o8g-evo-d12275882.htm",
@@ -297,7 +409,16 @@
         "07-01-2025": {
             "price": "304,90",
             "availability": 5
-        }
+        },
+        "08-01-2025": {
+            "price": "304,90",
+            "availability": 5
+        },
+        "09-01-2025": {
+            "price": "309,90",
+            "availability": 5
+        },
+        "image": "https:\/\/image.alza.cz\/products\/ECr4060d4\/ECr4060d4.jpg?width=230&height=230"
     },
     "MSI GeForce RTX 4060 VENTUS 2X BLACK 8G OC": {
         "link": "https:\/\/www.alza.sk\/msi-geforce-rtx-4060-ventus-2x-black-8g-oc-d7806174.htm",
@@ -317,7 +438,16 @@
         "07-01-2025": {
             "price": "306,90",
             "availability": 51712025
-        }
+        },
+        "08-01-2025": {
+            "price": "314,90",
+            "availability": 5912025
+        },
+        "09-01-2025": {
+            "price": "314,90",
+            "availability": 5
+        },
+        "image": "https:\/\/image.alza.cz\/products\/EFr4060v2xb2\/EFr4060v2xb2.jpg?width=230&height=230"
     },
     "Intel Arc B580 Limited Edition": {
         "link": "https:\/\/www.alza.sk\/intel-arc-b580-limited-edition-d12724237.htm",
@@ -337,7 +467,16 @@
         "07-01-2025": {
             "price": "309,90",
             "availability": 2025
-        }
+        },
+        "08-01-2025": {
+            "price": "309,90",
+            "availability": 2025
+        },
+        "09-01-2025": {
+            "price": "309,90",
+            "availability": 2025
+        },
+        "image": "https:\/\/image.alza.cz\/products\/BOb580le\/BOb580le.jpg?width=230&height=230"
     },
     "GIGABYTE GeForce RTX 3060 WINDFORCE OC 12G": {
         "link": "https:\/\/www.alza.sk\/gigabyte-geforce-rtx-3060-windforce-oc-12g-d7667296.htm",
@@ -353,7 +492,16 @@
         "06-01-2025": {
             "price": "319,90",
             "availability": 1
-        }
+        },
+        "08-01-2025": {
+            "price": "316,90",
+            "availability": 5
+        },
+        "09-01-2025": {
+            "price": "316,90",
+            "availability": 5
+        },
+        "image": "https:\/\/image.alza.cz\/products\/EGr3060w2\/EGr3060w2.jpg?width=230&height=230"
     },
     "PALIT GeForce RTX 4060 Infinity 2 8GB GDDR6": {
         "link": "https:\/\/www.alza.sk\/palit-geforce-rtx-4060-infinity-2-8gb-gddr6-d12509726.htm",
@@ -373,7 +521,16 @@
         "07-01-2025": {
             "price": "324,90",
             "availability": 5
-        }
+        },
+        "08-01-2025": {
+            "price": "324,90",
+            "availability": 5
+        },
+        "09-01-2025": {
+            "price": "324,90",
+            "availability": 5
+        },
+        "image": "https:\/\/image.alza.cz\/products\/PALr46i1\/PALr46i1.jpg?width=230&height=230"
     },
     "ASUS DUAL GeForce RTX 3060 O12G V2": {
         "link": "https:\/\/www.alza.sk\/asus-dual-geforce-rtx-3060-o12g-v2-d6533346.htm",
@@ -393,7 +550,16 @@
         "07-01-2025": {
             "price": "326,90",
             "availability": 5
-        }
+        },
+        "08-01-2025": {
+            "price": "329,90",
+            "availability": 5
+        },
+        "09-01-2025": {
+            "price": "323,90",
+            "availability": 5
+        },
+        "image": "https:\/\/image.alza.cz\/products\/ECr3060ld2\/ECr3060ld2.jpg?width=230&height=230"
     },
     "GIGABYTE GeForce RTX 3060 GAMING OC 12G": {
         "link": "https:\/\/www.alza.sk\/gigabyte-geforce-rtx-3060-gaming-oc-12g-d6533355.htm",
@@ -405,7 +571,16 @@
         "07-01-2025": {
             "price": "323,90",
             "availability": 5
-        }
+        },
+        "08-01-2025": {
+            "price": "323,90",
+            "availability": 5
+        },
+        "09-01-2025": {
+            "price": "327,90",
+            "availability": 5
+        },
+        "image": "https:\/\/image.alza.cz\/products\/EGr3060lg2\/EGr3060lg2.jpg?width=230&height=230"
     },
     "GIGABYTE GeForce RTX 4060 D6 8G": {
         "link": "https:\/\/www.alza.sk\/gigabyte-geforce-rtx-4060-d6-8g-d8071086.htm",
@@ -425,7 +600,16 @@
         "07-01-2025": {
             "price": "338,90",
             "availability": 5
-        }
+        },
+        "08-01-2025": {
+            "price": "337,90",
+            "availability": 5
+        },
+        "09-01-2025": {
+            "price": "329,90",
+            "availability": 5
+        },
+        "image": "https:\/\/image.alza.cz\/products\/EGr4060d6a1\/EGr4060d6a1.jpg?width=230&height=230"
     },
     "MSI GeForce RTX 4060 VENTUS 2X WHITE 8G OC": {
         "link": "https:\/\/www.alza.sk\/msi-geforce-rtx-4060-ventus-2x-white-8g-oc-d7948676.htm",
@@ -445,7 +629,16 @@
         "07-01-2025": {
             "price": "352,90",
             "availability": 5
-        }
+        },
+        "08-01-2025": {
+            "price": "352,90",
+            "availability": 5
+        },
+        "09-01-2025": {
+            "price": "352,90",
+            "availability": 5
+        },
+        "image": "https:\/\/image.alza.cz\/products\/EFr4060v2xw2\/EFr4060v2xw2.jpg?width=230&height=230"
     },
     "GIGABYTE GeForce RTX 4060 GAMING OC 8G": {
         "link": "https:\/\/www.alza.sk\/gigabyte-geforce-rtx-4060-gaming-oc-8g-d7805972.htm",
@@ -457,7 +650,16 @@
         "07-01-2025": {
             "price": "357,90",
             "availability": 5
-        }
+        },
+        "08-01-2025": {
+            "price": "357,90",
+            "availability": 5
+        },
+        "09-01-2025": {
+            "price": "357,90",
+            "availability": 5
+        },
+        "image": "https:\/\/image.alza.cz\/products\/EGr4060g2\/EGr4060g2.jpg?width=230&height=230"
     },
     "GIGABYTE GeForce RTX 4060 OC Low Profile 8G": {
         "link": "https:\/\/www.alza.sk\/gigabyte-geforce-rtx-4060-oc-low-profile-8g-d7986309.htm",
@@ -497,7 +699,16 @@
         "07-01-2025": {
             "price": "368,90",
             "availability": 5
-        }
+        },
+        "08-01-2025": {
+            "price": "368,90",
+            "availability": 5
+        },
+        "09-01-2025": {
+            "price": "368,90",
+            "availability": 5
+        },
+        "image": "https:\/\/image.alza.cz\/products\/ELrx7600xp1\/ELrx7600xp1.jpg?width=230&height=230"
     },
     "GIGABYTE GeForce RTX 4060 EAGLE OC ICE 8G": {
         "link": "https:\/\/www.alza.sk\/gigabyte-geforce-rtx-4060-eagle-oc-ice-8g-d12406851.htm",
@@ -517,7 +728,16 @@
         "07-01-2025": {
             "price": "369,90",
             "availability": 5
-        }
+        },
+        "08-01-2025": {
+            "price": "366,90",
+            "availability": 5
+        },
+        "09-01-2025": {
+            "price": "366,90",
+            "availability": 1
+        },
+        "image": "https:\/\/image.alza.cz\/products\/EGr4060ei2\/EGr4060ei2.jpg?width=230&height=230"
     },
     "XFX Speedster QICK 319 AMD Radeon RX 6750 XT Core": {
         "link": "https:\/\/www.alza.sk\/xfx-speedster-qick-319-amd-radeon-rx-6750-xt-core-d7398616.htm",
@@ -537,7 +757,16 @@
         "07-01-2025": {
             "price": "370,90",
             "availability": 5
-        }
+        },
+        "08-01-2025": {
+            "price": "370,90",
+            "availability": 5
+        },
+        "09-01-2025": {
+            "price": "370,90",
+            "availability": 5
+        },
+        "image": "https:\/\/image.alza.cz\/products\/XFXr6750xsq\/XFXr6750xsq.jpg?width=230&height=230"
     },
     "ASROCK Intel Arc A770 Phantom Gaming 16 GB OC": {
         "link": "https:\/\/www.alza.sk\/asrock-intel-arc-a770-phantom-gaming-16-gb-oc-d12273763.htm",
@@ -557,7 +786,16 @@
         "07-01-2025": {
             "price": "380,90",
             "availability": 5
-        }
+        },
+        "08-01-2025": {
+            "price": "380,90",
+            "availability": 5
+        },
+        "09-01-2025": {
+            "price": "380,90",
+            "availability": 5
+        },
+        "image": "https:\/\/image.alza.cz\/products\/ASa770pg2\/ASa770pg2.jpg?width=230&height=230"
     },
     "XFX Speedster SWFT 319 Radeon RX 6800 CORE": {
         "link": "https:\/\/www.alza.sk\/xfx-speedster-swft-319-radeon-rx-6800-core-d7875107.htm",
@@ -577,7 +815,16 @@
         "07-01-2025": {
             "price": "403,90",
             "availability": 0
-        }
+        },
+        "08-01-2025": {
+            "price": "403,90",
+            "availability": 0
+        },
+        "09-01-2025": {
+            "price": "403,90",
+            "availability": 0
+        },
+        "image": "https:\/\/image.alza.cz\/products\/XFXr6800m1\/XFXr6800m1.jpg?width=230&height=230"
     },
     "PALIT GeForce RTX 4060 Ti Dual 8GB GDDR6": {
         "link": "https:\/\/www.alza.sk\/palit-geforce-rtx-4060-ti-dual-8gb-gddr6-d12509733.htm",
@@ -597,7 +844,16 @@
         "07-01-2025": {
             "price": "417,90",
             "availability": 5
-        }
+        },
+        "08-01-2025": {
+            "price": "417,90",
+            "availability": 5
+        },
+        "09-01-2025": {
+            "price": "417,90",
+            "availability": 4
+        },
+        "image": "https:\/\/image.alza.cz\/products\/PALr46td1\/PALr46td1.jpg?width=230&height=230"
     },
     "MSI GeForce RTX 4060 Ti VENTUS 2X BLACK 8G OC": {
         "link": "https:\/\/www.alza.sk\/msi-geforce-rtx-4060-ti-ventus-2x-black-8g-oc-d7764182.htm",
@@ -617,7 +873,16 @@
         "07-01-2025": {
             "price": "425,90",
             "availability": 5
-        }
+        },
+        "08-01-2025": {
+            "price": "425,90",
+            "availability": 5
+        },
+        "09-01-2025": {
+            "price": "425,90",
+            "availability": 5
+        },
+        "image": "https:\/\/image.alza.cz\/products\/EFr4060tv2xb2\/EFr4060tv2xb2.jpg?width=230&height=230"
     },
     "PNY NVIDIA T1000": {
         "link": "https:\/\/www.alza.sk\/pny-nvidia-t1000-d7644340.htm",
@@ -637,7 +902,16 @@
         "07-01-2025": {
             "price": "435,90",
             "availability": 5
-        }
+        },
+        "08-01-2025": {
+            "price": "434,90",
+            "availability": 5
+        },
+        "09-01-2025": {
+            "price": "434,90",
+            "availability": 5
+        },
+        "image": "https:\/\/image.alza.cz\/products\/PNYa25\/PNYa25.jpg?width=230&height=230"
     },
     "ASUS DUAL GeForce RTX 4060 Ti O8G EVO": {
         "link": "https:\/\/www.alza.sk\/asus-dual-geforce-rtx-4060-ti-o8g-evo-d12406836.htm",
@@ -655,6 +929,11 @@
             "availability": 5
         },
         "07-01-2025": {
+            "price": "444,90",
+            "availability": 1
+        },
+        "image": "https:\/\/image.alza.cz\/products\/ECr46td4\/ECr46td4.jpg?width=230&height=230",
+        "09-01-2025": {
             "price": "444,90",
             "availability": 1
         }
@@ -677,7 +956,16 @@
         "07-01-2025": {
             "price": "448,90",
             "availability": 5
-        }
+        },
+        "08-01-2025": {
+            "price": "443,90",
+            "availability": 5
+        },
+        "09-01-2025": {
+            "price": "444,90",
+            "availability": 5
+        },
+        "image": "https:\/\/image.alza.cz\/products\/EGr4060tbw2\/EGr4060tbw2.jpg?width=230&height=230"
     },
     "SAPPHIRE PULSE Radeon RX 7700 XT GAMING 12 GB": {
         "link": "https:\/\/www.alza.sk\/sapphire-pulse-radeon-rx-7700-xt-gaming-12-gb-d7895861.htm",
@@ -693,7 +981,16 @@
         "07-01-2025": {
             "price": "448,90",
             "availability": 0
-        }
+        },
+        "08-01-2025": {
+            "price": "448,90",
+            "availability": 0
+        },
+        "09-01-2025": {
+            "price": "448,90",
+            "availability": 0
+        },
+        "image": "https:\/\/image.alza.cz\/products\/ELrx7700xp1\/ELrx7700xp1.jpg?width=230&height=230"
     },
     "PALIT GeForce RTX 4060 Ti White 8GB GDDR6": {
         "link": "https:\/\/www.alza.sk\/palit-geforce-rtx-4060-ti-white-8gb-gddr6-d12509732.htm",
@@ -713,7 +1010,16 @@
         "07-01-2025": {
             "price": "454,90",
             "availability": 51012025
-        }
+        },
+        "08-01-2025": {
+            "price": "454,90",
+            "availability": 51012025
+        },
+        "09-01-2025": {
+            "price": "454,90",
+            "availability": 51012025
+        },
+        "image": "https:\/\/image.alza.cz\/products\/PALr46tw1\/PALr46tw1.jpg?width=230&height=230"
     },
     "HP NVIDIA T1000 8 GB 4mDP GFX": {
         "link": "https:\/\/www.alza.sk\/hp-nvidia-t1000-8-gb-4mdp-gfx-d7854741.htm",
@@ -733,7 +1039,16 @@
         "07-01-2025": {
             "price": "465,90",
             "availability": 5
-        }
+        },
+        "08-01-2025": {
+            "price": "465,90",
+            "availability": 5
+        },
+        "09-01-2025": {
+            "price": "465,90",
+            "availability": 5
+        },
+        "image": "https:\/\/image.alza.cz\/products\/EN064p1\/EN064p1.jpg?width=230&height=230"
     },
     "SAPPHIRE PURE Radeon RX 7700 XT GAMING OC 12 GB": {
         "link": "https:\/\/www.alza.sk\/sapphire-pure-radeon-rx-7700-xt-gaming-oc-12-gb-d7895859.htm",
@@ -753,7 +1068,16 @@
         "07-01-2025": {
             "price": "477,90",
             "availability": 5
-        }
+        },
+        "08-01-2025": {
+            "price": "477,90",
+            "availability": 5
+        },
+        "09-01-2025": {
+            "price": "477,90",
+            "availability": 5
+        },
+        "image": "https:\/\/image.alza.cz\/products\/ELrx7700xpur2\/ELrx7700xpur2.jpg?width=230&height=230"
     },
     "GIGABYTE Radeon RX 7700 XT GAMING OC 12G": {
         "link": "https:\/\/www.alza.sk\/gigabyte-radeon-rx-7700-xt-gaming-oc-12g-d7917081.htm",
@@ -793,7 +1117,16 @@
         "07-01-2025": {
             "price": "494,90",
             "availability": 5
-        }
+        },
+        "08-01-2025": {
+            "price": "494,90",
+            "availability": 5
+        },
+        "09-01-2025": {
+            "price": "501,90",
+            "availability": 2
+        },
+        "image": "https:\/\/image.alza.cz\/products\/EGr4060tae1\/EGr4060tae1.jpg?width=230&height=230"
     },
     "GIGABYTE GeForce RTX 4060 Ti GAMING OC 8G": {
         "link": "https:\/\/www.alza.sk\/gigabyte-geforce-rtx-4060-ti-gaming-oc-8g-d7760797.htm",
@@ -813,7 +1146,16 @@
         "07-01-2025": {
             "price": "488,90",
             "availability": 5
-        }
+        },
+        "08-01-2025": {
+            "price": "497,90",
+            "availability": 5
+        },
+        "09-01-2025": {
+            "price": "497,90",
+            "availability": 5
+        },
+        "image": "https:\/\/image.alza.cz\/products\/EGr4060te1\/EGr4060te1.jpg?width=230&height=230"
     },
     "PNY NVIDIA T1000 8 GB": {
         "link": "https:\/\/www.alza.sk\/pny-nvidia-t1000-8-gb-d12336715.htm",
@@ -833,7 +1175,16 @@
         "07-01-2025": {
             "price": "504,90",
             "availability": 5
-        }
+        },
+        "08-01-2025": {
+            "price": "503,90",
+            "availability": 5
+        },
+        "09-01-2025": {
+            "price": "503,90",
+            "availability": 5
+        },
+        "image": "https:\/\/image.alza.cz\/products\/PNYa29\/PNYa29.jpg?width=230&height=230"
     },
     "GIGABYTE GeForce RTX 4060 Ti WINDFORCE OC 16G": {
         "link": "https:\/\/www.alza.sk\/gigabyte-geforce-rtx-4060-ti-windforce-oc-16g-d7998706.htm",
@@ -863,6 +1214,14 @@
             "availability": 2
         },
         "07-01-2025": {
+            "price": "504,90",
+            "availability": 1
+        },
+        "08-01-2025": {
+            "price": "504,90",
+            "availability": 1
+        },
+        "09-01-2025": {
             "price": "504,90",
             "availability": 1
         }
@@ -901,7 +1260,16 @@
         "07-01-2025": {
             "price": "524,90",
             "availability": 5
-        }
+        },
+        "08-01-2025": {
+            "price": "524,90",
+            "availability": 5
+        },
+        "09-01-2025": {
+            "price": "524,90",
+            "availability": 5
+        },
+        "image": "https:\/\/image.alza.cz\/products\/XFXr7800xsq1\/XFXr7800xsq1.jpg?width=230&height=230"
     },
     "PALIT GeForce RTX 4060 Ti JetStream 16GB GDDR6": {
         "link": "https:\/\/www.alza.sk\/palit-geforce-rtx-4060-ti-jetstream-16gb-gddr6-d12509724.htm",
@@ -921,7 +1289,16 @@
         "07-01-2025": {
             "price": "527,90",
             "availability": 51012025
-        }
+        },
+        "08-01-2025": {
+            "price": "527,90",
+            "availability": 51012025
+        },
+        "09-01-2025": {
+            "price": "527,90",
+            "availability": 51012025
+        },
+        "image": "https:\/\/image.alza.cz\/products\/PALr46tj1\/PALr46tj1.jpg?width=230&height=230"
     },
     "ASUS DUAL Radeon RX 7800 XT O16G": {
         "link": "https:\/\/www.alza.sk\/asus-dual-radeon-rx-7800-xt-o16g-d12464809.htm",
@@ -941,7 +1318,16 @@
         "07-01-2025": {
             "price": "527,90",
             "availability": 5
-        }
+        },
+        "08-01-2025": {
+            "price": "527,90",
+            "availability": 5
+        },
+        "09-01-2025": {
+            "price": "527,90",
+            "availability": 5
+        },
+        "image": "https:\/\/image.alza.cz\/products\/ECr78xd2\/ECr78xd2.jpg?width=230&height=230"
     },
     "Inno3D GeForce RTX 4060 Ti Twin X2 OC 16 G": {
         "link": "https:\/\/www.alza.sk\/inno3d-geforce-rtx-4060-ti-twin-x2-oc-16-g-d7842477.htm",
@@ -973,7 +1359,16 @@
         "07-01-2025": {
             "price": "543,90",
             "availability": 5
-        }
+        },
+        "08-01-2025": {
+            "price": "543,90",
+            "availability": 5
+        },
+        "09-01-2025": {
+            "price": "543,90",
+            "availability": 5
+        },
+        "image": "https:\/\/image.alza.cz\/products\/XFXr7800xsm2\/XFXr7800xsm2.jpg?width=230&height=230"
     },
     "SAPPHIRE PULSE Radeon RX 7800 XT GAMING 16 GB": {
         "link": "https:\/\/www.alza.sk\/sapphire-pulse-radeon-rx-7800-xt-gaming-16-gb-d7895862.htm",
@@ -993,7 +1388,16 @@
         "07-01-2025": {
             "price": "549,90",
             "availability": 5
-        }
+        },
+        "08-01-2025": {
+            "price": "549,90",
+            "availability": 5
+        },
+        "09-01-2025": {
+            "price": "549,90",
+            "availability": 5
+        },
+        "image": "https:\/\/image.alza.cz\/products\/ELrx7800xp1\/ELrx7800xp1.jpg?width=230&height=230"
     },
     "PNY NVIDIA A1000 8 GB": {
         "link": "https:\/\/www.alza.sk\/pny-nvidia-a1000-8-gb-d12365794.htm",
@@ -1013,7 +1417,16 @@
         "07-01-2025": {
             "price": "552,90",
             "availability": 5
-        }
+        },
+        "08-01-2025": {
+            "price": "551,90",
+            "availability": 5
+        },
+        "09-01-2025": {
+            "price": "551,90",
+            "availability": 5
+        },
+        "image": "https:\/\/image.alza.cz\/products\/PNYa31\/PNYa31.jpg?width=230&height=230"
     },
     "GAINWARD GeForce RTX 4070 Ghost OC GDDR6": {
         "link": "https:\/\/www.alza.sk\/gainward-geforce-rtx-4070-ghost-oc-gddr6-d12584977.htm",
@@ -1033,7 +1446,16 @@
         "07-01-2025": {
             "price": "562,90",
             "availability": 5
-        }
+        },
+        "08-01-2025": {
+            "price": "562,90",
+            "availability": 5
+        },
+        "09-01-2025": {
+            "price": "562,90",
+            "availability": 5
+        },
+        "image": "https:\/\/image.alza.cz\/products\/EGr4070g4g6\/EGr4070g4g6.jpg?width=230&height=230"
     },
     "Acer Predator BiFrost Radeon RX 7800XT OC": {
         "link": "https:\/\/www.alza.sk\/acer-predator-bifrost-radeon-rx-7800xt-oc-d12275881.htm",
@@ -1053,7 +1475,16 @@
         "07-01-2025": {
             "price": "563,90",
             "availability": 0
-        }
+        },
+        "08-01-2025": {
+            "price": "563,90",
+            "availability": 0
+        },
+        "09-01-2025": {
+            "price": "563,90",
+            "availability": 0
+        },
+        "image": "https:\/\/image.alza.cz\/products\/NCa770pb5\/NCa770pb5.jpg?width=230&height=230"
     },
     "XFX Quicksilver AMD Radeon RX 7800 XT Magnetic Air Arctic White": {
         "link": "https:\/\/www.alza.sk\/xfx-quicksilver-amd-radeon-rx-7800-xt-magnetic-air-arctic-white-d12496755.htm",
@@ -1073,7 +1504,16 @@
         "07-01-2025": {
             "price": "564,90",
             "availability": 5
-        }
+        },
+        "08-01-2025": {
+            "price": "564,90",
+            "availability": 5
+        },
+        "09-01-2025": {
+            "price": "564,90",
+            "availability": 5
+        },
+        "image": "https:\/\/image.alza.cz\/products\/XFXr7800xqmw\/XFXr7800xqmw.jpg?width=230&height=230"
     },
     "Inno3D GeForce RTX 4070 Twin X2 12 G": {
         "link": "https:\/\/www.alza.sk\/inno3d-geforce-rtx-4070-twin-x2-12-g-d7720276.htm",
@@ -1093,7 +1533,16 @@
         "07-01-2025": {
             "price": "564,90",
             "availability": 5
-        }
+        },
+        "08-01-2025": {
+            "price": "564,90",
+            "availability": 5
+        },
+        "09-01-2025": {
+            "price": "564,90",
+            "availability": 5
+        },
+        "image": "https:\/\/image.alza.cz\/products\/I3Dr4070tx2a1\/I3Dr4070tx2a1.jpg?width=230&height=230"
     },
     "SAPPHIRE PURE Radeon RX 7800 XT GAMING OC 16GB": {
         "link": "https:\/\/www.alza.sk\/sapphire-pure-radeon-rx-7800-xt-gaming-oc-16gb-d7895858.htm",
@@ -1113,7 +1562,16 @@
         "07-01-2025": {
             "price": "569,90",
             "availability": 5
-        }
+        },
+        "08-01-2025": {
+            "price": "569,90",
+            "availability": 5
+        },
+        "09-01-2025": {
+            "price": "569,90",
+            "availability": 5
+        },
+        "image": "https:\/\/image.alza.cz\/products\/ELrx7800xpur2\/ELrx7800xpur2.jpg?width=230&height=230"
     },
     "GIGABYTE Radeon RX 7800 XT GAMING OC 16G": {
         "link": "https:\/\/www.alza.sk\/gigabyte-radeon-rx-7800-xt-gaming-oc-16g-d7917082.htm",
@@ -1133,7 +1591,16 @@
         "07-01-2025": {
             "price": "567,90",
             "availability": 5
-        }
+        },
+        "08-01-2025": {
+            "price": "567,90",
+            "availability": 5
+        },
+        "09-01-2025": {
+            "price": "565,90",
+            "availability": 5
+        },
+        "image": "https:\/\/image.alza.cz\/products\/EGr7800xg2\/EGr7800xg2.jpg?width=230&height=230"
     },
     "PALIT GeForce RTX 4070 Dual OC 12 GB GDDR6": {
         "link": "https:\/\/www.alza.sk\/palit-geforce-rtx-4070-dual-oc-12-gb-gddr6-d12542085.htm",
@@ -1153,7 +1620,16 @@
         "07-01-2025": {
             "price": "583,90",
             "availability": 5
-        }
+        },
+        "08-01-2025": {
+            "price": "583,90",
+            "availability": 5
+        },
+        "09-01-2025": {
+            "price": "583,90",
+            "availability": 5
+        },
+        "image": "https:\/\/image.alza.cz\/products\/PALr47d2\/PALr47d2.jpg?width=230&height=230"
     },
     "AMD Radeon PRO W7600 8 GB": {
         "link": "https:\/\/www.alza.sk\/amd-radeon-pro-w7600-8-gb-d12436964.htm",
@@ -1173,7 +1649,16 @@
         "07-01-2025": {
             "price": "593,90",
             "availability": 5
-        }
+        },
+        "08-01-2025": {
+            "price": "593,90",
+            "availability": 5
+        },
+        "09-01-2025": {
+            "price": "593,90",
+            "availability": 5
+        },
+        "image": "https:\/\/image.alza.cz\/products\/ELw7600\/ELw7600.jpg?width=230&height=230"
     },
     "SAPPHIRE NITRO+ Radeon RX 7800 XT GAMING OC 16 GB": {
         "link": "https:\/\/www.alza.sk\/sapphire-nitro-radeon-rx-7800-xt-gaming-oc-16-gb-d7895863.htm",
@@ -1193,7 +1678,16 @@
         "07-01-2025": {
             "price": "597,90",
             "availability": 5
-        }
+        },
+        "08-01-2025": {
+            "price": "597,90",
+            "availability": 5
+        },
+        "09-01-2025": {
+            "price": "598,90",
+            "availability": 5
+        },
+        "image": "https:\/\/image.alza.cz\/products\/ELrx7800xn2\/ELrx7800xn2.jpg?width=230&height=230"
     },
     "Inno3D GeForce RTX 4070 Twin X2 OC 12G": {
         "link": "https:\/\/www.alza.sk\/inno3d-geforce-rtx-4070-twin-x2-oc-12g-d7720275.htm",
@@ -1213,7 +1707,16 @@
         "07-01-2025": {
             "price": "596,90",
             "availability": 5
-        }
+        },
+        "08-01-2025": {
+            "price": "596,90",
+            "availability": 5
+        },
+        "09-01-2025": {
+            "price": "596,90",
+            "availability": 5
+        },
+        "image": "https:\/\/image.alza.cz\/products\/I3Dr4070tx2a2\/I3Dr4070tx2a2.jpg?width=230&height=230"
     },
     "MSI GeForce RTX 4070 VENTUS 2X E1 12G OC GDDR6": {
         "link": "https:\/\/www.alza.sk\/msi-geforce-rtx-4070-ventus-2x-e1-12g-oc-gddr6-d12581767.htm",
@@ -1233,7 +1736,16 @@
         "07-01-2025": {
             "price": "606,90",
             "availability": 5
-        }
+        },
+        "08-01-2025": {
+            "price": "606,90",
+            "availability": 5
+        },
+        "09-01-2025": {
+            "price": "606,90",
+            "availability": 5
+        },
+        "image": "https:\/\/image.alza.cz\/products\/EFr47v2e2g\/EFr47v2e2g.jpg?width=230&height=230"
     },
     "PALIT GeForce RTX 4070 Dual 12 GB GDDR6": {
         "link": "https:\/\/www.alza.sk\/palit-geforce-rtx-4070-dual-12-gb-gddr6-d12542084.htm",
@@ -1253,7 +1765,16 @@
         "07-01-2025": {
             "price": "614,90",
             "availability": 51012025
-        }
+        },
+        "08-01-2025": {
+            "price": "614,90",
+            "availability": 51012025
+        },
+        "09-01-2025": {
+            "price": "614,90",
+            "availability": 51012025
+        },
+        "image": "https:\/\/image.alza.cz\/products\/PALr47d3\/PALr47d3.jpg?width=230&height=230"
     },
     "GIGABYTE GeForce RTX 4070 WINDFORCE OC V2 12G": {
         "link": "https:\/\/www.alza.sk\/gigabyte-geforce-rtx-4070-windforce-oc-v2-12g-d12559034.htm",
@@ -1273,7 +1794,16 @@
         "07-01-2025": {
             "price": "617,90",
             "availability": 5
-        }
+        },
+        "08-01-2025": {
+            "price": "617,90",
+            "availability": 5
+        },
+        "09-01-2025": {
+            "price": "622,90",
+            "availability": 5
+        },
+        "image": "https:\/\/image.alza.cz\/products\/EGr4070wv22\/EGr4070wv22.jpg?width=230&height=230"
     },
     "PALIT GeForce RTX 4070 White OC 12 GB GDDR6": {
         "link": "https:\/\/www.alza.sk\/palit-geforce-rtx-4070-white-oc-12-gb-gddr6-d12542083.htm",
@@ -1293,7 +1823,16 @@
         "07-01-2025": {
             "price": "618,90",
             "availability": 1
-        }
+        },
+        "08-01-2025": {
+            "price": "618,90",
+            "availability": 51012025
+        },
+        "09-01-2025": {
+            "price": "618,90",
+            "availability": 51012025
+        },
+        "image": "https:\/\/image.alza.cz\/products\/PALr47w2\/PALr47w2.jpg?width=230&height=230"
     },
     "MSI GeForce RTX 4070 SUPER 12G VENTUS 2X OC": {
         "link": "https:\/\/www.alza.sk\/msi-geforce-rtx-4070-super-12g-ventus-2x-oc-d8629940.htm",
@@ -1313,7 +1852,16 @@
         "07-01-2025": {
             "price": "645,90",
             "availability": 5
-        }
+        },
+        "08-01-2025": {
+            "price": "686,90",
+            "availability": 5
+        },
+        "09-01-2025": {
+            "price": "686,90",
+            "availability": 5
+        },
+        "image": "https:\/\/image.alza.cz\/products\/EFr4070sv2x2\/EFr4070sv2x2.jpg?width=230&height=230"
     },
     "GIGABYTE GeForce RTX 4070 WINDFORCE OC 12G": {
         "link": "https:\/\/www.alza.sk\/gigabyte-geforce-rtx-4070-windforce-oc-12g-d7719034.htm",
@@ -1333,7 +1881,16 @@
         "07-01-2025": {
             "price": "649,90",
             "availability": 5
-        }
+        },
+        "08-01-2025": {
+            "price": "649,90",
+            "availability": 5
+        },
+        "09-01-2025": {
+            "price": "657,90",
+            "availability": 5
+        },
+        "image": "https:\/\/image.alza.cz\/products\/EGr4070w2\/EGr4070w2.jpg?width=230&height=230"
     },
     "GIGABYTE GeForce RTX 4070 WINDFORCE 2X OC V2 12G": {
         "link": "https:\/\/www.alza.sk\/gigabyte-geforce-rtx-4070-windforce-2x-oc-v2-12g-d12671825.htm",
@@ -1353,7 +1910,16 @@
         "07-01-2025": {
             "price": "623,90",
             "availability": 5
-        }
+        },
+        "08-01-2025": {
+            "price": "624,90",
+            "availability": 5
+        },
+        "09-01-2025": {
+            "price": "624,90",
+            "availability": 5
+        },
+        "image": "https:\/\/image.alza.cz\/products\/EGr47w2x1\/EGr47w2x1.jpg?width=230&height=230"
     },
     "GAINWARD GeForce RTX 4070 SUPER Ghost 12GB GDDR6X": {
         "link": "https:\/\/www.alza.sk\/gainward-geforce-rtx-4070-super-ghost-12gb-gddr6x-d9358302.htm",
@@ -1385,6 +1951,10 @@
         "07-01-2025": {
             "price": "685,90",
             "availability": 2
+        },
+        "08-01-2025": {
+            "price": "685,90",
+            "availability": 1
         }
     },
     "ASUS PRIME GeForce RTX 4070 O12G": {
@@ -1405,7 +1975,16 @@
         "07-01-2025": {
             "price": "694,90",
             "availability": 5
-        }
+        },
+        "08-01-2025": {
+            "price": "694,90",
+            "availability": 5
+        },
+        "09-01-2025": {
+            "price": "691,90",
+            "availability": 5
+        },
+        "image": "https:\/\/image.alza.cz\/products\/ECr47pr2\/ECr47pr2.jpg?width=230&height=230"
     },
     "GIGABYTE GeForce RTX 4070 SUPER WINDFORCE OC 12G": {
         "link": "https:\/\/www.alza.sk\/gigabyte-geforce-rtx-4070-super-windforce-oc-12g-d9358232.htm",
@@ -1421,7 +2000,16 @@
         "07-01-2025": {
             "price": "696,90",
             "availability": 5
-        }
+        },
+        "08-01-2025": {
+            "price": "689,90",
+            "availability": 5
+        },
+        "09-01-2025": {
+            "price": "697,90",
+            "availability": 5
+        },
+        "image": "https:\/\/image.alza.cz\/products\/EGr4070swi2\/EGr4070swi2.jpg?width=230&height=230"
     },
     "GAINWARD GeForce RTX 4070 SUPER Python III OC": {
         "link": "https:\/\/www.alza.sk\/gainward-geforce-rtx-4070-super-python-iii-oc-d12710804.htm",
@@ -1441,7 +2029,16 @@
         "07-01-2025": {
             "price": "706,90",
             "availability": 5
-        }
+        },
+        "08-01-2025": {
+            "price": "706,90",
+            "availability": 5
+        },
+        "09-01-2025": {
+            "price": "706,90",
+            "availability": 5
+        },
+        "image": "https:\/\/image.alza.cz\/products\/EGr47sp1\/EGr47sp1.jpg?width=230&height=230"
     },
     "EVGA GeForce RTX 3070 Ti XC3 ULTRA": {
         "link": "https:\/\/www.alza.sk\/evga-geforce-rtx-3070-ti-xc3-ultra-d6633346.htm",
@@ -1461,7 +2058,16 @@
         "07-01-2025": {
             "price": "721,90",
             "availability": 1
-        }
+        },
+        "08-01-2025": {
+            "price": "721,90",
+            "availability": 1
+        },
+        "09-01-2025": {
+            "price": "721,90",
+            "availability": 1
+        },
+        "image": "https:\/\/image.alza.cz\/products\/EVr3070tf4\/EVr3070tf4.jpg?width=230&height=230"
     },
     "ASUS PRIME GeForce RTX 4070 SUPER O12G": {
         "link": "https:\/\/www.alza.sk\/asus-prime-geforce-rtx-4070-super-o12g-d12487184.htm",
@@ -1481,7 +2087,16 @@
         "07-01-2025": {
             "price": "722,90",
             "availability": 4
-        }
+        },
+        "08-01-2025": {
+            "price": "722,90",
+            "availability": 5
+        },
+        "09-01-2025": {
+            "price": "723,90",
+            "availability": 5
+        },
+        "image": "https:\/\/image.alza.cz\/products\/ECr4070spr2\/ECr4070spr2.jpg?width=230&height=230"
     },
     "GIGABYTE GeForce RTX 4070 SUPER EAGLE OC 12G": {
         "link": "https:\/\/www.alza.sk\/gigabyte-geforce-rtx-4070-super-eagle-oc-12g-d9358231.htm",
@@ -1517,7 +2132,16 @@
         "07-01-2025": {
             "price": "732,90",
             "availability": 5
-        }
+        },
+        "08-01-2025": {
+            "price": "734,90",
+            "availability": 5
+        },
+        "09-01-2025": {
+            "price": "736,90",
+            "availability": 5
+        },
+        "image": "https:\/\/image.alza.cz\/products\/EGr4070se4\/EGr4070se4.jpg?width=230&height=230"
     },
     "GIGABYTE GeForce RTX 4070 SUPER GAMING OC 12G": {
         "link": "https:\/\/www.alza.sk\/gigabyte-geforce-rtx-4070-super-gaming-oc-12g-d9358224.htm",
@@ -1533,7 +2157,16 @@
         "07-01-2025": {
             "price": "759,90",
             "availability": 5
-        }
+        },
+        "08-01-2025": {
+            "price": "759,90",
+            "availability": 5
+        },
+        "09-01-2025": {
+            "price": "759,90",
+            "availability": 5
+        },
+        "image": "https:\/\/image.alza.cz\/products\/EGr4070sgo2\/EGr4070sgo2.jpg?width=230&height=230"
     },
     "SAPPHIRE PULSE AMD Radeon RX 7900 XT 20G": {
         "link": "https:\/\/www.alza.sk\/sapphire-pulse-amd-radeon-rx-7900-xt-20g-d7600125.htm",
@@ -1553,7 +2186,16 @@
         "07-01-2025": {
             "price": "795,90",
             "availability": 5
-        }
+        },
+        "08-01-2025": {
+            "price": "795,90",
+            "availability": 5
+        },
+        "09-01-2025": {
+            "price": "796,90",
+            "availability": 5
+        },
+        "image": "https:\/\/image.alza.cz\/products\/ELrx7900xt10p\/ELrx7900xt10p.jpg?width=230&height=230"
     },
     "MSI GeForce RTX 4070 SUPER 12G GAMING X SLIM": {
         "link": "https:\/\/www.alza.sk\/msi-geforce-rtx-4070-super-12g-gaming-x-slim-d8629937.htm",
@@ -1573,7 +2215,16 @@
         "07-01-2025": {
             "price": "798,90",
             "availability": 5
-        }
+        },
+        "08-01-2025": {
+            "price": "798,90",
+            "availability": 5
+        },
+        "09-01-2025": {
+            "price": "798,90",
+            "availability": 5
+        },
+        "image": "https:\/\/image.alza.cz\/products\/EFr4070sgxs\/EFr4070sgxs.jpg?width=230&height=230"
     },
     "SAPPHIRE NITRO+ AMD Radeon RX 7900 XT Vapor-X 20G": {
         "link": "https:\/\/www.alza.sk\/sapphire-nitro-amd-radeon-rx-7900-xt-vapor-x-20g-d7625013.htm",
@@ -1593,7 +2244,16 @@
         "07-01-2025": {
             "price": "868,90",
             "availability": 5
-        }
+        },
+        "08-01-2025": {
+            "price": "868,90",
+            "availability": 5
+        },
+        "09-01-2025": {
+            "price": "869,90",
+            "availability": 5
+        },
+        "image": "https:\/\/image.alza.cz\/products\/ELrx7900xt20n\/ELrx7900xt20n.jpg?width=230&height=230"
     },
     "PALIT GeForce RTX 4070 Ti SUPER JetStream OC 16GB GDDR6X": {
         "link": "https:\/\/www.alza.sk\/palit-geforce-rtx-4070-ti-super-jetstream-oc-16gb-gddr6x-d12509711.htm",
@@ -1633,7 +2293,16 @@
         "07-01-2025": {
             "price": "899,90",
             "availability": 2
-        }
+        },
+        "08-01-2025": {
+            "price": "889,90",
+            "availability": 2
+        },
+        "09-01-2025": {
+            "price": "891,90",
+            "availability": 2
+        },
+        "image": "https:\/\/image.alza.cz\/products\/ECr79xtd2\/ECr79xtd2.jpg?width=230&height=230"
     },
     "PALIT GeForce RTX 4070 Ti SUPER GameRock OmniBlack 16GB GDDR6X": {
         "link": "https:\/\/www.alza.sk\/palit-geforce-rtx-4070-ti-super-gamerock-omniblack-16gb-gddr6x-d12509712.htm",
@@ -1653,7 +2322,16 @@
         "07-01-2025": {
             "price": "913,90",
             "availability": 5
-        }
+        },
+        "08-01-2025": {
+            "price": "913,90",
+            "availability": 5
+        },
+        "09-01-2025": {
+            "price": "913,90",
+            "availability": 5
+        },
+        "image": "https:\/\/image.alza.cz\/products\/PALr47tsgo1\/PALr47tsgo1.jpg?width=230&height=230"
     },
     "ASUS ROG STRIX GeForce RTX 4070 SUPER O12G GAMING": {
         "link": "https:\/\/www.alza.sk\/asus-rog-strix-geforce-rtx-4070-super-o12g-gaming-d9358240.htm",
@@ -1673,7 +2351,16 @@
         "07-01-2025": {
             "price": "904,90",
             "availability": 4
-        }
+        },
+        "08-01-2025": {
+            "price": "904,90",
+            "availability": 3
+        },
+        "09-01-2025": {
+            "price": "916,90",
+            "availability": 3
+        },
+        "image": "https:\/\/image.alza.cz\/products\/ECr4070sr2\/ECr4070sr2.jpg?width=230&height=230"
     },
     "GAINWARD GeForce RTX 4070 Ti SUPER Python III OC": {
         "link": "https:\/\/www.alza.sk\/gainward-geforce-rtx-4070-ti-super-python-iii-oc-d12629288.htm",
@@ -1693,7 +2380,16 @@
         "07-01-2025": {
             "price": "921,90",
             "availability": 0
-        }
+        },
+        "08-01-2025": {
+            "price": "921,90",
+            "availability": 0
+        },
+        "09-01-2025": {
+            "price": "921,90",
+            "availability": 0
+        },
+        "image": "https:\/\/image.alza.cz\/products\/EGr47tsp1\/EGr47tsp1.jpg?width=230&height=230"
     },
     "Inno3D GeForce RTX 4070 Ti SUPER iChill X3": {
         "link": "https:\/\/www.alza.sk\/inno3d-geforce-rtx-4070-ti-super-ichill-x3-d9197028.htm",
@@ -1711,6 +2407,10 @@
             "availability": 1
         },
         "07-01-2025": {
+            "price": "927,90",
+            "availability": 1
+        },
+        "08-01-2025": {
             "price": "927,90",
             "availability": 1
         }
@@ -1733,7 +2433,16 @@
         "07-01-2025": {
             "price": "945,90",
             "availability": 2
-        }
+        },
+        "08-01-2025": {
+            "price": "945,90",
+            "availability": 1
+        },
+        "09-01-2025": {
+            "price": "945,90",
+            "availability": 1
+        },
+        "image": "https:\/\/image.alza.cz\/products\/EFr4070tsv2xw2\/EFr4070tsv2xw2.jpg?width=230&height=230"
     },
     "ASUS DUAL GeForce RTX 4070 Ti SUPER O16 G": {
         "link": "https:\/\/www.alza.sk\/asus-dual-geforce-rtx-4070-ti-super-o16-g-d12388849.htm",
@@ -1753,7 +2462,16 @@
         "07-01-2025": {
             "price": "949,90",
             "availability": 5
-        }
+        },
+        "08-01-2025": {
+            "price": "939,90",
+            "availability": 5
+        },
+        "09-01-2025": {
+            "price": "941,90",
+            "availability": 5
+        },
+        "image": "https:\/\/image.alza.cz\/products\/ECr47tsd2\/ECr47tsd2.jpg?width=230&height=230"
     },
     "MSI GeForce RTX 4070 Ti SUPER 16G VENTUS 2X OC": {
         "link": "https:\/\/www.alza.sk\/msi-geforce-rtx-4070-ti-super-16g-ventus-2x-oc-d8629939.htm",
@@ -1773,7 +2491,16 @@
         "07-01-2025": {
             "price": "949,90",
             "availability": 4
-        }
+        },
+        "08-01-2025": {
+            "price": "949,90",
+            "availability": 4
+        },
+        "09-01-2025": {
+            "price": "949,90",
+            "availability": 1
+        },
+        "image": "https:\/\/image.alza.cz\/products\/EFr4070tsv2x2\/EFr4070tsv2x2.jpg?width=230&height=230"
     },
     "GIGABYTE GeForce RTX 4070 Ti SUPER WINDFORCE OC 16G": {
         "link": "https:\/\/www.alza.sk\/gigabyte-geforce-rtx-4070-ti-super-windforce-oc-16g-d9358225.htm",
@@ -1793,7 +2520,16 @@
         "07-01-2025": {
             "price": "939,90",
             "availability": 5
-        }
+        },
+        "08-01-2025": {
+            "price": "939,90",
+            "availability": 5
+        },
+        "09-01-2025": {
+            "price": "953,90",
+            "availability": 5
+        },
+        "image": "https:\/\/image.alza.cz\/products\/EGr4070tswi2\/EGr4070tswi2.jpg?width=230&height=230"
     },
     "MSI GeForce RTX 4070 Ti SUPER 16G SHADOW 3X OC": {
         "link": "https:\/\/www.alza.sk\/msi-geforce-rtx-4070-ti-super-16g-shadow-3x-oc-d12645526.htm",
@@ -1813,7 +2549,16 @@
         "07-01-2025": {
             "price": "957,90",
             "availability": 5
-        }
+        },
+        "08-01-2025": {
+            "price": "957,90",
+            "availability": 5
+        },
+        "09-01-2025": {
+            "price": "958,90",
+            "availability": 5
+        },
+        "image": "https:\/\/image.alza.cz\/products\/EFr47tss2\/EFr47tss2.jpg?width=230&height=230"
     },
     "GAINWARD GeForce RTX 4070 Ti SUPER Phoenix GS 16 GB GDDR6X": {
         "link": "https:\/\/www.alza.sk\/gainward-geforce-rtx-4070-ti-super-phoenix-gs-16-gb-gddr6x-d10870500.htm",
@@ -1833,7 +2578,16 @@
         "07-01-2025": {
             "price": "967,90",
             "availability": 1
-        }
+        },
+        "08-01-2025": {
+            "price": "967,90",
+            "availability": 1
+        },
+        "09-01-2025": {
+            "price": "967,90",
+            "availability": 1
+        },
+        "image": "https:\/\/image.alza.cz\/products\/EGr4070tsphog1\/EGr4070tsphog1.jpg?width=230&height=230"
     },
     "GAINWARD GeForce RTX 4070 Ti SUPER Phoenix 16GB GDDR6X": {
         "link": "https:\/\/www.alza.sk\/gainward-geforce-rtx-4070-ti-super-phoenix-16gb-gddr6x-d9358307.htm",
@@ -1853,7 +2607,16 @@
         "07-01-2025": {
             "price": "968,90",
             "availability": 5
-        }
+        },
+        "08-01-2025": {
+            "price": "968,90",
+            "availability": 5
+        },
+        "09-01-2025": {
+            "price": "968,90",
+            "availability": 5
+        },
+        "image": "https:\/\/image.alza.cz\/products\/EGr4070tspho1\/EGr4070tspho1.jpg?width=230&height=230"
     },
     "GIGABYTE GeForce RTX 4070 Ti SUPER EAGLE OC 16G": {
         "link": "https:\/\/www.alza.sk\/gigabyte-geforce-rtx-4070-ti-super-eagle-oc-16g-d9358229.htm",
@@ -1873,7 +2636,16 @@
         "07-01-2025": {
             "price": "973,90",
             "availability": 5
-        }
+        },
+        "08-01-2025": {
+            "price": "973,90",
+            "availability": 5
+        },
+        "09-01-2025": {
+            "price": "973,90",
+            "availability": 2
+        },
+        "image": "https:\/\/image.alza.cz\/products\/EGr4070tsea2\/EGr4070tsea2.jpg?width=230&height=230"
     },
     "GIGABYTE GeForce RTX 4070 Ti SUPER GAMING OC 16G": {
         "link": "https:\/\/www.alza.sk\/gigabyte-geforce-rtx-4070-ti-super-gaming-oc-16g-d9358230.htm",
@@ -1893,7 +2665,16 @@
         "07-01-2025": {
             "price": "989,90",
             "availability": 5
-        }
+        },
+        "08-01-2025": {
+            "price": "989,90",
+            "availability": 5
+        },
+        "09-01-2025": {
+            "price": "989,90",
+            "availability": 5
+        },
+        "image": "https:\/\/image.alza.cz\/products\/EGr4070tsgo2\/EGr4070tsgo2.jpg?width=230&height=230"
     },
     "ASUS TUF GeForce RTX 4070 Ti SUPER O16G GAMING WHITE": {
         "link": "https:\/\/www.alza.sk\/asus-tuf-geforce-rtx-4070-ti-super-o16g-gaming-white-d9912934.htm",
@@ -1929,7 +2710,16 @@
         "07-01-2025": {
             "price": "1049",
             "availability": 5
-        }
+        },
+        "08-01-2025": {
+            "price": "1049",
+            "availability": 5
+        },
+        "09-01-2025": {
+            "price": "1049",
+            "availability": 5
+        },
+        "image": "https:\/\/image.alza.cz\/products\/ELrx7900xtx10p\/ELrx7900xtx10p.jpg?width=230&height=230"
     },
     "ASUS PROART GeForce RTX 4070 Ti SUPER O16G": {
         "link": "https:\/\/www.alza.sk\/asus-proart-geforce-rtx-4070-ti-super-o16g-d9910661.htm",
@@ -1947,6 +2737,10 @@
             "availability": 2
         },
         "07-01-2025": {
+            "price": "1059",
+            "availability": 2
+        },
+        "08-01-2025": {
             "price": "1059",
             "availability": 2
         }
@@ -1969,7 +2763,16 @@
         "07-01-2025": {
             "price": "1089",
             "availability": 5
-        }
+        },
+        "08-01-2025": {
+            "price": "1089",
+            "availability": 5
+        },
+        "09-01-2025": {
+            "price": "1089",
+            "availability": 5
+        },
+        "image": "https:\/\/image.alza.cz\/products\/ECr4070tst2\/ECr4070tst2.jpg?width=230&height=230"
     },
     "MSI GeForce RTX 4070 Ti SUPER 16G GAMING SLIM STALKER 2 EDITION": {
         "link": "https:\/\/www.alza.sk\/msi-geforce-rtx-4070-ti-super-16g-gaming-slim-stalker-2-edition-d12553663.htm",
@@ -2005,7 +2808,16 @@
         "07-01-2025": {
             "price": "1139",
             "availability": 5
-        }
+        },
+        "08-01-2025": {
+            "price": "1139",
+            "availability": 5
+        },
+        "09-01-2025": {
+            "price": "1139",
+            "availability": 5
+        },
+        "image": "https:\/\/image.alza.cz\/products\/I3Dr4080sx3\/I3Dr4080sx3.jpg?width=230&height=230"
     },
     "GAINWARD GeForce RTX 4080 SUPER Python III OC": {
         "link": "https:\/\/www.alza.sk\/gainward-geforce-rtx-4080-super-python-iii-oc-d12629289.htm",
@@ -2025,7 +2837,16 @@
         "07-01-2025": {
             "price": "1149",
             "availability": 5
-        }
+        },
+        "08-01-2025": {
+            "price": "1149",
+            "availability": 5
+        },
+        "09-01-2025": {
+            "price": "1149",
+            "availability": 5
+        },
+        "image": "https:\/\/image.alza.cz\/products\/EGr48sp1\/EGr48sp1.jpg?width=230&height=230"
     },
     "SAPPHIRE NITRO+ AMD Radeon RX 7900 XTX Vapor-X 24G": {
         "link": "https:\/\/www.alza.sk\/sapphire-nitro-amd-radeon-rx-7900-xtx-vapor-x-24g-d7600124.htm",
@@ -2045,7 +2866,16 @@
         "07-01-2025": {
             "price": "1159",
             "availability": 5
-        }
+        },
+        "08-01-2025": {
+            "price": "1159",
+            "availability": 5
+        },
+        "09-01-2025": {
+            "price": "1159",
+            "availability": 5
+        },
+        "image": "https:\/\/image.alza.cz\/products\/ELrx7900xtx20n\/ELrx7900xtx20n.jpg?width=230&height=230"
     },
     "PALIT GeForce RTX 4080 SUPER GamingPro 16GB GDDR6X": {
         "link": "https:\/\/www.alza.sk\/palit-geforce-rtx-4080-super-gamingpro-16gb-gddr6x-d12509706.htm",
@@ -2065,7 +2895,16 @@
         "07-01-2025": {
             "price": "1169",
             "availability": 5
-        }
+        },
+        "08-01-2025": {
+            "price": "1169",
+            "availability": 5
+        },
+        "09-01-2025": {
+            "price": "1169",
+            "availability": 3
+        },
+        "image": "https:\/\/image.alza.cz\/products\/PALr48sg1\/PALr48sg1.jpg?width=230&height=230"
     },
     "GIGABYTE Radeon RX 7900 XTX GAMING OC 24G": {
         "link": "https:\/\/www.alza.sk\/gigabyte-radeon-rx-7900-xtx-gaming-oc-24g-d7641910.htm",
@@ -2085,7 +2924,16 @@
         "07-01-2025": {
             "price": "1109",
             "availability": 5
-        }
+        },
+        "08-01-2025": {
+            "price": "1149",
+            "availability": 5
+        },
+        "09-01-2025": {
+            "price": "1149",
+            "availability": 5
+        },
+        "image": "https:\/\/image.alza.cz\/products\/EGr7900xxg2\/EGr7900xxg2.jpg?width=230&height=230"
     },
     "ASUS DUAL Radeon RX 7900 XTX O24G": {
         "link": "https:\/\/www.alza.sk\/asus-dual-radeon-rx-7900-xtx-o24g-d12665936.htm",
@@ -2100,6 +2948,10 @@
         },
         "07-01-2025": {
             "price": "1189",
+            "availability": 4
+        },
+        "08-01-2025": {
+            "price": "1179",
             "availability": 4
         }
     },
@@ -2121,7 +2973,16 @@
         "07-01-2025": {
             "price": "1189",
             "availability": 5
-        }
+        },
+        "08-01-2025": {
+            "price": "1189",
+            "availability": 5
+        },
+        "09-01-2025": {
+            "price": "1189",
+            "availability": 5
+        },
+        "image": "https:\/\/image.alza.cz\/products\/I3Dr48sx32\/I3Dr48sx32.jpg?width=230&height=230"
     },
     "GIGABYTE GeForce RTX 4080 SUPER WINDFORCE V2 16G": {
         "link": "https:\/\/www.alza.sk\/gigabyte-geforce-rtx-4080-super-windforce-v2-16g-d9874135.htm",
@@ -2141,6 +3002,15 @@
         "07-01-2025": {
             "price": "1199",
             "availability": 5
+        },
+        "08-01-2025": {
+            "price": "1189",
+            "availability": 3
+        },
+        "image": "https:\/\/image.alza.cz\/products\/EGr4080swiv1\/EGr4080swiv1.jpg?width=230&height=230",
+        "09-01-2025": {
+            "price": "1189",
+            "availability": 1
         }
     },
     "GAINWARD GeForce RTX 4080 SUPER Phoenix 16GB GDDR6X": {
@@ -2161,7 +3031,16 @@
         "07-01-2025": {
             "price": "1229",
             "availability": 5
-        }
+        },
+        "08-01-2025": {
+            "price": "1229",
+            "availability": 4
+        },
+        "09-01-2025": {
+            "price": "1229",
+            "availability": 5
+        },
+        "image": "https:\/\/image.alza.cz\/products\/EGr4080spho1\/EGr4080spho1.jpg?width=230&height=230"
     },
     "MSI GeForce RTX 4070 Ti SUPER 16G VENTUS 3X OC": {
         "link": "https:\/\/www.alza.sk\/msi-geforce-rtx-4070-ti-super-16g-ventus-3x-oc-d12436951.htm",
@@ -2181,7 +3060,16 @@
         "07-01-2025": {
             "price": "1269",
             "availability": 3
-        }
+        },
+        "08-01-2025": {
+            "price": "1269",
+            "availability": 2
+        },
+        "09-01-2025": {
+            "price": "958,90",
+            "availability": 2
+        },
+        "image": "https:\/\/image.alza.cz\/products\/EFr47tsv3x2\/EFr47tsv3x2.jpg?width=230&height=230"
     },
     "GIGABYTE GeForce RTX 4080 SUPER GAMING OC 16G": {
         "link": "https:\/\/www.alza.sk\/gigabyte-geforce-rtx-4080-super-gaming-oc-16g-d9874134.htm",
@@ -2201,7 +3089,16 @@
         "07-01-2025": {
             "price": "1249",
             "availability": 5
-        }
+        },
+        "08-01-2025": {
+            "price": "1249",
+            "availability": 5
+        },
+        "09-01-2025": {
+            "price": "1269",
+            "availability": 5
+        },
+        "image": "https:\/\/image.alza.cz\/products\/EGr4080sgo2\/EGr4080sgo2.jpg?width=230&height=230"
     },
     "HP NVIDIA RTX A4000 (16 GB)": {
         "link": "https:\/\/www.alza.sk\/hp-nvidia-rtx-a4000-16-gb-d7212738.htm",
@@ -2221,7 +3118,16 @@
         "07-01-2025": {
             "price": "1329",
             "availability": 3
-        }
+        },
+        "08-01-2025": {
+            "price": "1329",
+            "availability": 3
+        },
+        "09-01-2025": {
+            "price": "1329",
+            "availability": 0
+        },
+        "image": "https:\/\/image.alza.cz\/products\/EN064p5a\/EN064p5a.jpg?width=230&height=230"
     },
     "GAINWARD GeForce RTX 4060 Ti Panther 16G": {
         "link": "https:\/\/www.alza.sk\/gainward-geforce-rtx-4060-ti-panther-16g-d7899925.htm",
@@ -2237,7 +3143,16 @@
         "07-01-2025": {
             "price": "515,90",
             "availability": 51012025
-        }
+        },
+        "08-01-2025": {
+            "price": "515,90",
+            "availability": 51012025
+        },
+        "09-01-2025": {
+            "price": "515,90",
+            "availability": 51012025
+        },
+        "image": "https:\/\/image.alza.cz\/products\/EGr4060tpan1\/EGr4060tpan1.jpg?width=230&height=230"
     },
     "GIGABYTE GeForce RTX 4070 Ti SUPER WINDFORCE MAX OC 16G": {
         "link": "https:\/\/www.alza.sk\/gigabyte-geforce-rtx-4070-ti-super-windforce-max-oc-16g-d12486108.htm",
@@ -2253,7 +3168,16 @@
         "07-01-2025": {
             "price": "922,90",
             "availability": 5
-        }
+        },
+        "08-01-2025": {
+            "price": "923,90",
+            "availability": 5
+        },
+        "09-01-2025": {
+            "price": "926,90",
+            "availability": 5
+        },
+        "image": "https:\/\/image.alza.cz\/products\/EGr47tswm2\/EGr47tswm2.jpg?width=230&height=230"
     },
     "GAINWARD GeForce RTX 4060 Ti Ghost 8 G": {
         "link": "https:\/\/www.alza.sk\/gainward-geforce-rtx-4060-ti-ghost-8-g-d7761391.htm",
@@ -2265,7 +3189,16 @@
         "07-01-2025": {
             "price": "456,90",
             "availability": 51012025
-        }
+        },
+        "08-01-2025": {
+            "price": "456,90",
+            "availability": 51012025
+        },
+        "09-01-2025": {
+            "price": "456,90",
+            "availability": 51012025
+        },
+        "image": "https:\/\/image.alza.cz\/products\/EGr4060tgh1\/EGr4060tgh1.jpg?width=230&height=230"
     },
     "GAINWARD GeForce RTX 4070 Ghost 12GB GDDR6": {
         "link": "https:\/\/www.alza.sk\/gainward-geforce-rtx-4070-ghost-12gb-gddr6-d12584976.htm",
@@ -2277,7 +3210,16 @@
         "07-01-2025": {
             "price": "594,90",
             "availability": 51012025
-        }
+        },
+        "08-01-2025": {
+            "price": "594,90",
+            "availability": 51012025
+        },
+        "09-01-2025": {
+            "price": "594,90",
+            "availability": 51012025
+        },
+        "image": "https:\/\/image.alza.cz\/products\/EGr4070g2g6\/EGr4070g2g6.jpg?width=230&height=230"
     },
     "ASUS DUAL GeForce RTX 4070 EVO O12G GDDR6": {
         "link": "https:\/\/www.alza.sk\/asus-dual-geforce-rtx-4070-evo-o12g-gddr6-d12553672.htm",
@@ -2289,7 +3231,12 @@
         "07-01-2025": {
             "price": "608,90",
             "availability": 1
-        }
+        },
+        "09-01-2025": {
+            "price": "615,90",
+            "availability": 5
+        },
+        "image": "https:\/\/image.alza.cz\/products\/ECr47de2g\/ECr47de2g.jpg?width=230&height=230"
     },
     "GIGABYTE GeForce RTX 4070 Ti SUPER AERO OC 16G": {
         "link": "https:\/\/www.alza.sk\/gigabyte-geforce-rtx-4070-ti-super-aero-oc-16g-d9358226.htm",
@@ -2301,7 +3248,16 @@
         "07-01-2025": {
             "price": "1039",
             "availability": 5
-        }
+        },
+        "08-01-2025": {
+            "price": "1039",
+            "availability": 5
+        },
+        "09-01-2025": {
+            "price": "1039",
+            "availability": 5
+        },
+        "image": "https:\/\/image.alza.cz\/products\/EGr4070tsae2\/EGr4070tsae2.jpg?width=230&height=230"
     },
     "MSI GeForce RTX 3050 LP 6G OC": {
         "link": "https:\/\/www.alza.sk\/msi-geforce-rtx-3050-lp-6g-oc-d12347559.htm",
@@ -2309,7 +3265,16 @@
         "07-01-2025": {
             "price": "216,90",
             "availability": 5
-        }
+        },
+        "08-01-2025": {
+            "price": "216,90",
+            "availability": 5
+        },
+        "09-01-2025": {
+            "price": "216,90",
+            "availability": 1
+        },
+        "image": "https:\/\/image.alza.cz\/products\/EFr3050l2\/EFr3050l2.jpg?width=230&height=230"
     },
     "ASUS GeForce RTX 3050 LP BRK O6G": {
         "link": "https:\/\/www.alza.sk\/asus-geforce-rtx-3050-lp-brk-o6g-d12132812.htm",
@@ -2341,12 +3306,25 @@
         "07-01-2025": {
             "price": "658,90",
             "availability": 5
-        }
+        },
+        "08-01-2025": {
+            "price": "658,90",
+            "availability": 5
+        },
+        "09-01-2025": {
+            "price": "658,90",
+            "availability": 5
+        },
+        "image": "https:\/\/image.alza.cz\/products\/PNYa28\/PNYa28.jpg?width=230&height=230"
     },
     "Inno3D GeForce RTX 4070 SUPER X3 OC 12G": {
         "link": "https:\/\/www.alza.sk\/inno3d-geforce-rtx-4070-super-x3-oc-12g-d9197029.htm",
         "name": "Inno3D GeForce RTX 4070 SUPER X3 OC 12G",
         "07-01-2025": {
+            "price": "664,90",
+            "availability": 2
+        },
+        "08-01-2025": {
             "price": "664,90",
             "availability": 2
         }
@@ -2358,5 +3336,78 @@
             "price": "941,90",
             "availability": 5
         }
+    },
+    "GIGABYTE Radeon RX 7600 GAMING OC 8G": {
+        "link": "https:\/\/www.alza.sk\/gigabyte-radeon-rx-7600-gaming-oc-8g-d7772136.htm",
+        "name": "GIGABYTE Radeon RX 7600 GAMING OC 8G",
+        "08-01-2025": {
+            "price": "335,90",
+            "availability": 5
+        }
+    },
+    "GIGABYTE GeForce RTX 4060 EAGLE OC 8G": {
+        "link": "https:\/\/www.alza.sk\/gigabyte-geforce-rtx-4060-eagle-oc-8g-d7805975.htm",
+        "name": "GIGABYTE GeForce RTX 4060 EAGLE OC 8G",
+        "08-01-2025": {
+            "price": "347,90",
+            "availability": 5
+        },
+        "09-01-2025": {
+            "price": "343,90",
+            "availability": 5
+        },
+        "image": "https:\/\/image.alza.cz\/products\/EGr4060e2\/EGr4060e2.jpg?width=230&height=230"
+    },
+    "GIGABYTE GeForce RTX 4060 AERO OC 8G": {
+        "link": "https:\/\/www.alza.sk\/gigabyte-geforce-rtx-4060-aero-oc-8g-d7805973.htm",
+        "name": "GIGABYTE GeForce RTX 4060 AERO OC 8G",
+        "08-01-2025": {
+            "price": "396,90",
+            "availability": 2
+        },
+        "09-01-2025": {
+            "price": "396,90",
+            "availability": 2
+        },
+        "image": "https:\/\/image.alza.cz\/products\/EGr4060a2\/EGr4060a2.jpg?width=230&height=230"
+    },
+    "ASUS PROART GeForce RTX 4060 O8G": {
+        "link": "https:\/\/www.alza.sk\/asus-proart-geforce-rtx-4060-o8g-d7962849.htm",
+        "name": "ASUS PROART GeForce RTX 4060 O8G",
+        "08-01-2025": {
+            "price": "407,90",
+            "availability": 5
+        },
+        "09-01-2025": {
+            "price": "401,90",
+            "availability": 3
+        },
+        "image": "https:\/\/image.alza.cz\/products\/ECr4060pa2\/ECr4060pa2.jpg?width=230&height=230"
+    },
+    "GIGABYTE GeForce RTX 4060 Ti EAGLE 8G": {
+        "link": "https:\/\/www.alza.sk\/gigabyte-geforce-rtx-4060-ti-eagle-8g-d7760794.htm",
+        "name": "GIGABYTE GeForce RTX 4060 Ti EAGLE 8G",
+        "08-01-2025": {
+            "price": "453,90",
+            "availability": 5
+        }
+    },
+    "GIGABYTE GeForce RTX 4060 Ti GAMING OC 16G": {
+        "link": "https:\/\/www.alza.sk\/gigabyte-geforce-rtx-4060-ti-gaming-oc-16g-d7842062.htm",
+        "name": "GIGABYTE GeForce RTX 4060 Ti GAMING OC 16G",
+        "09-01-2025": {
+            "price": "542,90",
+            "availability": 5
+        },
+        "image": "https:\/\/image.alza.cz\/products\/EGr4060tg2b\/EGr4060tg2b.jpg?width=230&height=230"
+    },
+    "ASUS PRIME GeForce RTX 4070 Ti SUPER O16G": {
+        "link": "https:\/\/www.alza.sk\/asus-prime-geforce-rtx-4070-ti-super-o16g-d12625672.htm",
+        "name": "ASUS PRIME GeForce RTX 4070 Ti SUPER O16G",
+        "09-01-2025": {
+            "price": "948,90",
+            "availability": 5
+        },
+        "image": "https:\/\/image.alza.cz\/products\/ECr47tspr2\/ECr47tspr2.jpg?width=230&height=230"
     }
 }

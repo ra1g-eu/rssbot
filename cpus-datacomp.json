@@ -1,6 +1,6 @@
 {
     "AMD Ryzen 7 7800X3D": {
-        "link": "https:\/\/www.datacomp.skamd-ryzen-7-7800x3d_d459254.html",
+        "link": "https:\/\/www.datacomp.sk\/amd-ryzen-7-7800x3d_d459254.html",
         "name": "AMD Ryzen 7 7800X3D",
         "06-01-2025": {
             "price": "530,84",
@@ -18,10 +18,46 @@
             "price": "530,84",
             "availability": 1
         },
-        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-7-7800x3d_igb459254.jpg"
+        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-7-9800x3d_igb495299.jpg",
+        "10-01-2025": {
+            "price": "530,84",
+            "availability": 1
+        },
+        "11-01-2025": {
+            "price": "529,90",
+            "availability": 1
+        },
+        "12-01-2025": {
+            "price": "529,90",
+            "availability": 1
+        },
+        "13-01-2025": {
+            "price": "529,90",
+            "availability": 1
+        },
+        "14-01-2025": {
+            "price": "529,90",
+            "availability": 1
+        },
+        "15-01-2025": {
+            "price": "529,90",
+            "availability": 1
+        },
+        "16-01-2025": {
+            "price": "529,90",
+            "availability": 1
+        },
+        "17-01-2025": {
+            "price": "529,90",
+            "availability": 1
+        },
+        "18-01-2025": {
+            "price": "529,90",
+            "availability": 1
+        }
     },
     "AMD Ryzen 5 7600": {
-        "link": "https:\/\/www.datacomp.skamd-ryzen-5-7600_d453614.html",
+        "link": "https:\/\/www.datacomp.sk\/amd-ryzen-5-7600_d453614.html",
         "name": "AMD Ryzen 5 7600",
         "06-01-2025": {
             "price": "198,40",
@@ -39,10 +75,46 @@
             "price": "213,95",
             "availability": 1
         },
-        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-7-7800x3d_igb459254.jpg"
+        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-7-9800x3d_igb495299.jpg",
+        "10-01-2025": {
+            "price": "213,95",
+            "availability": 1
+        },
+        "11-01-2025": {
+            "price": "213,95",
+            "availability": 1
+        },
+        "12-01-2025": {
+            "price": "213,95",
+            "availability": 1
+        },
+        "13-01-2025": {
+            "price": "213,95",
+            "availability": 1
+        },
+        "14-01-2025": {
+            "price": "213,95",
+            "availability": 1
+        },
+        "15-01-2025": {
+            "price": "213,95",
+            "availability": 1
+        },
+        "16-01-2025": {
+            "price": "213,95",
+            "availability": 1
+        },
+        "17-01-2025": {
+            "price": "213,95",
+            "availability": 1
+        },
+        "18-01-2025": {
+            "price": "213,95",
+            "availability": 1
+        }
     },
     "AMD Ryzen 7 9700X": {
-        "link": "https:\/\/www.datacomp.skamd-ryzen-7-9700x_d489484.html",
+        "link": "https:\/\/www.datacomp.sk\/amd-ryzen-7-9700x_d489484.html",
         "name": "AMD Ryzen 7 9700X",
         "06-01-2025": {
             "price": "367,87",
@@ -60,10 +132,46 @@
             "price": "367,87",
             "availability": 1
         },
-        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-7-7800x3d_igb459254.jpg"
+        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-7-9800x3d_igb495299.jpg",
+        "10-01-2025": {
+            "price": "367,87",
+            "availability": 1
+        },
+        "11-01-2025": {
+            "price": "367,87",
+            "availability": 1
+        },
+        "12-01-2025": {
+            "price": "367,87",
+            "availability": 1
+        },
+        "13-01-2025": {
+            "price": "367,87",
+            "availability": 1
+        },
+        "14-01-2025": {
+            "price": "367,87",
+            "availability": 1
+        },
+        "15-01-2025": {
+            "price": "367,87",
+            "availability": 1
+        },
+        "16-01-2025": {
+            "price": "367,87",
+            "availability": 1
+        },
+        "17-01-2025": {
+            "price": "367,87",
+            "availability": 1
+        },
+        "18-01-2025": {
+            "price": "367,87",
+            "availability": 1
+        }
     },
     "AMD Ryzen 5 9600X": {
-        "link": "https:\/\/www.datacomp.skamd-ryzen-5-9600x_d489485.html",
+        "link": "https:\/\/www.datacomp.sk\/amd-ryzen-5-9600x_d489485.html",
         "name": "AMD Ryzen 5 9600X",
         "06-01-2025": {
             "price": "273,68",
@@ -81,10 +189,46 @@
             "price": "273,68",
             "availability": 1
         },
-        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-7-7800x3d_igb459254.jpg"
+        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-7-9800x3d_igb495299.jpg",
+        "10-01-2025": {
+            "price": "273,68",
+            "availability": 1
+        },
+        "11-01-2025": {
+            "price": "273,68",
+            "availability": 1
+        },
+        "12-01-2025": {
+            "price": "273,68",
+            "availability": 1
+        },
+        "13-01-2025": {
+            "price": "273,68",
+            "availability": 1
+        },
+        "14-01-2025": {
+            "price": "273,68",
+            "availability": 1
+        },
+        "15-01-2025": {
+            "price": "273,68",
+            "availability": 1
+        },
+        "16-01-2025": {
+            "price": "273,68",
+            "availability": 1
+        },
+        "17-01-2025": {
+            "price": "276,20",
+            "availability": 1
+        },
+        "18-01-2025": {
+            "price": "276,20",
+            "availability": 1
+        }
     },
     "AMD Ryzen 5 5600, Wraith Stealth": {
-        "link": "https:\/\/www.datacomp.skamd-ryzen-5-5600-wraith-stealth_d437108.html",
+        "link": "https:\/\/www.datacomp.sk\/amd-ryzen-5-5600-wraith-stealth_d437108.html",
         "name": "AMD Ryzen 5 5600, Wraith Stealth",
         "06-01-2025": {
             "price": "113,80",
@@ -102,10 +246,46 @@
             "price": "139,92",
             "availability": 1
         },
-        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-7-7800x3d_igb459254.jpg"
+        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-7-9800x3d_igb495299.jpg",
+        "10-01-2025": {
+            "price": "139,76",
+            "availability": 1
+        },
+        "11-01-2025": {
+            "price": "139,76",
+            "availability": 1
+        },
+        "12-01-2025": {
+            "price": "139,76",
+            "availability": 1
+        },
+        "13-01-2025": {
+            "price": "139,76",
+            "availability": 1
+        },
+        "14-01-2025": {
+            "price": "139,76",
+            "availability": 1
+        },
+        "15-01-2025": {
+            "price": "139,76",
+            "availability": 1
+        },
+        "16-01-2025": {
+            "price": "139,76",
+            "availability": 1
+        },
+        "17-01-2025": {
+            "price": "139,76",
+            "availability": 1
+        },
+        "18-01-2025": {
+            "price": "139,76",
+            "availability": 1
+        }
     },
     "AMD Ryzen 5 7600X": {
-        "link": "https:\/\/www.datacomp.skamd-ryzen-5-7600x_d447380.html",
+        "link": "https:\/\/www.datacomp.sk\/amd-ryzen-5-7600x_d447380.html",
         "name": "AMD Ryzen 5 7600X",
         "06-01-2025": {
             "price": "215,90",
@@ -123,10 +303,46 @@
             "price": "215,90",
             "availability": 1
         },
-        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-7-7800x3d_igb459254.jpg"
+        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-7-9800x3d_igb495299.jpg",
+        "10-01-2025": {
+            "price": "251,14",
+            "availability": 1
+        },
+        "11-01-2025": {
+            "price": "251,13",
+            "availability": 1
+        },
+        "12-01-2025": {
+            "price": "251,13",
+            "availability": 1
+        },
+        "13-01-2025": {
+            "price": "251,13",
+            "availability": 1
+        },
+        "14-01-2025": {
+            "price": "236,75",
+            "availability": 1
+        },
+        "15-01-2025": {
+            "price": "236,75",
+            "availability": 1
+        },
+        "16-01-2025": {
+            "price": "236,75",
+            "availability": 1
+        },
+        "17-01-2025": {
+            "price": "236,75",
+            "availability": 1
+        },
+        "18-01-2025": {
+            "price": "236,75",
+            "availability": 1
+        }
     },
     "Intel Core i5-14400F": {
-        "link": "https:\/\/www.datacomp.skintel-core-i5-14400f_d475204.html",
+        "link": "https:\/\/www.datacomp.sk\/intel-core-i5-14400f_d475204.html",
         "name": "Intel Core i5-14400F",
         "06-01-2025": {
             "price": "150,32",
@@ -144,10 +360,46 @@
             "price": "150,32",
             "availability": 1
         },
-        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-7-7800x3d_igb459254.jpg"
+        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-7-9800x3d_igb495299.jpg",
+        "10-01-2025": {
+            "price": "150,32",
+            "availability": 1
+        },
+        "11-01-2025": {
+            "price": "155,80",
+            "availability": 1
+        },
+        "12-01-2025": {
+            "price": "155,80",
+            "availability": 1
+        },
+        "13-01-2025": {
+            "price": "155,80",
+            "availability": 1
+        },
+        "14-01-2025": {
+            "price": "155,80",
+            "availability": 1
+        },
+        "15-01-2025": {
+            "price": "155,80",
+            "availability": 1
+        },
+        "16-01-2025": {
+            "price": "155,80",
+            "availability": 1
+        },
+        "17-01-2025": {
+            "price": "155,80",
+            "availability": 1
+        },
+        "18-01-2025": {
+            "price": "155,80",
+            "availability": 1
+        }
     },
     "AMD Ryzen 9 9900X": {
-        "link": "https:\/\/www.datacomp.skamd-ryzen-9-9900x_d489483.html",
+        "link": "https:\/\/www.datacomp.sk\/amd-ryzen-9-9900x_d489483.html",
         "name": "AMD Ryzen 9 9900X",
         "06-01-2025": {
             "price": "473,45",
@@ -165,10 +417,46 @@
             "price": "473,45",
             "availability": 1
         },
-        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-7-7800x3d_igb459254.jpg"
+        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-7-9800x3d_igb495299.jpg",
+        "10-01-2025": {
+            "price": "473,45",
+            "availability": 1
+        },
+        "11-01-2025": {
+            "price": "473,45",
+            "availability": 1
+        },
+        "12-01-2025": {
+            "price": "473,45",
+            "availability": 1
+        },
+        "13-01-2025": {
+            "price": "473,45",
+            "availability": 1
+        },
+        "14-01-2025": {
+            "price": "473,45",
+            "availability": 1
+        },
+        "15-01-2025": {
+            "price": "473,45",
+            "availability": 1
+        },
+        "16-01-2025": {
+            "price": "473,45",
+            "availability": 1
+        },
+        "17-01-2025": {
+            "price": "473,45",
+            "availability": 1
+        },
+        "18-01-2025": {
+            "price": "473,45",
+            "availability": 1
+        }
     },
     "Intel Core i5-14600K": {
-        "link": "https:\/\/www.datacomp.skintel-core-i5-14600k_d470536.html",
+        "link": "https:\/\/www.datacomp.sk\/intel-core-i5-14600k_d470536.html",
         "name": "Intel Core i5-14600K",
         "06-01-2025": {
             "price": "264,39",
@@ -186,10 +474,46 @@
             "price": "264,39",
             "availability": 1
         },
-        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-7-7800x3d_igb459254.jpg"
+        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-7-9800x3d_igb495299.jpg",
+        "10-01-2025": {
+            "price": "264,39",
+            "availability": 1
+        },
+        "11-01-2025": {
+            "price": "264,39",
+            "availability": 1
+        },
+        "12-01-2025": {
+            "price": "264,39",
+            "availability": 1
+        },
+        "13-01-2025": {
+            "price": "264,39",
+            "availability": 1
+        },
+        "14-01-2025": {
+            "price": "264,39",
+            "availability": 1
+        },
+        "15-01-2025": {
+            "price": "264,39",
+            "availability": 1
+        },
+        "16-01-2025": {
+            "price": "264,39",
+            "availability": 1
+        },
+        "17-01-2025": {
+            "price": "264,39",
+            "availability": 1
+        },
+        "18-01-2025": {
+            "price": "264,39",
+            "availability": 1
+        }
     },
     "AMD Ryzen 7 7700X": {
-        "link": "https:\/\/www.datacomp.skamd-ryzen-7-7700x_d447381.html",
+        "link": "https:\/\/www.datacomp.sk\/amd-ryzen-7-7700x_d447381.html",
         "name": "AMD Ryzen 7 7700X",
         "06-01-2025": {
             "price": "309,91",
@@ -207,10 +531,46 @@
             "price": "309,91",
             "availability": 1
         },
-        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-7-7800x3d_igb459254.jpg"
+        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-7-9800x3d_igb495299.jpg",
+        "10-01-2025": {
+            "price": "309,91",
+            "availability": 1
+        },
+        "11-01-2025": {
+            "price": "309,91",
+            "availability": 1
+        },
+        "12-01-2025": {
+            "price": "309,91",
+            "availability": 1
+        },
+        "13-01-2025": {
+            "price": "348,25",
+            "availability": 1
+        },
+        "14-01-2025": {
+            "price": "348,25",
+            "availability": 1
+        },
+        "15-01-2025": {
+            "price": "348,25",
+            "availability": 1
+        },
+        "16-01-2025": {
+            "price": "348,25",
+            "availability": 1
+        },
+        "17-01-2025": {
+            "price": "348,25",
+            "availability": 1
+        },
+        "18-01-2025": {
+            "price": "348,25",
+            "availability": 1
+        }
     },
     "Intel Core i5-12400F": {
-        "link": "https:\/\/www.datacomp.skintel-core-i5-12400f_d432166.html",
+        "link": "https:\/\/www.datacomp.sk\/intel-core-i5-12400f_d432166.html",
         "name": "Intel Core i5-12400F",
         "06-01-2025": {
             "price": "123,66",
@@ -228,10 +588,46 @@
             "price": "123,66",
             "availability": 1
         },
-        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-7-7800x3d_igb459254.jpg"
+        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-5-8600g-box_igb476414.jpg",
+        "10-01-2025": {
+            "price": "123,66",
+            "availability": 1
+        },
+        "11-01-2025": {
+            "price": "123,66",
+            "availability": 1
+        },
+        "12-01-2025": {
+            "price": "123,66",
+            "availability": 1
+        },
+        "13-01-2025": {
+            "price": "123,66",
+            "availability": 1
+        },
+        "14-01-2025": {
+            "price": "123,66",
+            "availability": 1
+        },
+        "15-01-2025": {
+            "price": "123,66",
+            "availability": 1
+        },
+        "16-01-2025": {
+            "price": "123,66",
+            "availability": 1
+        },
+        "17-01-2025": {
+            "price": "123,66",
+            "availability": 1
+        },
+        "18-01-2025": {
+            "price": "123,66",
+            "availability": 1
+        }
     },
     "AMD Ryzen 7 8700G Box": {
-        "link": "https:\/\/www.datacomp.skamd-ryzen-7-8700g-box_d476415.html",
+        "link": "https:\/\/www.datacomp.sk\/amd-ryzen-7-8700g-box_d476415.html",
         "name": "AMD Ryzen 7 8700G Box",
         "06-01-2025": {
             "price": "312,20",
@@ -249,10 +645,46 @@
             "price": "297,00",
             "availability": 1
         },
-        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-7-7800x3d_igb459254.jpg"
+        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-7-9800x3d_igb495299.jpg",
+        "10-01-2025": {
+            "price": "296,50",
+            "availability": 1
+        },
+        "11-01-2025": {
+            "price": "296,45",
+            "availability": 1
+        },
+        "12-01-2025": {
+            "price": "296,45",
+            "availability": 1
+        },
+        "13-01-2025": {
+            "price": "296,45",
+            "availability": 1
+        },
+        "14-01-2025": {
+            "price": "292,40",
+            "availability": 1
+        },
+        "15-01-2025": {
+            "price": "290,94",
+            "availability": 1
+        },
+        "16-01-2025": {
+            "price": "289,75",
+            "availability": 1
+        },
+        "17-01-2025": {
+            "price": "290,40",
+            "availability": 1
+        },
+        "18-01-2025": {
+            "price": "289,95",
+            "availability": 1
+        }
     },
     "Intel Core i7-14700KF": {
-        "link": "https:\/\/www.datacomp.skintel-core-i7-14700kf_d470538.html",
+        "link": "https:\/\/www.datacomp.sk\/intel-core-i7-14700kf_d470538.html",
         "name": "Intel Core i7-14700KF",
         "06-01-2025": {
             "price": "382,39",
@@ -270,10 +702,46 @@
             "price": "382,39",
             "availability": 1
         },
-        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-7-7800x3d_igb459254.jpg"
+        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-7-9800x3d_igb495299.jpg",
+        "10-01-2025": {
+            "price": "382,39",
+            "availability": 1
+        },
+        "11-01-2025": {
+            "price": "382,39",
+            "availability": 1
+        },
+        "12-01-2025": {
+            "price": "382,39",
+            "availability": 1
+        },
+        "13-01-2025": {
+            "price": "382,39",
+            "availability": 1
+        },
+        "14-01-2025": {
+            "price": "382,39",
+            "availability": 1
+        },
+        "15-01-2025": {
+            "price": "382,39",
+            "availability": 1
+        },
+        "16-01-2025": {
+            "price": "382,39",
+            "availability": 1
+        },
+        "17-01-2025": {
+            "price": "382,39",
+            "availability": 1
+        },
+        "18-01-2025": {
+            "price": "382,39",
+            "availability": 1
+        }
     },
     "AMD Ryzen 5 5600X, Wraith Stealth": {
-        "link": "https:\/\/www.datacomp.skamd-ryzen-5-5600x-wraith-stealth_d409127.html",
+        "link": "https:\/\/www.datacomp.sk\/amd-ryzen-5-5600x-wraith-stealth_d409127.html",
         "name": "AMD Ryzen 5 5600X, Wraith Stealth",
         "06-01-2025": {
             "price": "142,52",
@@ -291,10 +759,46 @@
             "price": "148,88",
             "availability": 1
         },
-        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-7-7800x3d_igb459254.jpg"
+        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-5-8600g-box_igb476414.jpg",
+        "10-01-2025": {
+            "price": "151,38",
+            "availability": 1
+        },
+        "11-01-2025": {
+            "price": "151,38",
+            "availability": 1
+        },
+        "12-01-2025": {
+            "price": "151,38",
+            "availability": 1
+        },
+        "13-01-2025": {
+            "price": "151,38",
+            "availability": 1
+        },
+        "14-01-2025": {
+            "price": "152,38",
+            "availability": 1
+        },
+        "15-01-2025": {
+            "price": "151,62",
+            "availability": 1
+        },
+        "16-01-2025": {
+            "price": "151,01",
+            "availability": 1
+        },
+        "17-01-2025": {
+            "price": "151,34",
+            "availability": 1
+        },
+        "18-01-2025": {
+            "price": "151,11",
+            "availability": 1
+        }
     },
     "Intel Core i7-14700K": {
-        "link": "https:\/\/www.datacomp.skintel-core-i7-14700k_d470537.html",
+        "link": "https:\/\/www.datacomp.sk\/intel-core-i7-14700k_d470537.html",
         "name": "Intel Core i7-14700K",
         "06-01-2025": {
             "price": "411,79",
@@ -312,10 +816,46 @@
             "price": "411,79",
             "availability": 1
         },
-        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-5-5500-wraith-stealth_igb437107.jpg"
+        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-7-9800x3d_igb495299.jpg",
+        "10-01-2025": {
+            "price": "411,79",
+            "availability": 1
+        },
+        "11-01-2025": {
+            "price": "411,79",
+            "availability": 1
+        },
+        "12-01-2025": {
+            "price": "411,79",
+            "availability": 1
+        },
+        "13-01-2025": {
+            "price": "411,79",
+            "availability": 1
+        },
+        "14-01-2025": {
+            "price": "411,79",
+            "availability": 1
+        },
+        "15-01-2025": {
+            "price": "411,79",
+            "availability": 1
+        },
+        "16-01-2025": {
+            "price": "411,79",
+            "availability": 1
+        },
+        "17-01-2025": {
+            "price": "411,79",
+            "availability": 1
+        },
+        "18-01-2025": {
+            "price": "411,79",
+            "availability": 1
+        }
     },
     "AMD Ryzen 7 8700F": {
-        "link": "https:\/\/www.datacomp.skamd-ryzen-7-8700f_d484248.html",
+        "link": "https:\/\/www.datacomp.sk\/amd-ryzen-7-8700f_d484248.html",
         "name": "AMD Ryzen 7 8700F",
         "06-01-2025": {
             "price": "215,66",
@@ -333,10 +873,46 @@
             "price": "284,50",
             "availability": 1
         },
-        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-7-7800x3d_igb459254.jpg"
+        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-5-8600g-box_igb476414.jpg",
+        "10-01-2025": {
+            "price": "283,99",
+            "availability": 1
+        },
+        "11-01-2025": {
+            "price": "260,94",
+            "availability": 1
+        },
+        "12-01-2025": {
+            "price": "260,94",
+            "availability": 1
+        },
+        "13-01-2025": {
+            "price": "260,65",
+            "availability": 1
+        },
+        "14-01-2025": {
+            "price": "263,36",
+            "availability": 1
+        },
+        "15-01-2025": {
+            "price": "262,00",
+            "availability": 1
+        },
+        "16-01-2025": {
+            "price": "260,94",
+            "availability": 1
+        },
+        "17-01-2025": {
+            "price": "261,50",
+            "availability": 1
+        },
+        "18-01-2025": {
+            "price": "261,10",
+            "availability": 1
+        }
     },
     "Intel Core i7-14700F": {
-        "link": "https:\/\/www.datacomp.skintel-core-i7-14700f_d475208.html",
+        "link": "https:\/\/www.datacomp.sk\/intel-core-i7-14700f_d475208.html",
         "name": "Intel Core i7-14700F",
         "06-01-2025": {
             "price": "336,50",
@@ -354,10 +930,46 @@
             "price": "336,50",
             "availability": 1
         },
-        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-7-7800x3d_igb459254.jpg"
+        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-5-8600g-box_igb476414.jpg",
+        "10-01-2025": {
+            "price": "336,50",
+            "availability": 1
+        },
+        "11-01-2025": {
+            "price": "336,50",
+            "availability": 1
+        },
+        "12-01-2025": {
+            "price": "336,50",
+            "availability": 1
+        },
+        "13-01-2025": {
+            "price": "336,50",
+            "availability": 1
+        },
+        "14-01-2025": {
+            "price": "336,50",
+            "availability": 1
+        },
+        "15-01-2025": {
+            "price": "352,35",
+            "availability": 1
+        },
+        "16-01-2025": {
+            "price": "350,89",
+            "availability": 1
+        },
+        "17-01-2025": {
+            "price": "351,69",
+            "availability": 1
+        },
+        "18-01-2025": {
+            "price": "351,15",
+            "availability": 1
+        }
     },
     "AMD Ryzen 9 5900X": {
-        "link": "https:\/\/www.datacomp.skamd-ryzen-9-5900x_d409691.html",
+        "link": "https:\/\/www.datacomp.sk\/amd-ryzen-9-5900x_d409691.html",
         "name": "AMD Ryzen 9 5900X",
         "06-01-2025": {
             "price": "238,30",
@@ -375,10 +987,46 @@
             "price": "245,10",
             "availability": 1
         },
-        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-7-7800x3d_igb459254.jpg"
+        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-7-9800x3d_igb495299.jpg",
+        "10-01-2025": {
+            "price": "245,10",
+            "availability": 0
+        },
+        "11-01-2025": {
+            "price": "265,27",
+            "availability": 1
+        },
+        "12-01-2025": {
+            "price": "265,27",
+            "availability": 1
+        },
+        "13-01-2025": {
+            "price": "264,94",
+            "availability": 1
+        },
+        "14-01-2025": {
+            "price": "267,70",
+            "availability": 1
+        },
+        "15-01-2025": {
+            "price": "266,36",
+            "availability": 1
+        },
+        "16-01-2025": {
+            "price": "265,25",
+            "availability": 1
+        },
+        "17-01-2025": {
+            "price": "265,86",
+            "availability": 1
+        },
+        "18-01-2025": {
+            "price": "265,43",
+            "availability": 1
+        }
     },
     "AMD Ryzen 9 7950X": {
-        "link": "https:\/\/www.datacomp.skamd-ryzen-9-7950x_d447383.html",
+        "link": "https:\/\/www.datacomp.sk\/amd-ryzen-9-7950x_d447383.html",
         "name": "AMD Ryzen 9 7950X",
         "06-01-2025": {
             "price": "534,45",
@@ -396,10 +1044,46 @@
             "price": "574,30",
             "availability": 1
         },
-        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-5-5500-wraith-stealth_igb437107.jpg"
+        "image": "https:\/\/img.datacomp.sk\/intel-core-i9-14900f_igb480406.jpg",
+        "10-01-2025": {
+            "price": "574,30",
+            "availability": 1
+        },
+        "11-01-2025": {
+            "price": "574,30",
+            "availability": 1
+        },
+        "12-01-2025": {
+            "price": "574,30",
+            "availability": 1
+        },
+        "13-01-2025": {
+            "price": "574,09",
+            "availability": 1
+        },
+        "14-01-2025": {
+            "price": "574,30",
+            "availability": 1
+        },
+        "15-01-2025": {
+            "price": "574,30",
+            "availability": 1
+        },
+        "16-01-2025": {
+            "price": "574,30",
+            "availability": 1
+        },
+        "17-01-2025": {
+            "price": "574,30",
+            "availability": 1
+        },
+        "18-01-2025": {
+            "price": "574,30",
+            "availability": 1
+        }
     },
     "Intel Core i5-14600KF": {
-        "link": "https:\/\/www.datacomp.skintel-core-i5-14600kf_d470535.html",
+        "link": "https:\/\/www.datacomp.sk\/intel-core-i5-14600kf_d470535.html",
         "name": "Intel Core i5-14600KF",
         "06-01-2025": {
             "price": "240,40",
@@ -417,10 +1101,46 @@
             "price": "240,40",
             "availability": 1
         },
-        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-7-7800x3d_igb459254.jpg"
+        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-5-8600g-box_igb476414.jpg",
+        "10-01-2025": {
+            "price": "240,40",
+            "availability": 1
+        },
+        "11-01-2025": {
+            "price": "240,40",
+            "availability": 1
+        },
+        "12-01-2025": {
+            "price": "240,40",
+            "availability": 1
+        },
+        "13-01-2025": {
+            "price": "240,40",
+            "availability": 1
+        },
+        "14-01-2025": {
+            "price": "244,99",
+            "availability": 1
+        },
+        "15-01-2025": {
+            "price": "243,86",
+            "availability": 1
+        },
+        "16-01-2025": {
+            "price": "242,56",
+            "availability": 1
+        },
+        "17-01-2025": {
+            "price": "243,21",
+            "availability": 1
+        },
+        "18-01-2025": {
+            "price": "248,92",
+            "availability": 1
+        }
     },
     "Intel Core i5-13400F": {
-        "link": "https:\/\/www.datacomp.skintel-core-i5-13400f_d453373.html",
+        "link": "https:\/\/www.datacomp.sk\/intel-core-i5-13400f_d453373.html",
         "name": "Intel Core i5-13400F",
         "06-01-2025": {
             "price": "155,29",
@@ -438,10 +1158,46 @@
             "price": "155,30",
             "availability": 1
         },
-        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-5-5500-wraith-stealth_igb437107.jpg"
+        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-5-8600g-box_igb476414.jpg",
+        "10-01-2025": {
+            "price": "155,30",
+            "availability": 1
+        },
+        "11-01-2025": {
+            "price": "161,70",
+            "availability": 1
+        },
+        "12-01-2025": {
+            "price": "161,70",
+            "availability": 1
+        },
+        "13-01-2025": {
+            "price": "161,50",
+            "availability": 1
+        },
+        "14-01-2025": {
+            "price": "163,15",
+            "availability": 1
+        },
+        "15-01-2025": {
+            "price": "162,35",
+            "availability": 1
+        },
+        "16-01-2025": {
+            "price": "161,70",
+            "availability": 1
+        },
+        "17-01-2025": {
+            "price": "162,05",
+            "availability": 1
+        },
+        "18-01-2025": {
+            "price": "161,79",
+            "availability": 1
+        }
     },
     "AMD Ryzen 7 5800X": {
-        "link": "https:\/\/www.datacomp.skamd-ryzen-7-5800x_d409348.html",
+        "link": "https:\/\/www.datacomp.sk\/amd-ryzen-7-5800x_d409348.html",
         "name": "AMD Ryzen 7 5800X",
         "06-01-2025": {
             "price": "168,37",
@@ -459,10 +1215,46 @@
             "price": "168,85",
             "availability": 1
         },
-        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-7-7800x3d_igb459254.jpg"
+        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-7-9800x3d_igb495299.jpg",
+        "10-01-2025": {
+            "price": "168,85",
+            "availability": 1
+        },
+        "11-01-2025": {
+            "price": "168,85",
+            "availability": 1
+        },
+        "12-01-2025": {
+            "price": "168,85",
+            "availability": 1
+        },
+        "13-01-2025": {
+            "price": "187,86",
+            "availability": 1
+        },
+        "14-01-2025": {
+            "price": "187,86",
+            "availability": 1
+        },
+        "15-01-2025": {
+            "price": "194,54",
+            "availability": 1
+        },
+        "16-01-2025": {
+            "price": "193,74",
+            "availability": 1
+        },
+        "17-01-2025": {
+            "price": "194,18",
+            "availability": 1
+        },
+        "18-01-2025": {
+            "price": "193,87",
+            "availability": 1
+        }
     },
     "AMD Ryzen 5 8600G Box": {
-        "link": "https:\/\/www.datacomp.skamd-ryzen-5-8600g-box_d476414.html",
+        "link": "https:\/\/www.datacomp.sk\/amd-ryzen-5-8600g-box_d476414.html",
         "name": "AMD Ryzen 5 8600G Box",
         "06-01-2025": {
             "price": "194,75",
@@ -480,10 +1272,46 @@
             "price": "190,00",
             "availability": 1
         },
-        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-5-5500-wraith-stealth_igb437107.jpg"
+        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-5-8600g-box_igb476414.jpg",
+        "10-01-2025": {
+            "price": "190,00",
+            "availability": 1
+        },
+        "11-01-2025": {
+            "price": "190,00",
+            "availability": 1
+        },
+        "12-01-2025": {
+            "price": "190,00",
+            "availability": 1
+        },
+        "13-01-2025": {
+            "price": "190,00",
+            "availability": 1
+        },
+        "14-01-2025": {
+            "price": "190,00",
+            "availability": 1
+        },
+        "15-01-2025": {
+            "price": "190,00",
+            "availability": 1
+        },
+        "16-01-2025": {
+            "price": "190,00",
+            "availability": 1
+        },
+        "17-01-2025": {
+            "price": "190,99",
+            "availability": 1
+        },
+        "18-01-2025": {
+            "price": "190,99",
+            "availability": 1
+        }
     },
     "AMD Ryzen 9 9950X": {
-        "link": "https:\/\/www.datacomp.skamd-ryzen-9-9950x_d489482.html",
+        "link": "https:\/\/www.datacomp.sk\/amd-ryzen-9-9950x_d489482.html",
         "name": "AMD Ryzen 9 9950X",
         "06-01-2025": {
             "price": "699,89",
@@ -501,10 +1329,46 @@
             "price": "699,89",
             "availability": 1
         },
-        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-7-7800x3d_igb459254.jpg"
+        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-7-9800x3d_igb495299.jpg",
+        "10-01-2025": {
+            "price": "699,89",
+            "availability": 1
+        },
+        "11-01-2025": {
+            "price": "699,89",
+            "availability": 1
+        },
+        "12-01-2025": {
+            "price": "699,89",
+            "availability": 1
+        },
+        "13-01-2025": {
+            "price": "699,89",
+            "availability": 1
+        },
+        "14-01-2025": {
+            "price": "699,89",
+            "availability": 1
+        },
+        "15-01-2025": {
+            "price": "699,89",
+            "availability": 1
+        },
+        "16-01-2025": {
+            "price": "699,89",
+            "availability": 1
+        },
+        "17-01-2025": {
+            "price": "699,89",
+            "availability": 1
+        },
+        "18-01-2025": {
+            "price": "699,89",
+            "availability": 1
+        }
     },
     "AMD Ryzen 9 7950X3D": {
-        "link": "https:\/\/www.datacomp.skamd-ryzen-9-7950x3d_d456684.html",
+        "link": "https:\/\/www.datacomp.sk\/amd-ryzen-9-7950x3d_d456684.html",
         "name": "AMD Ryzen 9 7950X3D",
         "06-01-2025": {
             "price": "710,12",
@@ -522,10 +1386,46 @@
             "price": "745,80",
             "availability": 1
         },
-        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-7-7800x3d_igb459254.jpg"
+        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-7-9800x3d_igb495299.jpg",
+        "10-01-2025": {
+            "price": "745,80",
+            "availability": 1
+        },
+        "11-01-2025": {
+            "price": "745,80",
+            "availability": 1
+        },
+        "12-01-2025": {
+            "price": "745,80",
+            "availability": 1
+        },
+        "13-01-2025": {
+            "price": "745,80",
+            "availability": 1
+        },
+        "14-01-2025": {
+            "price": "745,80",
+            "availability": 1
+        },
+        "15-01-2025": {
+            "price": "760,20",
+            "availability": 1
+        },
+        "16-01-2025": {
+            "price": "760,20",
+            "availability": 1
+        },
+        "17-01-2025": {
+            "price": "752,67",
+            "availability": 1
+        },
+        "18-01-2025": {
+            "price": "752,67",
+            "availability": 1
+        }
     },
     "Intel Core i9-14900K": {
-        "link": "https:\/\/www.datacomp.skintel-core-i9-14900k_d470540.html",
+        "link": "https:\/\/www.datacomp.sk\/intel-core-i9-14900k_d470540.html",
         "name": "Intel Core i9-14900K",
         "06-01-2025": {
             "price": "528,69",
@@ -543,10 +1443,46 @@
             "price": "528,69",
             "availability": 1
         },
-        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-5-5500-wraith-stealth_igb437107.jpg"
+        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-5-8600g-box_igb476414.jpg",
+        "10-01-2025": {
+            "price": "528,69",
+            "availability": 1
+        },
+        "11-01-2025": {
+            "price": "528,69",
+            "availability": 1
+        },
+        "12-01-2025": {
+            "price": "528,69",
+            "availability": 1
+        },
+        "13-01-2025": {
+            "price": "528,69",
+            "availability": 1
+        },
+        "14-01-2025": {
+            "price": "528,69",
+            "availability": 1
+        },
+        "15-01-2025": {
+            "price": "528,69",
+            "availability": 1
+        },
+        "16-01-2025": {
+            "price": "528,69",
+            "availability": 1
+        },
+        "17-01-2025": {
+            "price": "528,69",
+            "availability": 1
+        },
+        "18-01-2025": {
+            "price": "528,69",
+            "availability": 1
+        }
     },
     "AMD Ryzen 7 5700X3D Box": {
-        "link": "https:\/\/www.datacomp.skamd-ryzen-7-5700x3d-box_d476412.html",
+        "link": "https:\/\/www.datacomp.sk\/amd-ryzen-7-5700x3d-box_d476412.html",
         "name": "AMD Ryzen 7 5700X3D Box",
         "06-01-2025": {
             "price": "244,04",
@@ -564,10 +1500,46 @@
             "price": "278,30",
             "availability": 1
         },
-        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-7-7800x3d_igb459254.jpg"
+        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-7-9800x3d_igb495299.jpg",
+        "10-01-2025": {
+            "price": "277,55",
+            "availability": 1
+        },
+        "11-01-2025": {
+            "price": "277,55",
+            "availability": 1
+        },
+        "12-01-2025": {
+            "price": "277,55",
+            "availability": 1
+        },
+        "13-01-2025": {
+            "price": "277,30",
+            "availability": 1
+        },
+        "14-01-2025": {
+            "price": "271,40",
+            "availability": 1
+        },
+        "15-01-2025": {
+            "price": "270,05",
+            "availability": 1
+        },
+        "16-01-2025": {
+            "price": "268,95",
+            "availability": 1
+        },
+        "17-01-2025": {
+            "price": "269,55",
+            "availability": 1
+        },
+        "18-01-2025": {
+            "price": "269,15",
+            "availability": 1
+        }
     },
     "AMD Ryzen 5 5500, Wraith Stealth": {
-        "link": "https:\/\/www.datacomp.skamd-ryzen-5-5500-wraith-stealth_d437107.html",
+        "link": "https:\/\/www.datacomp.sk\/amd-ryzen-5-5500-wraith-stealth_d437107.html",
         "name": "AMD Ryzen 5 5500, Wraith Stealth",
         "06-01-2025": {
             "price": "90,37",
@@ -585,10 +1557,46 @@
             "price": "90,37",
             "availability": 0
         },
-        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-5-5500-wraith-stealth_igb437107.jpg"
+        "image": "https:\/\/img.datacomp.sk\/intel-core-i9-14900f_igb480406.jpg",
+        "10-01-2025": {
+            "price": "90,37",
+            "availability": 0
+        },
+        "11-01-2025": {
+            "price": "90,37",
+            "availability": 0
+        },
+        "12-01-2025": {
+            "price": "90,37",
+            "availability": 0
+        },
+        "13-01-2025": {
+            "price": "90,37",
+            "availability": 0
+        },
+        "14-01-2025": {
+            "price": "90,37",
+            "availability": 0
+        },
+        "15-01-2025": {
+            "price": "92,05",
+            "availability": 0
+        },
+        "16-01-2025": {
+            "price": "91,66",
+            "availability": 0
+        },
+        "17-01-2025": {
+            "price": "91,20",
+            "availability": 0
+        },
+        "18-01-2025": {
+            "price": "91,20",
+            "availability": 0
+        }
     },
     "Intel Core i5-13500": {
-        "link": "https:\/\/www.datacomp.skintel-core-i5-13500_d459413.html",
+        "link": "https:\/\/www.datacomp.sk\/intel-core-i5-13500_d459413.html",
         "name": "Intel Core i5-13500",
         "06-01-2025": {
             "price": "285,20",
@@ -606,10 +1614,46 @@
             "price": "285,75",
             "availability": 1
         },
-        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-5-5500-wraith-stealth_igb437107.jpg"
+        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-5-8600g-box_igb476414.jpg",
+        "10-01-2025": {
+            "price": "285,25",
+            "availability": 1
+        },
+        "11-01-2025": {
+            "price": "285,25",
+            "availability": 1
+        },
+        "12-01-2025": {
+            "price": "285,25",
+            "availability": 1
+        },
+        "13-01-2025": {
+            "price": "285,25",
+            "availability": 1
+        },
+        "14-01-2025": {
+            "price": "288,25",
+            "availability": 1
+        },
+        "15-01-2025": {
+            "price": "286,90",
+            "availability": 1
+        },
+        "16-01-2025": {
+            "price": "239,95",
+            "availability": 1
+        },
+        "17-01-2025": {
+            "price": "239,95",
+            "availability": 1
+        },
+        "18-01-2025": {
+            "price": "239,95",
+            "availability": 1
+        }
     },
     "Intel Core i9-14900KF": {
-        "link": "https:\/\/www.datacomp.skintel-core-i9-14900kf_d470541.html",
+        "link": "https:\/\/www.datacomp.sk\/intel-core-i9-14900kf_d470541.html",
         "name": "Intel Core i9-14900KF",
         "06-01-2025": {
             "price": "498,67",
@@ -627,10 +1671,46 @@
             "price": "498,67",
             "availability": 1
         },
-        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-5-5500-wraith-stealth_igb437107.jpg"
+        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-5-8600g-box_igb476414.jpg",
+        "10-01-2025": {
+            "price": "498,67",
+            "availability": 1
+        },
+        "11-01-2025": {
+            "price": "498,67",
+            "availability": 1
+        },
+        "12-01-2025": {
+            "price": "498,67",
+            "availability": 1
+        },
+        "13-01-2025": {
+            "price": "498,67",
+            "availability": 1
+        },
+        "14-01-2025": {
+            "price": "498,67",
+            "availability": 1
+        },
+        "15-01-2025": {
+            "price": "504,37",
+            "availability": 1
+        },
+        "16-01-2025": {
+            "price": "503,22",
+            "availability": 1
+        },
+        "17-01-2025": {
+            "price": "503,27",
+            "availability": 1
+        },
+        "18-01-2025": {
+            "price": "503,27",
+            "availability": 1
+        }
     },
     "Intel Core i5-12400": {
-        "link": "https:\/\/www.datacomp.skintel-core-i5-12400_d432167.html",
+        "link": "https:\/\/www.datacomp.sk\/intel-core-i5-12400_d432167.html",
         "name": "Intel Core i5-12400",
         "06-01-2025": {
             "price": "164,16",
@@ -648,10 +1728,46 @@
             "price": "164,16",
             "availability": 1
         },
-        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-5-5500-wraith-stealth_igb437107.jpg"
+        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-5-8600g-box_igb476414.jpg",
+        "10-01-2025": {
+            "price": "164,16",
+            "availability": 1
+        },
+        "11-01-2025": {
+            "price": "164,16",
+            "availability": 1
+        },
+        "12-01-2025": {
+            "price": "164,16",
+            "availability": 1
+        },
+        "13-01-2025": {
+            "price": "164,16",
+            "availability": 1
+        },
+        "14-01-2025": {
+            "price": "164,16",
+            "availability": 1
+        },
+        "15-01-2025": {
+            "price": "164,16",
+            "availability": 1
+        },
+        "16-01-2025": {
+            "price": "164,16",
+            "availability": 1
+        },
+        "17-01-2025": {
+            "price": "164,16",
+            "availability": 1
+        },
+        "18-01-2025": {
+            "price": "164,16",
+            "availability": 1
+        }
     },
     "Intel Core i5-14500": {
-        "link": "https:\/\/www.datacomp.skintel-core-i5-14500_d480404.html",
+        "link": "https:\/\/www.datacomp.sk\/intel-core-i5-14500_d480404.html",
         "name": "Intel Core i5-14500",
         "06-01-2025": {
             "price": "273,47",
@@ -669,10 +1785,46 @@
             "price": "274,04",
             "availability": 1
         },
-        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-5-5500-wraith-stealth_igb437107.jpg"
+        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-5-8600g-box_igb476414.jpg",
+        "10-01-2025": {
+            "price": "274,04",
+            "availability": 1
+        },
+        "11-01-2025": {
+            "price": "274,04",
+            "availability": 1
+        },
+        "12-01-2025": {
+            "price": "274,04",
+            "availability": 1
+        },
+        "13-01-2025": {
+            "price": "274,04",
+            "availability": 1
+        },
+        "14-01-2025": {
+            "price": "274,04",
+            "availability": 1
+        },
+        "15-01-2025": {
+            "price": "274,25",
+            "availability": 1
+        },
+        "16-01-2025": {
+            "price": "274,25",
+            "availability": 1
+        },
+        "17-01-2025": {
+            "price": "274,25",
+            "availability": 0
+        },
+        "18-01-2025": {
+            "price": "274,25",
+            "availability": 0
+        }
     },
     "Intel Core Ultra 7 265K": {
-        "link": "https:\/\/www.datacomp.skintel-core-ultra-7-265k_d494787.html",
+        "link": "https:\/\/www.datacomp.sk\/intel-core-ultra-7-265k_d494787.html",
         "name": "Intel Core Ultra 7 265K",
         "06-01-2025": {
             "price": "464,23",
@@ -690,10 +1842,46 @@
             "price": "464,23",
             "availability": 1
         },
-        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-5-5500-wraith-stealth_igb437107.jpg"
+        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-5-8600g-box_igb476414.jpg",
+        "10-01-2025": {
+            "price": "464,23",
+            "availability": 1
+        },
+        "11-01-2025": {
+            "price": "464,23",
+            "availability": 1
+        },
+        "12-01-2025": {
+            "price": "464,23",
+            "availability": 1
+        },
+        "13-01-2025": {
+            "price": "464,23",
+            "availability": 1
+        },
+        "14-01-2025": {
+            "price": "464,23",
+            "availability": 1
+        },
+        "15-01-2025": {
+            "price": "464,23",
+            "availability": 1
+        },
+        "16-01-2025": {
+            "price": "464,23",
+            "availability": 1
+        },
+        "17-01-2025": {
+            "price": "464,23",
+            "availability": 1
+        },
+        "18-01-2025": {
+            "price": "464,23",
+            "availability": 1
+        }
     },
     "Intel Core i7-14700": {
-        "link": "https:\/\/www.datacomp.skintel-core-i7-14700_d475209.html",
+        "link": "https:\/\/www.datacomp.sk\/intel-core-i7-14700_d475209.html",
         "name": "Intel Core i7-14700",
         "06-01-2025": {
             "price": "366,55",
@@ -711,10 +1899,46 @@
             "price": "366,55",
             "availability": 1
         },
-        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-5-5500-wraith-stealth_igb437107.jpg"
+        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-7-9800x3d_igb495299.jpg",
+        "10-01-2025": {
+            "price": "366,55",
+            "availability": 1
+        },
+        "11-01-2025": {
+            "price": "366,55",
+            "availability": 1
+        },
+        "12-01-2025": {
+            "price": "366,55",
+            "availability": 1
+        },
+        "13-01-2025": {
+            "price": "366,55",
+            "availability": 1
+        },
+        "14-01-2025": {
+            "price": "366,55",
+            "availability": 1
+        },
+        "15-01-2025": {
+            "price": "370,80",
+            "availability": 1
+        },
+        "16-01-2025": {
+            "price": "369,85",
+            "availability": 1
+        },
+        "17-01-2025": {
+            "price": "369,90",
+            "availability": 1
+        },
+        "18-01-2025": {
+            "price": "369,90",
+            "availability": 1
+        }
     },
     "AMD Ryzen 5 5500GT Box": {
-        "link": "https:\/\/www.datacomp.skamd-ryzen-5-5500gt-box_d476409.html",
+        "link": "https:\/\/www.datacomp.sk\/amd-ryzen-5-5500gt-box_d476409.html",
         "name": "AMD Ryzen 5 5500GT Box",
         "06-01-2025": {
             "price": "132,30",
@@ -732,10 +1956,46 @@
             "price": "120,60",
             "availability": 1
         },
-        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-5-5500-wraith-stealth_igb437107.jpg"
+        "image": "https:\/\/img.datacomp.sk\/intel-core-i9-14900f_igb480406.jpg",
+        "10-01-2025": {
+            "price": "121,75",
+            "availability": 1
+        },
+        "11-01-2025": {
+            "price": "121,75",
+            "availability": 1
+        },
+        "12-01-2025": {
+            "price": "121,75",
+            "availability": 1
+        },
+        "13-01-2025": {
+            "price": "121,75",
+            "availability": 1
+        },
+        "14-01-2025": {
+            "price": "123,00",
+            "availability": 1
+        },
+        "15-01-2025": {
+            "price": "122,40",
+            "availability": 1
+        },
+        "16-01-2025": {
+            "price": "121,86",
+            "availability": 1
+        },
+        "17-01-2025": {
+            "price": "122,15",
+            "availability": 1
+        },
+        "18-01-2025": {
+            "price": "121,86",
+            "availability": 1
+        }
     },
     "AMD Ryzen 7 5700": {
-        "link": "https:\/\/www.datacomp.skamd-ryzen-7-5700_d476411.html",
+        "link": "https:\/\/www.datacomp.sk\/amd-ryzen-7-5700_d476411.html",
         "name": "AMD Ryzen 7 5700",
         "06-01-2025": {
             "price": "144,09",
@@ -753,10 +2013,46 @@
             "price": "144,09",
             "availability": 1
         },
-        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-7-7800x3d_igb459254.jpg"
+        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-5-8600g-box_igb476414.jpg",
+        "10-01-2025": {
+            "price": "144,09",
+            "availability": 1
+        },
+        "11-01-2025": {
+            "price": "144,09",
+            "availability": 1
+        },
+        "12-01-2025": {
+            "price": "144,09",
+            "availability": 1
+        },
+        "13-01-2025": {
+            "price": "144,09",
+            "availability": 1
+        },
+        "14-01-2025": {
+            "price": "148,74",
+            "availability": 1
+        },
+        "15-01-2025": {
+            "price": "141,79",
+            "availability": 1
+        },
+        "16-01-2025": {
+            "price": "140,95",
+            "availability": 1
+        },
+        "17-01-2025": {
+            "price": "141,50",
+            "availability": 1
+        },
+        "18-01-2025": {
+            "price": "141,20",
+            "availability": 1
+        }
     },
     "Intel Core i5-12600KF": {
-        "link": "https:\/\/www.datacomp.skintel-core-i5-12600kf_d428932.html",
+        "link": "https:\/\/www.datacomp.sk\/intel-core-i5-12600kf_d428932.html",
         "name": "Intel Core i5-12600KF",
         "06-01-2025": {
             "price": "192,85",
@@ -774,10 +2070,46 @@
             "price": "189,75",
             "availability": 1
         },
-        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-5-5500-wraith-stealth_igb437107.jpg"
+        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-7-9800x3d_igb495299.jpg",
+        "10-01-2025": {
+            "price": "189,65",
+            "availability": 1
+        },
+        "11-01-2025": {
+            "price": "189,70",
+            "availability": 1
+        },
+        "12-01-2025": {
+            "price": "189,70",
+            "availability": 1
+        },
+        "13-01-2025": {
+            "price": "189,70",
+            "availability": 1
+        },
+        "14-01-2025": {
+            "price": "191,65",
+            "availability": 1
+        },
+        "15-01-2025": {
+            "price": "190,31",
+            "availability": 1
+        },
+        "16-01-2025": {
+            "price": "188,40",
+            "availability": 1
+        },
+        "17-01-2025": {
+            "price": "188,40",
+            "availability": 1
+        },
+        "18-01-2025": {
+            "price": "188,40",
+            "availability": 1
+        }
     },
     "AMD Ryzen 7 5700X": {
-        "link": "https:\/\/www.datacomp.skamd-ryzen-7-5700x_d437109.html",
+        "link": "https:\/\/www.datacomp.sk\/amd-ryzen-7-5700x_d437109.html",
         "name": "AMD Ryzen 7 5700X",
         "06-01-2025": {
             "price": "165,04",
@@ -795,10 +2127,46 @@
             "price": "165,04",
             "availability": 1
         },
-        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-5-5500-wraith-stealth_igb437107.jpg"
+        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-5-8600g-box_igb476414.jpg",
+        "10-01-2025": {
+            "price": "165,04",
+            "availability": 1
+        },
+        "11-01-2025": {
+            "price": "165,04",
+            "availability": 1
+        },
+        "12-01-2025": {
+            "price": "165,04",
+            "availability": 1
+        },
+        "13-01-2025": {
+            "price": "165,04",
+            "availability": 1
+        },
+        "14-01-2025": {
+            "price": "165,04",
+            "availability": 1
+        },
+        "15-01-2025": {
+            "price": "189,10",
+            "availability": 1
+        },
+        "16-01-2025": {
+            "price": "188,28",
+            "availability": 1
+        },
+        "17-01-2025": {
+            "price": "188,72",
+            "availability": 1
+        },
+        "18-01-2025": {
+            "price": "188,29",
+            "availability": 1
+        }
     },
     "Intel Core i3-12100": {
-        "link": "https:\/\/www.datacomp.skintel-core-i3-12100_d432177.html",
+        "link": "https:\/\/www.datacomp.sk\/intel-core-i3-12100_d432177.html",
         "name": "Intel Core i3-12100",
         "06-01-2025": {
             "price": "126,30",
@@ -816,10 +2184,46 @@
             "price": "126,30",
             "availability": 1
         },
-        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-5-5500-wraith-stealth_igb437107.jpg"
+        "image": "https:\/\/img.datacomp.sk\/intel-core-i9-14900f_igb480406.jpg",
+        "10-01-2025": {
+            "price": "126,30",
+            "availability": 1
+        },
+        "11-01-2025": {
+            "price": "126,30",
+            "availability": 1
+        },
+        "12-01-2025": {
+            "price": "126,30",
+            "availability": 1
+        },
+        "13-01-2025": {
+            "price": "126,30",
+            "availability": 1
+        },
+        "14-01-2025": {
+            "price": "126,30",
+            "availability": 1
+        },
+        "15-01-2025": {
+            "price": "127,85",
+            "availability": 1
+        },
+        "16-01-2025": {
+            "price": "127,40",
+            "availability": 1
+        },
+        "17-01-2025": {
+            "price": "127,45",
+            "availability": 1
+        },
+        "18-01-2025": {
+            "price": "127,45",
+            "availability": 1
+        }
     },
     "Intel Core i3-14100": {
-        "link": "https:\/\/www.datacomp.skintel-core-i3-14100_d475207.html",
+        "link": "https:\/\/www.datacomp.sk\/intel-core-i3-14100_d475207.html",
         "name": "Intel Core i3-14100",
         "06-01-2025": {
             "price": "126,30",
@@ -837,10 +2241,46 @@
             "price": "126,30",
             "availability": 1
         },
-        "image": "https:\/\/img.datacomp.sk\/intel-core-i7-12700f_igb432181.jpg"
+        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-5-8600g-box_igb476414.jpg",
+        "10-01-2025": {
+            "price": "126,30",
+            "availability": 1
+        },
+        "11-01-2025": {
+            "price": "126,30",
+            "availability": 1
+        },
+        "12-01-2025": {
+            "price": "126,30",
+            "availability": 1
+        },
+        "13-01-2025": {
+            "price": "126,30",
+            "availability": 1
+        },
+        "14-01-2025": {
+            "price": "126,30",
+            "availability": 1
+        },
+        "15-01-2025": {
+            "price": "126,30",
+            "availability": 1
+        },
+        "16-01-2025": {
+            "price": "126,30",
+            "availability": 1
+        },
+        "17-01-2025": {
+            "price": "126,30",
+            "availability": 1
+        },
+        "18-01-2025": {
+            "price": "126,30",
+            "availability": 1
+        }
     },
     "AMD Ryzen 9 7900X": {
-        "link": "https:\/\/www.datacomp.skamd-ryzen-9-7900x_d447382.html",
+        "link": "https:\/\/www.datacomp.sk\/amd-ryzen-9-7900x_d447382.html",
         "name": "AMD Ryzen 9 7900X",
         "06-01-2025": {
             "price": "391,37",
@@ -858,10 +2298,46 @@
             "price": "402,07",
             "availability": 1
         },
-        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-5-5500-wraith-stealth_igb437107.jpg"
+        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-5-8600g-box_igb476414.jpg",
+        "10-01-2025": {
+            "price": "402,07",
+            "availability": 1
+        },
+        "11-01-2025": {
+            "price": "401,80",
+            "availability": 1
+        },
+        "12-01-2025": {
+            "price": "401,80",
+            "availability": 1
+        },
+        "13-01-2025": {
+            "price": "401,31",
+            "availability": 1
+        },
+        "14-01-2025": {
+            "price": "405,47",
+            "availability": 1
+        },
+        "15-01-2025": {
+            "price": "403,44",
+            "availability": 1
+        },
+        "16-01-2025": {
+            "price": "401,78",
+            "availability": 1
+        },
+        "17-01-2025": {
+            "price": "402,69",
+            "availability": 1
+        },
+        "18-01-2025": {
+            "price": "402,05",
+            "availability": 1
+        }
     },
     "AMD Ryzen 5 8500G Box": {
-        "link": "https:\/\/www.datacomp.skamd-ryzen-5-8500g-box_d476413.html",
+        "link": "https:\/\/www.datacomp.sk\/amd-ryzen-5-8500g-box_d476413.html",
         "name": "AMD Ryzen 5 8500G Box",
         "06-01-2025": {
             "price": "153,80",
@@ -879,10 +2355,46 @@
             "price": "153,80",
             "availability": 1
         },
-        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-5-5500-wraith-stealth_igb437107.jpg"
+        "image": "https:\/\/img.datacomp.sk\/intel-core-i9-14900f_igb480406.jpg",
+        "10-01-2025": {
+            "price": "153,80",
+            "availability": 1
+        },
+        "11-01-2025": {
+            "price": "153,80",
+            "availability": 1
+        },
+        "12-01-2025": {
+            "price": "153,80",
+            "availability": 1
+        },
+        "13-01-2025": {
+            "price": "153,80",
+            "availability": 1
+        },
+        "14-01-2025": {
+            "price": "153,80",
+            "availability": 1
+        },
+        "15-01-2025": {
+            "price": "153,80",
+            "availability": 1
+        },
+        "16-01-2025": {
+            "price": "152,95",
+            "availability": 1
+        },
+        "17-01-2025": {
+            "price": "160,50",
+            "availability": 1
+        },
+        "18-01-2025": {
+            "price": "152,40",
+            "availability": 1
+        }
     },
     "Intel Core i7-13700F": {
-        "link": "https:\/\/www.datacomp.skintel-core-i7-13700f_d459364.html",
+        "link": "https:\/\/www.datacomp.sk\/intel-core-i7-13700f_d459364.html",
         "name": "Intel Core i7-13700F",
         "06-01-2025": {
             "price": "341,85",
@@ -900,10 +2412,46 @@
             "price": "341,60",
             "availability": 1
         },
-        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-5-5500-wraith-stealth_igb437107.jpg"
+        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-5-8600g-box_igb476414.jpg",
+        "10-01-2025": {
+            "price": "342,30",
+            "availability": 1
+        },
+        "11-01-2025": {
+            "price": "343,94",
+            "availability": 1
+        },
+        "12-01-2025": {
+            "price": "343,94",
+            "availability": 1
+        },
+        "13-01-2025": {
+            "price": "343,94",
+            "availability": 1
+        },
+        "14-01-2025": {
+            "price": "345,25",
+            "availability": 1
+        },
+        "15-01-2025": {
+            "price": "342,60",
+            "availability": 1
+        },
+        "16-01-2025": {
+            "price": "341,85",
+            "availability": 1
+        },
+        "17-01-2025": {
+            "price": "341,95",
+            "availability": 1
+        },
+        "18-01-2025": {
+            "price": "341,90",
+            "availability": 1
+        }
     },
     "Intel Core Ultra 7 265KF": {
-        "link": "https:\/\/www.datacomp.skintel-core-ultra-7-265kf_d494776.html",
+        "link": "https:\/\/www.datacomp.sk\/intel-core-ultra-7-265kf_d494776.html",
         "name": "Intel Core Ultra 7 265KF",
         "06-01-2025": {
             "price": "436,48",
@@ -921,10 +2469,46 @@
             "price": "441,08",
             "availability": 1
         },
-        "image": "https:\/\/img.datacomp.sk\/intel-core-i7-12700f_igb432181.jpg"
+        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-5-8600g-box_igb476414.jpg",
+        "10-01-2025": {
+            "price": "441,93",
+            "availability": 1
+        },
+        "11-01-2025": {
+            "price": "442,10",
+            "availability": 1
+        },
+        "12-01-2025": {
+            "price": "442,10",
+            "availability": 1
+        },
+        "13-01-2025": {
+            "price": "442,10",
+            "availability": 1
+        },
+        "14-01-2025": {
+            "price": "444,13",
+            "availability": 1
+        },
+        "15-01-2025": {
+            "price": "442,43",
+            "availability": 1
+        },
+        "16-01-2025": {
+            "price": "442,00",
+            "availability": 1
+        },
+        "17-01-2025": {
+            "price": "441,57",
+            "availability": 1
+        },
+        "18-01-2025": {
+            "price": "442,00",
+            "availability": 1
+        }
     },
     "Intel Core i5-12500": {
-        "link": "https:\/\/www.datacomp.skintel-core-i5-12500_d432183.html",
+        "link": "https:\/\/www.datacomp.sk\/intel-core-i5-12500_d432183.html",
         "name": "Intel Core i5-12500",
         "06-01-2025": {
             "price": "212,40",
@@ -942,10 +2526,46 @@
             "price": "212,30",
             "availability": 1
         },
-        "image": "https:\/\/img.datacomp.sk\/intel-core-i7-12700f_igb432181.jpg"
+        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-5-8600g-box_igb476414.jpg",
+        "10-01-2025": {
+            "price": "212,25",
+            "availability": 1
+        },
+        "11-01-2025": {
+            "price": "212,30",
+            "availability": 1
+        },
+        "12-01-2025": {
+            "price": "212,30",
+            "availability": 1
+        },
+        "13-01-2025": {
+            "price": "212,30",
+            "availability": 1
+        },
+        "14-01-2025": {
+            "price": "214,50",
+            "availability": 1
+        },
+        "15-01-2025": {
+            "price": "212,95",
+            "availability": 1
+        },
+        "16-01-2025": {
+            "price": "212,70",
+            "availability": 1
+        },
+        "17-01-2025": {
+            "price": "212,49",
+            "availability": 1
+        },
+        "18-01-2025": {
+            "price": "212,40",
+            "availability": 1
+        }
     },
     "AMD Ryzen 9 7900": {
-        "link": "https:\/\/www.datacomp.skamd-ryzen-9-7900_d453613.html",
+        "link": "https:\/\/www.datacomp.sk\/amd-ryzen-9-7900_d453613.html",
         "name": "AMD Ryzen 9 7900",
         "06-01-2025": {
             "price": "367,20",
@@ -963,10 +2583,46 @@
             "price": "399,34",
             "availability": 1
         },
-        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-5-5500-wraith-stealth_igb437107.jpg"
+        "image": "https:\/\/img.datacomp.sk\/intel-core-i9-14900f_igb480406.jpg",
+        "10-01-2025": {
+            "price": "399,34",
+            "availability": 1
+        },
+        "11-01-2025": {
+            "price": "399,34",
+            "availability": 1
+        },
+        "12-01-2025": {
+            "price": "399,34",
+            "availability": 1
+        },
+        "13-01-2025": {
+            "price": "399,34",
+            "availability": 1
+        },
+        "14-01-2025": {
+            "price": "386,75",
+            "availability": 1
+        },
+        "15-01-2025": {
+            "price": "384,81",
+            "availability": 1
+        },
+        "16-01-2025": {
+            "price": "383,19",
+            "availability": 1
+        },
+        "17-01-2025": {
+            "price": "384,10",
+            "availability": 1
+        },
+        "18-01-2025": {
+            "price": "383,50",
+            "availability": 1
+        }
     },
     "Intel Core i9-14900F": {
-        "link": "https:\/\/www.datacomp.skintel-core-i9-14900f_d480406.html",
+        "link": "https:\/\/www.datacomp.sk\/intel-core-i9-14900f_d480406.html",
         "name": "Intel Core i9-14900F",
         "06-01-2025": {
             "price": "632,45",
@@ -984,10 +2640,46 @@
             "price": "631,20",
             "availability": 1
         },
-        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-5-5500-wraith-stealth_igb437107.jpg"
+        "image": "https:\/\/img.datacomp.sk\/intel-core-i9-14900f_igb480406.jpg",
+        "10-01-2025": {
+            "price": "632,45",
+            "availability": 1
+        },
+        "11-01-2025": {
+            "price": "632,75",
+            "availability": 1
+        },
+        "12-01-2025": {
+            "price": "632,75",
+            "availability": 1
+        },
+        "13-01-2025": {
+            "price": "632,75",
+            "availability": 1
+        },
+        "14-01-2025": {
+            "price": "638,65",
+            "availability": 1
+        },
+        "15-01-2025": {
+            "price": "633,04",
+            "availability": 1
+        },
+        "16-01-2025": {
+            "price": "632,45",
+            "availability": 1
+        },
+        "17-01-2025": {
+            "price": "631,80",
+            "availability": 1
+        },
+        "18-01-2025": {
+            "price": "632,45",
+            "availability": 1
+        }
     },
     "Intel Core i7-12700F": {
-        "link": "https:\/\/www.datacomp.skintel-core-i7-12700f_d432181.html",
+        "link": "https:\/\/www.datacomp.sk\/intel-core-i7-12700f_d432181.html",
         "name": "Intel Core i7-12700F",
         "06-01-2025": {
             "price": "278,55",
@@ -1005,10 +2697,46 @@
             "price": "278,55",
             "availability": 1
         },
-        "image": "https:\/\/img.datacomp.sk\/intel-core-i7-12700f_igb432181.jpg"
+        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-5-8600g-box_igb476414.jpg",
+        "10-01-2025": {
+            "price": "278,55",
+            "availability": 1
+        },
+        "11-01-2025": {
+            "price": "278,55",
+            "availability": 1
+        },
+        "12-01-2025": {
+            "price": "278,55",
+            "availability": 1
+        },
+        "13-01-2025": {
+            "price": "278,55",
+            "availability": 1
+        },
+        "14-01-2025": {
+            "price": "278,55",
+            "availability": 1
+        },
+        "15-01-2025": {
+            "price": "283,90",
+            "availability": 1
+        },
+        "16-01-2025": {
+            "price": "283,90",
+            "availability": 1
+        },
+        "17-01-2025": {
+            "price": "281,10",
+            "availability": 1
+        },
+        "18-01-2025": {
+            "price": "281,10",
+            "availability": 1
+        }
     },
     "Intel Core i5-14400": {
-        "link": "https:\/\/www.datacomp.skintel-core-i5-14400_d475205.html",
+        "link": "https:\/\/www.datacomp.sk\/intel-core-i5-14400_d475205.html",
         "name": "Intel Core i5-14400",
         "06-01-2025": {
             "price": "174,35",
@@ -1026,10 +2754,46 @@
             "price": "176,00",
             "availability": 1
         },
-        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-5-5500-wraith-stealth_igb437107.jpg"
+        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-7-9800x3d_igb495299.jpg",
+        "10-01-2025": {
+            "price": "176,00",
+            "availability": 1
+        },
+        "11-01-2025": {
+            "price": "176,00",
+            "availability": 1
+        },
+        "12-01-2025": {
+            "price": "176,00",
+            "availability": 1
+        },
+        "13-01-2025": {
+            "price": "176,00",
+            "availability": 1
+        },
+        "14-01-2025": {
+            "price": "176,00",
+            "availability": 1
+        },
+        "15-01-2025": {
+            "price": "176,00",
+            "availability": 1
+        },
+        "16-01-2025": {
+            "price": "176,00",
+            "availability": 1
+        },
+        "17-01-2025": {
+            "price": "176,00",
+            "availability": 1
+        },
+        "18-01-2025": {
+            "price": "176,00",
+            "availability": 1
+        }
     },
     "AMD Ryzen 7 7700": {
-        "link": "https:\/\/www.datacomp.skamd-ryzen-7-7700_d453612.html",
+        "link": "https:\/\/www.datacomp.sk\/amd-ryzen-7-7700_d453612.html",
         "name": "AMD Ryzen 7 7700",
         "06-01-2025": {
             "price": "297,60",
@@ -1047,10 +2811,46 @@
             "price": "323,65",
             "availability": 1
         },
-        "image": "https:\/\/img.datacomp.sk\/intel-core-i7-12700f_igb432181.jpg"
+        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-5-8600g-box_igb476414.jpg",
+        "10-01-2025": {
+            "price": "323,10",
+            "availability": 1
+        },
+        "11-01-2025": {
+            "price": "323,10",
+            "availability": 1
+        },
+        "12-01-2025": {
+            "price": "323,10",
+            "availability": 1
+        },
+        "13-01-2025": {
+            "price": "323,10",
+            "availability": 1
+        },
+        "14-01-2025": {
+            "price": "326,50",
+            "availability": 1
+        },
+        "15-01-2025": {
+            "price": "324,81",
+            "availability": 1
+        },
+        "16-01-2025": {
+            "price": "323,40",
+            "availability": 1
+        },
+        "17-01-2025": {
+            "price": "324,15",
+            "availability": 1
+        },
+        "18-01-2025": {
+            "price": "323,45",
+            "availability": 1
+        }
     },
     "Intel Core i5-10400F": {
-        "link": "https:\/\/www.datacomp.skintel-core-i5-10400f_d401813.html",
+        "link": "https:\/\/www.datacomp.sk\/intel-core-i5-10400f_d401813.html",
         "name": "Intel Core i5-10400F",
         "06-01-2025": {
             "price": "115,76",
@@ -1068,10 +2868,46 @@
             "price": "115,90",
             "availability": 1
         },
-        "image": "https:\/\/img.datacomp.sk\/intel-core-i7-12700f_igb432181.jpg"
+        "image": "https:\/\/img.datacomp.sk\/intel-core-i9-14900f_igb480406.jpg",
+        "10-01-2025": {
+            "price": "115,71",
+            "availability": 1
+        },
+        "11-01-2025": {
+            "price": "115,71",
+            "availability": 1
+        },
+        "12-01-2025": {
+            "price": "115,71",
+            "availability": 1
+        },
+        "13-01-2025": {
+            "price": "115,71",
+            "availability": 1
+        },
+        "14-01-2025": {
+            "price": "116,90",
+            "availability": 1
+        },
+        "15-01-2025": {
+            "price": "116,39",
+            "availability": 1
+        },
+        "16-01-2025": {
+            "price": "115,76",
+            "availability": 1
+        },
+        "17-01-2025": {
+            "price": "116,05",
+            "availability": 1
+        },
+        "18-01-2025": {
+            "price": "115,80",
+            "availability": 1
+        }
     },
     "Intel Core i5-12600K": {
-        "link": "https:\/\/www.datacomp.skintel-core-i5-12600k_d428930.html",
+        "link": "https:\/\/www.datacomp.sk\/intel-core-i5-12600k_d428930.html",
         "name": "Intel Core i5-12600K",
         "06-01-2025": {
             "price": "206,05",
@@ -1089,10 +2925,46 @@
             "price": "206,05",
             "availability": 1
         },
-        "image": "https:\/\/img.datacomp.sk\/intel-core-i7-12700f_igb432181.jpg"
+        "image": "https:\/\/img.datacomp.sk\/intel-core-i9-14900f_igb480406.jpg",
+        "10-01-2025": {
+            "price": "206,05",
+            "availability": 1
+        },
+        "11-01-2025": {
+            "price": "206,05",
+            "availability": 1
+        },
+        "12-01-2025": {
+            "price": "206,05",
+            "availability": 1
+        },
+        "13-01-2025": {
+            "price": "206,05",
+            "availability": 1
+        },
+        "14-01-2025": {
+            "price": "206,05",
+            "availability": 1
+        },
+        "15-01-2025": {
+            "price": "206,05",
+            "availability": 1
+        },
+        "16-01-2025": {
+            "price": "206,05",
+            "availability": 1
+        },
+        "17-01-2025": {
+            "price": "206,05",
+            "availability": 1
+        },
+        "18-01-2025": {
+            "price": "206,05",
+            "availability": 1
+        }
     },
     "AMD Ryzen 9 5950X": {
-        "link": "https:\/\/www.datacomp.skamd-ryzen-9-5950x_d409347.html",
+        "link": "https:\/\/www.datacomp.sk\/amd-ryzen-9-5950x_d409347.html",
         "name": "AMD Ryzen 9 5950X",
         "06-01-2025": {
             "price": "350,18",
@@ -1110,10 +2982,46 @@
             "price": "355,04",
             "availability": 1
         },
-        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-5-5500-wraith-stealth_igb437107.jpg"
+        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-7-9800x3d_igb495299.jpg",
+        "10-01-2025": {
+            "price": "355,04",
+            "availability": 1
+        },
+        "11-01-2025": {
+            "price": "355,04",
+            "availability": 1
+        },
+        "12-01-2025": {
+            "price": "355,04",
+            "availability": 1
+        },
+        "13-01-2025": {
+            "price": "355,04",
+            "availability": 1
+        },
+        "14-01-2025": {
+            "price": "355,04",
+            "availability": 1
+        },
+        "15-01-2025": {
+            "price": "362,03",
+            "availability": 1
+        },
+        "16-01-2025": {
+            "price": "362,03",
+            "availability": 1
+        },
+        "17-01-2025": {
+            "price": "358,68",
+            "availability": 1
+        },
+        "18-01-2025": {
+            "price": "358,68",
+            "availability": 1
+        }
     },
     "Intel Core i5-13400": {
-        "link": "https:\/\/www.datacomp.skintel-core-i5-13400_d453372.html",
+        "link": "https:\/\/www.datacomp.sk\/intel-core-i5-13400_d453372.html",
         "name": "Intel Core i5-13400",
         "06-01-2025": {
             "price": "177,10",
@@ -1131,10 +3039,46 @@
             "price": "177,10",
             "availability": 1
         },
-        "image": "https:\/\/img.datacomp.sk\/intel-core-i7-12700f_igb432181.jpg"
+        "image": "https:\/\/img.datacomp.sk\/intel-core-ultra-5-245kf_igb494789.jpg",
+        "10-01-2025": {
+            "price": "177,10",
+            "availability": 1
+        },
+        "11-01-2025": {
+            "price": "183,90",
+            "availability": 1
+        },
+        "12-01-2025": {
+            "price": "183,90",
+            "availability": 1
+        },
+        "13-01-2025": {
+            "price": "183,65",
+            "availability": 1
+        },
+        "14-01-2025": {
+            "price": "185,55",
+            "availability": 1
+        },
+        "15-01-2025": {
+            "price": "184,65",
+            "availability": 1
+        },
+        "16-01-2025": {
+            "price": "183,85",
+            "availability": 1
+        },
+        "17-01-2025": {
+            "price": "184,30",
+            "availability": 1
+        },
+        "18-01-2025": {
+            "price": "182,90",
+            "availability": 1
+        }
     },
     "Intel Core Ultra 5 245KF": {
-        "link": "https:\/\/www.datacomp.skintel-core-ultra-5-245kf_d494789.html",
+        "link": "https:\/\/www.datacomp.sk\/intel-core-ultra-5-245kf_d494789.html",
         "name": "Intel Core Ultra 5 245KF",
         "06-01-2025": {
             "price": "337,12",
@@ -1152,10 +3096,46 @@
             "price": "337,12",
             "availability": 1
         },
-        "image": "https:\/\/img.datacomp.sk\/intel-core-i7-12700f_igb432181.jpg"
+        "image": "https:\/\/img.datacomp.sk\/intel-core-ultra-5-245kf_igb494789.jpg",
+        "10-01-2025": {
+            "price": "337,12",
+            "availability": 1
+        },
+        "11-01-2025": {
+            "price": "337,12",
+            "availability": 1
+        },
+        "12-01-2025": {
+            "price": "337,12",
+            "availability": 1
+        },
+        "13-01-2025": {
+            "price": "337,12",
+            "availability": 1
+        },
+        "14-01-2025": {
+            "price": "337,12",
+            "availability": 1
+        },
+        "15-01-2025": {
+            "price": "337,12",
+            "availability": 1
+        },
+        "16-01-2025": {
+            "price": "337,12",
+            "availability": 1
+        },
+        "17-01-2025": {
+            "price": "337,12",
+            "availability": 1
+        },
+        "18-01-2025": {
+            "price": "337,12",
+            "availability": 1
+        }
     },
     "Intel Core i9-12900K": {
-        "link": "https:\/\/www.datacomp.skintel-core-i9-12900k_d428935.html",
+        "link": "https:\/\/www.datacomp.sk\/intel-core-i9-12900k_d428935.html",
         "name": "Intel Core i9-12900K",
         "06-01-2025": {
             "price": "446,24",
@@ -1173,10 +3153,46 @@
             "price": "446,80",
             "availability": 1
         },
-        "image": "https:\/\/img.datacomp.sk\/intel-core-i7-12700f_igb432181.jpg"
+        "image": "https:\/\/img.datacomp.sk\/intel-core-i9-14900f_igb480406.jpg",
+        "10-01-2025": {
+            "price": "446,00",
+            "availability": 1
+        },
+        "11-01-2025": {
+            "price": "446,05",
+            "availability": 1
+        },
+        "12-01-2025": {
+            "price": "446,05",
+            "availability": 1
+        },
+        "13-01-2025": {
+            "price": "446,05",
+            "availability": 1
+        },
+        "14-01-2025": {
+            "price": "450,65",
+            "availability": 1
+        },
+        "15-01-2025": {
+            "price": "448,61",
+            "availability": 1
+        },
+        "16-01-2025": {
+            "price": "446,19",
+            "availability": 1
+        },
+        "17-01-2025": {
+            "price": "447,40",
+            "availability": 1
+        },
+        "18-01-2025": {
+            "price": "446,31",
+            "availability": 1
+        }
     },
     "Intel Core Ultra 5 245K": {
-        "link": "https:\/\/www.datacomp.skintel-core-ultra-5-245k_d494791.html",
+        "link": "https:\/\/www.datacomp.sk\/intel-core-ultra-5-245k_d494791.html",
         "name": "Intel Core Ultra 5 245K",
         "06-01-2025": {
             "price": "350,49",
@@ -1194,10 +3210,46 @@
             "price": "350,23",
             "availability": 1
         },
-        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-5-5500-wraith-stealth_igb437107.jpg"
+        "image": "https:\/\/img.datacomp.sk\/intel-core-i9-14900f_igb480406.jpg",
+        "10-01-2025": {
+            "price": "350,49",
+            "availability": 1
+        },
+        "11-01-2025": {
+            "price": "350,49",
+            "availability": 1
+        },
+        "12-01-2025": {
+            "price": "350,49",
+            "availability": 1
+        },
+        "13-01-2025": {
+            "price": "350,49",
+            "availability": 1
+        },
+        "14-01-2025": {
+            "price": "350,49",
+            "availability": 1
+        },
+        "15-01-2025": {
+            "price": "350,49",
+            "availability": 1
+        },
+        "16-01-2025": {
+            "price": "350,49",
+            "availability": 1
+        },
+        "17-01-2025": {
+            "price": "350,49",
+            "availability": 1
+        },
+        "18-01-2025": {
+            "price": "350,49",
+            "availability": 1
+        }
     },
     "AMD Ryzen 5 8400F": {
-        "link": "https:\/\/www.datacomp.skamd-ryzen-5-8400f_d484246.html",
+        "link": "https:\/\/www.datacomp.sk\/amd-ryzen-5-8400f_d484246.html",
         "name": "AMD Ryzen 5 8400F",
         "06-01-2025": {
             "price": "154,35",
@@ -1215,10 +3267,46 @@
             "price": "158,15",
             "availability": 1
         },
-        "image": "https:\/\/img.datacomp.sk\/intel-core-i7-12700f_igb432181.jpg"
+        "image": "https:\/\/img.datacomp.sk\/intel-core-i9-14900f_igb480406.jpg",
+        "10-01-2025": {
+            "price": "158,15",
+            "availability": 1
+        },
+        "11-01-2025": {
+            "price": "158,15",
+            "availability": 1
+        },
+        "12-01-2025": {
+            "price": "158,15",
+            "availability": 1
+        },
+        "13-01-2025": {
+            "price": "158,15",
+            "availability": 1
+        },
+        "14-01-2025": {
+            "price": "158,15",
+            "availability": 1
+        },
+        "15-01-2025": {
+            "price": "163,85",
+            "availability": 1
+        },
+        "16-01-2025": {
+            "price": "163,15",
+            "availability": 1
+        },
+        "17-01-2025": {
+            "price": "163,50",
+            "availability": 1
+        },
+        "18-01-2025": {
+            "price": "163,15",
+            "availability": 1
+        }
     },
     "Intel Core i7-12700": {
-        "link": "https:\/\/www.datacomp.skintel-core-i7-12700_d432180.html",
+        "link": "https:\/\/www.datacomp.sk\/intel-core-i7-12700_d432180.html",
         "name": "Intel Core i7-12700",
         "06-01-2025": {
             "price": "309,50",
@@ -1236,10 +3324,46 @@
             "price": "309,50",
             "availability": 1
         },
-        "image": "https:\/\/img.datacomp.sk\/intel-core-i3-13100f_igb453381.jpg"
+        "image": "https:\/\/img.datacomp.sk\/intel-core-i9-14900f_igb480406.jpg",
+        "10-01-2025": {
+            "price": "309,50",
+            "availability": 1
+        },
+        "11-01-2025": {
+            "price": "309,50",
+            "availability": 1
+        },
+        "12-01-2025": {
+            "price": "309,50",
+            "availability": 1
+        },
+        "13-01-2025": {
+            "price": "309,50",
+            "availability": 1
+        },
+        "14-01-2025": {
+            "price": "309,50",
+            "availability": 1
+        },
+        "15-01-2025": {
+            "price": "315,45",
+            "availability": 1
+        },
+        "16-01-2025": {
+            "price": "315,45",
+            "availability": 1
+        },
+        "17-01-2025": {
+            "price": "312,35",
+            "availability": 1
+        },
+        "18-01-2025": {
+            "price": "312,35",
+            "availability": 1
+        }
     },
     "AMD Ryzen 5 5600G, Wraith Stealth": {
-        "link": "https:\/\/www.datacomp.skamd-ryzen-5-5600g-wraith-stealth_d424071.html",
+        "link": "https:\/\/www.datacomp.sk\/amd-ryzen-5-5600g-wraith-stealth_d424071.html",
         "name": "AMD Ryzen 5 5600G, Wraith Stealth",
         "06-01-2025": {
             "price": "158,15",
@@ -1257,10 +3381,46 @@
             "price": "144,25",
             "availability": 1
         },
-        "image": "https:\/\/img.datacomp.sk\/intel-core-i7-12700f_igb432181.jpg"
+        "image": "https:\/\/img.datacomp.sk\/intel-core-i9-14900f_igb480406.jpg",
+        "10-01-2025": {
+            "price": "144,25",
+            "availability": 1
+        },
+        "11-01-2025": {
+            "price": "144,25",
+            "availability": 1
+        },
+        "12-01-2025": {
+            "price": "144,25",
+            "availability": 1
+        },
+        "13-01-2025": {
+            "price": "144,25",
+            "availability": 1
+        },
+        "14-01-2025": {
+            "price": "144,25",
+            "availability": 1
+        },
+        "15-01-2025": {
+            "price": "144,25",
+            "availability": 1
+        },
+        "16-01-2025": {
+            "price": "144,25",
+            "availability": 1
+        },
+        "17-01-2025": {
+            "price": "144,25",
+            "availability": 1
+        },
+        "18-01-2025": {
+            "price": "144,25",
+            "availability": 1
+        }
     },
     "Intel Core i7-11700KF": {
-        "link": "https:\/\/www.datacomp.skintel-core-i7-11700kf_d416375.html",
+        "link": "https:\/\/www.datacomp.sk\/intel-core-i7-11700kf_d416375.html",
         "name": "Intel Core i7-11700KF",
         "06-01-2025": {
             "price": "497,81",
@@ -1278,10 +3438,46 @@
             "price": "496,80",
             "availability": 1
         },
-        "image": "https:\/\/img.datacomp.sk\/intel-core-i3-13100f_igb453381.jpg"
+        "image": "https:\/\/img.datacomp.sk\/intel-core-i9-14900f_igb480406.jpg",
+        "10-01-2025": {
+            "price": "497,81",
+            "availability": 1
+        },
+        "11-01-2025": {
+            "price": "500,20",
+            "availability": 1
+        },
+        "12-01-2025": {
+            "price": "500,20",
+            "availability": 1
+        },
+        "13-01-2025": {
+            "price": "500,20",
+            "availability": 1
+        },
+        "14-01-2025": {
+            "price": "502,65",
+            "availability": 1
+        },
+        "15-01-2025": {
+            "price": "498,25",
+            "availability": 1
+        },
+        "16-01-2025": {
+            "price": "497,81",
+            "availability": 1
+        },
+        "17-01-2025": {
+            "price": "497,30",
+            "availability": 1
+        },
+        "18-01-2025": {
+            "price": "497,81",
+            "availability": 1
+        }
     },
     "Intel Core i9-14900KS": {
-        "link": "https:\/\/www.datacomp.skintel-core-i9-14900ks_d480407.html",
+        "link": "https:\/\/www.datacomp.sk\/intel-core-i9-14900ks_d480407.html",
         "name": "Intel Core i9-14900KS",
         "06-01-2025": {
             "price": "788,55",
@@ -1299,10 +3495,46 @@
             "price": "789,55",
             "availability": 1
         },
-        "image": "https:\/\/img.datacomp.sk\/intel-core-i7-12700f_igb432181.jpg"
+        "image": "https:\/\/img.datacomp.sk\/intel-core-i9-14900f_igb480406.jpg",
+        "10-01-2025": {
+            "price": "788,10",
+            "availability": 1
+        },
+        "11-01-2025": {
+            "price": "788,20",
+            "availability": 1
+        },
+        "12-01-2025": {
+            "price": "788,20",
+            "availability": 1
+        },
+        "13-01-2025": {
+            "price": "788,20",
+            "availability": 1
+        },
+        "14-01-2025": {
+            "price": "796,35",
+            "availability": 1
+        },
+        "15-01-2025": {
+            "price": "792,70",
+            "availability": 1
+        },
+        "16-01-2025": {
+            "price": "788,50",
+            "availability": 1
+        },
+        "17-01-2025": {
+            "price": "790,64",
+            "availability": 1
+        },
+        "18-01-2025": {
+            "price": "788,65",
+            "availability": 1
+        }
     },
     "Intel Core i7-12700K": {
-        "link": "https:\/\/www.datacomp.skintel-core-i7-12700k_d428933.html",
+        "link": "https:\/\/www.datacomp.sk\/intel-core-i7-12700k_d428933.html",
         "name": "Intel Core i7-12700K",
         "06-01-2025": {
             "price": "320,60",
@@ -1320,10 +3552,46 @@
             "price": "320,60",
             "availability": 1
         },
-        "image": "https:\/\/img.datacomp.sk\/intel-core-i7-12700f_igb432181.jpg"
+        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-5-8600g-box_igb476414.jpg",
+        "10-01-2025": {
+            "price": "320,60",
+            "availability": 1
+        },
+        "11-01-2025": {
+            "price": "320,60",
+            "availability": 1
+        },
+        "12-01-2025": {
+            "price": "320,60",
+            "availability": 1
+        },
+        "13-01-2025": {
+            "price": "320,60",
+            "availability": 1
+        },
+        "14-01-2025": {
+            "price": "320,60",
+            "availability": 1
+        },
+        "15-01-2025": {
+            "price": "324,35",
+            "availability": 1
+        },
+        "16-01-2025": {
+            "price": "323,50",
+            "availability": 1
+        },
+        "17-01-2025": {
+            "price": "323,55",
+            "availability": 1
+        },
+        "18-01-2025": {
+            "price": "323,55",
+            "availability": 1
+        }
     },
     "Intel Core i3-14100F": {
-        "link": "https:\/\/www.datacomp.skintel-core-i3-14100f_d475206.html",
+        "link": "https:\/\/www.datacomp.sk\/intel-core-i3-14100f_d475206.html",
         "name": "Intel Core i3-14100F",
         "06-01-2025": {
             "price": "90,26",
@@ -1341,10 +3609,46 @@
             "price": "90,26",
             "availability": 1
         },
-        "image": "https:\/\/img.datacomp.sk\/intel-core-i7-12700f_igb432181.jpg"
+        "image": "https:\/\/img.datacomp.sk\/intel-core-i9-14900f_igb480406.jpg",
+        "10-01-2025": {
+            "price": "90,26",
+            "availability": 1
+        },
+        "11-01-2025": {
+            "price": "90,26",
+            "availability": 1
+        },
+        "12-01-2025": {
+            "price": "90,26",
+            "availability": 1
+        },
+        "13-01-2025": {
+            "price": "90,26",
+            "availability": 1
+        },
+        "14-01-2025": {
+            "price": "90,26",
+            "availability": 1
+        },
+        "15-01-2025": {
+            "price": "90,26",
+            "availability": 1
+        },
+        "16-01-2025": {
+            "price": "90,26",
+            "availability": 1
+        },
+        "17-01-2025": {
+            "price": "90,26",
+            "availability": 1
+        },
+        "18-01-2025": {
+            "price": "90,26",
+            "availability": 1
+        }
     },
     "AMD Ryzen 5 5600GT Box": {
-        "link": "https:\/\/www.datacomp.skamd-ryzen-5-5600gt-box_d476410.html",
+        "link": "https:\/\/www.datacomp.sk\/amd-ryzen-5-5600gt-box_d476410.html",
         "name": "AMD Ryzen 5 5600GT Box",
         "06-01-2025": {
             "price": "139,46",
@@ -1362,10 +3666,46 @@
             "price": "139,46",
             "availability": 1
         },
-        "image": "https:\/\/img.datacomp.sk\/intel-core-i7-12700f_igb432181.jpg"
+        "image": "https:\/\/img.datacomp.sk\/intel-core-i9-14900f_igb480406.jpg",
+        "10-01-2025": {
+            "price": "143,65",
+            "availability": 1
+        },
+        "11-01-2025": {
+            "price": "143,65",
+            "availability": 1
+        },
+        "12-01-2025": {
+            "price": "143,65",
+            "availability": 1
+        },
+        "13-01-2025": {
+            "price": "143,65",
+            "availability": 1
+        },
+        "14-01-2025": {
+            "price": "143,85",
+            "availability": 1
+        },
+        "15-01-2025": {
+            "price": "143,85",
+            "availability": 1
+        },
+        "16-01-2025": {
+            "price": "143,75",
+            "availability": 1
+        },
+        "17-01-2025": {
+            "price": "143,85",
+            "availability": 1
+        },
+        "18-01-2025": {
+            "price": "143,75",
+            "availability": 1
+        }
     },
     "Intel Core i3-12100F": {
-        "link": "https:\/\/www.datacomp.skintel-core-i3-12100f_d432176.html",
+        "link": "https:\/\/www.datacomp.sk\/intel-core-i3-12100f_d432176.html",
         "name": "Intel Core i3-12100F",
         "06-01-2025": {
             "price": "89,30",
@@ -1383,10 +3723,46 @@
             "price": "90,15",
             "availability": 1
         },
-        "image": "https:\/\/img.datacomp.sk\/intel-core-i7-12700f_igb432181.jpg"
+        "image": "https:\/\/img.datacomp.sk\/intel-core-i9-14900f_igb480406.jpg",
+        "10-01-2025": {
+            "price": "90,00",
+            "availability": 1
+        },
+        "11-01-2025": {
+            "price": "90,00",
+            "availability": 1
+        },
+        "12-01-2025": {
+            "price": "90,00",
+            "availability": 1
+        },
+        "13-01-2025": {
+            "price": "90,00",
+            "availability": 1
+        },
+        "14-01-2025": {
+            "price": "90,95",
+            "availability": 1
+        },
+        "15-01-2025": {
+            "price": "90,41",
+            "availability": 1
+        },
+        "16-01-2025": {
+            "price": "90,05",
+            "availability": 1
+        },
+        "17-01-2025": {
+            "price": "90,20",
+            "availability": 1
+        },
+        "18-01-2025": {
+            "price": "90,05",
+            "availability": 1
+        }
     },
     "AMD Ryzen Threadripper PRO 7995WX \/ sTR5 \/ WRX90\/TRX50 \/ max. 5,1GHz \/ 96C\/192T \/ 480MB \/ 350W TDP \/ BOX bez chladie": {
-        "link": "https:\/\/www.datacomp.skamd-ryzen-threadripper-pro-7995wx-str5-wrx90-trx50-max-5-1ghz-96c-192t-480mb-350w-tdp-box-bez-chladice_d473561.html",
+        "link": "https:\/\/www.datacomp.sk\/amd-ryzen-threadripper-pro-7995wx-str5-wrx90-trx50-max-5-1ghz-96c-192t-480mb-350w-tdp-box-bez-chladice_d473561.html",
         "name": "AMD Ryzen Threadripper PRO 7995WX \/ sTR5 \/ WRX90\/TRX50 \/ max. 5,1GHz \/ 96C\/192T \/ 480MB \/ 350W TDP \/ BOX bez chladie",
         "06-01-2025": {
             "price": "11829,65",
@@ -1404,10 +3780,46 @@
             "price": "11844,60",
             "availability": 1
         },
-        "image": "https:\/\/img.datacomp.sk\/intel-core-i7-12700f_igb432181.jpg"
+        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-5-8600g-box_igb476414.jpg",
+        "10-01-2025": {
+            "price": "11822,70",
+            "availability": 1
+        },
+        "11-01-2025": {
+            "price": "11823,90",
+            "availability": 1
+        },
+        "12-01-2025": {
+            "price": "11823,90",
+            "availability": 1
+        },
+        "13-01-2025": {
+            "price": "11823,90",
+            "availability": 1
+        },
+        "14-01-2025": {
+            "price": "11946,69",
+            "availability": 1
+        },
+        "15-01-2025": {
+            "price": "11892,00",
+            "availability": 1
+        },
+        "16-01-2025": {
+            "price": "11828,41",
+            "availability": 1
+        },
+        "17-01-2025": {
+            "price": "11860,71",
+            "availability": 1
+        },
+        "18-01-2025": {
+            "price": "11830,76",
+            "availability": 1
+        }
     },
     "AMD Ryzen 7 5700G, Wraith Stealth": {
-        "link": "https:\/\/www.datacomp.skamd-ryzen-7-5700g-wraith-stealth_d424072.html",
+        "link": "https:\/\/www.datacomp.sk\/amd-ryzen-7-5700g-wraith-stealth_d424072.html",
         "name": "AMD Ryzen 7 5700G, Wraith Stealth",
         "06-01-2025": {
             "price": "178,40",
@@ -1425,10 +3837,46 @@
             "price": "188,50",
             "availability": 1
         },
-        "image": "https:\/\/img.datacomp.sk\/intel-core-i7-12700f_igb432181.jpg"
+        "image": "https:\/\/img.datacomp.sk\/intel-core-i9-14900f_igb480406.jpg",
+        "10-01-2025": {
+            "price": "188,45",
+            "availability": 1
+        },
+        "11-01-2025": {
+            "price": "188,45",
+            "availability": 1
+        },
+        "12-01-2025": {
+            "price": "188,45",
+            "availability": 1
+        },
+        "13-01-2025": {
+            "price": "188,45",
+            "availability": 1
+        },
+        "14-01-2025": {
+            "price": "188,50",
+            "availability": 1
+        },
+        "15-01-2025": {
+            "price": "188,45",
+            "availability": 1
+        },
+        "16-01-2025": {
+            "price": "188,50",
+            "availability": 1
+        },
+        "17-01-2025": {
+            "price": "190,05",
+            "availability": 1
+        },
+        "18-01-2025": {
+            "price": "190,05",
+            "availability": 1
+        }
     },
     "AMD Ryzen 5 9600X, (rozbalen)": {
-        "link": "https:\/\/www.datacomp.skamd-ryzen-5-9600x-rozbalene-_d497766.html",
+        "link": "https:\/\/www.datacomp.sk\/amd-ryzen-5-9600x-rozbalene-_d497766.html",
         "name": "AMD Ryzen 5 9600X, (rozbalen)",
         "06-01-2025": {
             "price": "275,62",
@@ -1449,7 +3897,7 @@
         "image": "https:\/\/img.datacomp.sk\/intel-core-i7-12700f_igb432181.jpg"
     },
     "AMD Ryzen 9 5950X, (rozbalen)": {
-        "link": "https:\/\/www.datacomp.skamd-ryzen-9-5950x-rozbalene-_d497054.html",
+        "link": "https:\/\/www.datacomp.sk\/amd-ryzen-9-5950x-rozbalene-_d497054.html",
         "name": "AMD Ryzen 9 5950X, (rozbalen)",
         "06-01-2025": {
             "price": "341,55",
@@ -1467,10 +3915,14 @@
             "price": "319,90",
             "availability": 1
         },
-        "image": "https:\/\/img.datacomp.sk\/intel-core-i3-13100f_igb453381.jpg"
+        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-threadripper-pro-7965wx-str5-wrx90-trx50-max-5-3ghz-24c-48t-152mb-350w-tdp-box-bez-chladice_igb473558.jpg",
+        "10-01-2025": {
+            "price": "319,90",
+            "availability": 0
+        }
     },
     "Intel Core i9-14900": {
-        "link": "https:\/\/www.datacomp.skintel-core-i9-14900_d480405.html",
+        "link": "https:\/\/www.datacomp.sk\/intel-core-i9-14900_d480405.html",
         "name": "Intel Core i9-14900",
         "06-01-2025": {
             "price": "656,00",
@@ -1488,10 +3940,46 @@
             "price": "664,25",
             "availability": 1
         },
-        "image": "https:\/\/img.datacomp.sk\/intel-core-i3-13100f_igb453381.jpg"
+        "image": "https:\/\/img.datacomp.sk\/intel-core-ultra-5-245kf_igb494789.jpg",
+        "10-01-2025": {
+            "price": "663,06",
+            "availability": 1
+        },
+        "11-01-2025": {
+            "price": "663,11",
+            "availability": 1
+        },
+        "12-01-2025": {
+            "price": "663,11",
+            "availability": 1
+        },
+        "13-01-2025": {
+            "price": "663,11",
+            "availability": 1
+        },
+        "14-01-2025": {
+            "price": "670,01",
+            "availability": 1
+        },
+        "15-01-2025": {
+            "price": "666,91",
+            "availability": 1
+        },
+        "16-01-2025": {
+            "price": "663,35",
+            "availability": 1
+        },
+        "17-01-2025": {
+            "price": "665,15",
+            "availability": 1
+        },
+        "18-01-2025": {
+            "price": "663,50",
+            "availability": 1
+        }
     },
     "INtel Core i3-13100F": {
-        "link": "https:\/\/www.datacomp.skintel-core-i3-13100f_d453381.html",
+        "link": "https:\/\/www.datacomp.sk\/intel-core-i3-13100f_d453381.html",
         "name": "INtel Core i3-13100F",
         "06-01-2025": {
             "price": "92,25",
@@ -1509,10 +3997,46 @@
             "price": "93,10",
             "availability": 1
         },
-        "image": "https:\/\/img.datacomp.sk\/intel-core-i3-13100f_igb453381.jpg"
+        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-threadripper-pro-7965wx-str5-wrx90-trx50-max-5-3ghz-24c-48t-152mb-350w-tdp-box-bez-chladice_igb473558.jpg",
+        "10-01-2025": {
+            "price": "93,00",
+            "availability": 1
+        },
+        "11-01-2025": {
+            "price": "93,00",
+            "availability": 1
+        },
+        "12-01-2025": {
+            "price": "93,00",
+            "availability": 1
+        },
+        "13-01-2025": {
+            "price": "93,00",
+            "availability": 1
+        },
+        "14-01-2025": {
+            "price": "93,95",
+            "availability": 1
+        },
+        "15-01-2025": {
+            "price": "93,34",
+            "availability": 1
+        },
+        "16-01-2025": {
+            "price": "93,00",
+            "availability": 1
+        },
+        "17-01-2025": {
+            "price": "93,15",
+            "availability": 1
+        },
+        "18-01-2025": {
+            "price": "93,05",
+            "availability": 1
+        }
     },
     "Intel Core i3-10105": {
-        "link": "https:\/\/www.datacomp.skintel-core-i3-10105_d416382.html",
+        "link": "https:\/\/www.datacomp.sk\/intel-core-i3-10105_d416382.html",
         "name": "Intel Core i3-10105",
         "06-01-2025": {
             "price": "149,85",
@@ -1530,10 +4054,46 @@
             "price": "133,60",
             "availability": 1
         },
-        "image": "https:\/\/img.datacomp.sk\/intel-core-i7-12700f_igb432181.jpg"
+        "image": "https:\/\/img.datacomp.sk\/intel-core-ultra-5-245kf_igb494789.jpg",
+        "10-01-2025": {
+            "price": "133,60",
+            "availability": 1
+        },
+        "11-01-2025": {
+            "price": "133,60",
+            "availability": 1
+        },
+        "12-01-2025": {
+            "price": "133,60",
+            "availability": 1
+        },
+        "13-01-2025": {
+            "price": "133,60",
+            "availability": 1
+        },
+        "14-01-2025": {
+            "price": "133,60",
+            "availability": 1
+        },
+        "15-01-2025": {
+            "price": "133,60",
+            "availability": 1
+        },
+        "16-01-2025": {
+            "price": "133,60",
+            "availability": 1
+        },
+        "17-01-2025": {
+            "price": "133,60",
+            "availability": 1
+        },
+        "18-01-2025": {
+            "price": "133,60",
+            "availability": 1
+        }
     },
     "Intel Core i7-11700K": {
-        "link": "https:\/\/www.datacomp.skintel-core-i7-11700k_d416376.html",
+        "link": "https:\/\/www.datacomp.sk\/intel-core-i7-11700k_d416376.html",
         "name": "Intel Core i7-11700K",
         "06-01-2025": {
             "price": "529,36",
@@ -1551,10 +4111,46 @@
             "price": "529,99",
             "availability": 1
         },
-        "image": "https:\/\/img.datacomp.sk\/intel-core-i7-12700f_igb432181.jpg"
+        "image": "https:\/\/img.datacomp.sk\/intel-core-ultra-5-245kf_igb494789.jpg",
+        "10-01-2025": {
+            "price": "529,00",
+            "availability": 1
+        },
+        "11-01-2025": {
+            "price": "529,05",
+            "availability": 1
+        },
+        "12-01-2025": {
+            "price": "529,05",
+            "availability": 1
+        },
+        "13-01-2025": {
+            "price": "529,05",
+            "availability": 1
+        },
+        "14-01-2025": {
+            "price": "534,55",
+            "availability": 1
+        },
+        "15-01-2025": {
+            "price": "532,10",
+            "availability": 1
+        },
+        "16-01-2025": {
+            "price": "529,31",
+            "availability": 1
+        },
+        "17-01-2025": {
+            "price": "530,70",
+            "availability": 1
+        },
+        "18-01-2025": {
+            "price": "529,40",
+            "availability": 1
+        }
     },
     "Intel Core i5-10400": {
-        "link": "https:\/\/www.datacomp.skintel-core-i5-10400_d401815.html",
+        "link": "https:\/\/www.datacomp.sk\/intel-core-i5-10400_d401815.html",
         "name": "Intel Core i5-10400",
         "06-01-2025": {
             "price": "148,95",
@@ -1572,10 +4168,46 @@
             "price": "149,05",
             "availability": 1
         },
-        "image": "https:\/\/img.datacomp.sk\/intel-core-i3-13100f_igb453381.jpg"
+        "image": "https:\/\/img.datacomp.sk\/intel-core-ultra-5-245kf_igb494789.jpg",
+        "10-01-2025": {
+            "price": "148,81",
+            "availability": 1
+        },
+        "11-01-2025": {
+            "price": "148,81",
+            "availability": 1
+        },
+        "12-01-2025": {
+            "price": "148,81",
+            "availability": 1
+        },
+        "13-01-2025": {
+            "price": "148,81",
+            "availability": 1
+        },
+        "14-01-2025": {
+            "price": "150,36",
+            "availability": 1
+        },
+        "15-01-2025": {
+            "price": "149,60",
+            "availability": 1
+        },
+        "16-01-2025": {
+            "price": "148,95",
+            "availability": 1
+        },
+        "17-01-2025": {
+            "price": "149,25",
+            "availability": 1
+        },
+        "18-01-2025": {
+            "price": "148,95",
+            "availability": 1
+        }
     },
     "Intel Core i3-10100": {
-        "link": "https:\/\/www.datacomp.skintel-core-i3-10100_d401811.html",
+        "link": "https:\/\/www.datacomp.sk\/intel-core-i3-10100_d401811.html",
         "name": "Intel Core i3-10100",
         "06-01-2025": {
             "price": "105,01",
@@ -1593,10 +4225,46 @@
             "price": "105,10",
             "availability": 1
         },
-        "image": "https:\/\/img.datacomp.sk\/intel-core-i3-13100f_igb453381.jpg"
+        "image": "https:\/\/img.datacomp.sk\/intel-core-ultra-5-245kf_igb494789.jpg",
+        "10-01-2025": {
+            "price": "104,89",
+            "availability": 1
+        },
+        "11-01-2025": {
+            "price": "104,89",
+            "availability": 1
+        },
+        "12-01-2025": {
+            "price": "104,89",
+            "availability": 1
+        },
+        "13-01-2025": {
+            "price": "104,89",
+            "availability": 1
+        },
+        "14-01-2025": {
+            "price": "106,00",
+            "availability": 1
+        },
+        "15-01-2025": {
+            "price": "105,45",
+            "availability": 1
+        },
+        "16-01-2025": {
+            "price": "105,01",
+            "availability": 1
+        },
+        "17-01-2025": {
+            "price": "105,25",
+            "availability": 1
+        },
+        "18-01-2025": {
+            "price": "105,01",
+            "availability": 1
+        }
     },
     "Intel Core i5-14400, (rozbalen)": {
-        "link": "https:\/\/www.datacomp.skintel-core-i5-14400-rozbalene-_d496605.html",
+        "link": "https:\/\/www.datacomp.sk\/intel-core-i5-14400-rozbalene-_d496605.html",
         "name": "Intel Core i5-14400, (rozbalen)",
         "06-01-2025": {
             "price": "159,90",
@@ -1614,10 +4282,46 @@
             "price": "165,90",
             "availability": 1
         },
-        "image": "https:\/\/img.datacomp.sk\/intel-core-i7-12700f_igb432181.jpg"
+        "image": "https:\/\/img.datacomp.sk\/intel-core-i9-14900f_igb480406.jpg",
+        "10-01-2025": {
+            "price": "165,90",
+            "availability": 1
+        },
+        "11-01-2025": {
+            "price": "165,90",
+            "availability": 1
+        },
+        "12-01-2025": {
+            "price": "165,90",
+            "availability": 1
+        },
+        "13-01-2025": {
+            "price": "165,90",
+            "availability": 1
+        },
+        "14-01-2025": {
+            "price": "165,90",
+            "availability": 1
+        },
+        "15-01-2025": {
+            "price": "165,90",
+            "availability": 1
+        },
+        "16-01-2025": {
+            "price": "165,90",
+            "availability": 1
+        },
+        "17-01-2025": {
+            "price": "165,90",
+            "availability": 1
+        },
+        "18-01-2025": {
+            "price": "165,90",
+            "availability": 1
+        }
     },
     "AMD, Ryzen Threadripper 7960X, Processor BOX, soc sTR5, 350W, bez chladia": {
-        "link": "https:\/\/www.datacomp.skamd-ryzen-threadripper-7960x-processor-box-soc-str5-350w-bez-chladica_d486790.html",
+        "link": "https:\/\/www.datacomp.sk\/amd-ryzen-threadripper-7960x-processor-box-soc-str5-350w-bez-chladica_d486790.html",
         "name": "AMD, Ryzen Threadripper 7960X, Processor BOX, soc sTR5, 350W, bez chladia",
         "06-01-2025": {
             "price": "1698,49",
@@ -1635,10 +4339,46 @@
             "price": "1700,65",
             "availability": 1
         },
-        "image": "https:\/\/img.datacomp.sk\/intel-core-i3-13100f_igb453381.jpg"
+        "image": "https:\/\/img.datacomp.sk\/intel-core-ultra-5-245kf_igb494789.jpg",
+        "10-01-2025": {
+            "price": "1697,50",
+            "availability": 1
+        },
+        "11-01-2025": {
+            "price": "1697,70",
+            "availability": 1
+        },
+        "12-01-2025": {
+            "price": "1697,70",
+            "availability": 1
+        },
+        "13-01-2025": {
+            "price": "1697,70",
+            "availability": 1
+        },
+        "14-01-2025": {
+            "price": "1715,30",
+            "availability": 1
+        },
+        "15-01-2025": {
+            "price": "1707,45",
+            "availability": 1
+        },
+        "16-01-2025": {
+            "price": "1698,35",
+            "availability": 1
+        },
+        "17-01-2025": {
+            "price": "1702,95",
+            "availability": 1
+        },
+        "18-01-2025": {
+            "price": "1698,65",
+            "availability": 1
+        }
     },
     "AMD Ryzen Threadripper PRO 5975WX, TRAY, bez chladia": {
-        "link": "https:\/\/www.datacomp.skamd-ryzen-threadripper-pro-5975wx-tray-bez-chladica_d466419.html",
+        "link": "https:\/\/www.datacomp.sk\/amd-ryzen-threadripper-pro-5975wx-tray-bez-chladica_d466419.html",
         "name": "AMD Ryzen Threadripper PRO 5975WX, TRAY, bez chladia",
         "06-01-2025": {
             "price": "2996,55",
@@ -1656,10 +4396,46 @@
             "price": "3000,30",
             "availability": 1
         },
-        "image": "https:\/\/img.datacomp.sk\/intel-core-i7-14700k-rozbalene-_igb481460.jpg"
+        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-threadripper-pro-7965wx-str5-wrx90-trx50-max-5-3ghz-24c-48t-152mb-350w-tdp-box-bez-chladice_igb473558.jpg",
+        "10-01-2025": {
+            "price": "2994,80",
+            "availability": 1
+        },
+        "11-01-2025": {
+            "price": "2995,05",
+            "availability": 1
+        },
+        "12-01-2025": {
+            "price": "2995,05",
+            "availability": 1
+        },
+        "13-01-2025": {
+            "price": "2995,05",
+            "availability": 1
+        },
+        "14-01-2025": {
+            "price": "3026,21",
+            "availability": 1
+        },
+        "15-01-2025": {
+            "price": "3012,29",
+            "availability": 1
+        },
+        "16-01-2025": {
+            "price": "2996,26",
+            "availability": 1
+        },
+        "17-01-2025": {
+            "price": "3004,40",
+            "availability": 1
+        },
+        "18-01-2025": {
+            "price": "2996,80",
+            "availability": 1
+        }
     },
     "Intel Core i9-13900F": {
-        "link": "https:\/\/www.datacomp.skintel-core-i9-13900f_d459366.html",
+        "link": "https:\/\/www.datacomp.sk\/intel-core-i9-13900f_d459366.html",
         "name": "Intel Core i9-13900F",
         "06-01-2025": {
             "price": "469,60",
@@ -1677,10 +4453,46 @@
             "price": "469,60",
             "availability": 1
         },
-        "image": "https:\/\/img.datacomp.sk\/intel-core-i3-13100f_igb453381.jpg"
+        "image": "https:\/\/img.datacomp.sk\/intel-core-ultra-5-245kf_igb494789.jpg",
+        "10-01-2025": {
+            "price": "469,60",
+            "availability": 1
+        },
+        "11-01-2025": {
+            "price": "469,60",
+            "availability": 1
+        },
+        "12-01-2025": {
+            "price": "469,60",
+            "availability": 1
+        },
+        "13-01-2025": {
+            "price": "469,60",
+            "availability": 1
+        },
+        "14-01-2025": {
+            "price": "469,60",
+            "availability": 1
+        },
+        "15-01-2025": {
+            "price": "469,60",
+            "availability": 1
+        },
+        "16-01-2025": {
+            "price": "415,95",
+            "availability": 1
+        },
+        "17-01-2025": {
+            "price": "415,95",
+            "availability": 1
+        },
+        "18-01-2025": {
+            "price": "415,95",
+            "availability": 1
+        }
     },
     "Intel Core i3-13100": {
-        "link": "https:\/\/www.datacomp.skintel-core-i3-13100_d453380.html",
+        "link": "https:\/\/www.datacomp.sk\/intel-core-i3-13100_d453380.html",
         "name": "Intel Core i3-13100",
         "06-01-2025": {
             "price": "132,59",
@@ -1698,10 +4510,46 @@
             "price": "133,95",
             "availability": 1
         },
-        "image": "https:\/\/img.datacomp.sk\/intel-core-i3-13100f_igb453381.jpg"
+        "image": "https:\/\/img.datacomp.sk\/intel-core-ultra-5-245kf_igb494789.jpg",
+        "10-01-2025": {
+            "price": "133,70",
+            "availability": 1
+        },
+        "11-01-2025": {
+            "price": "133,70",
+            "availability": 1
+        },
+        "12-01-2025": {
+            "price": "133,70",
+            "availability": 1
+        },
+        "13-01-2025": {
+            "price": "133,70",
+            "availability": 1
+        },
+        "14-01-2025": {
+            "price": "135,10",
+            "availability": 1
+        },
+        "15-01-2025": {
+            "price": "134,50",
+            "availability": 1
+        },
+        "16-01-2025": {
+            "price": "133,75",
+            "availability": 1
+        },
+        "17-01-2025": {
+            "price": "133,90",
+            "availability": 1
+        },
+        "18-01-2025": {
+            "price": "133,75",
+            "availability": 1
+        }
     },
     "AMD, Ryzen 3 4300G Wraith Stealth chladi": {
-        "link": "https:\/\/www.datacomp.skamd-ryzen-3-4300g-wraith-stealth-chladic_d449164.html",
+        "link": "https:\/\/www.datacomp.sk\/amd-ryzen-3-4300g-wraith-stealth-chladic_d449164.html",
         "name": "AMD, Ryzen 3 4300G Wraith Stealth chladi",
         "06-01-2025": {
             "price": "97,26",
@@ -1719,10 +4567,46 @@
             "price": "92,59",
             "availability": 1
         },
-        "image": "https:\/\/img.datacomp.sk\/intel-core-i3-13100f_igb453381.jpg"
+        "image": "https:\/\/img.datacomp.sk\/intel-core-ultra-5-245kf_igb494789.jpg",
+        "10-01-2025": {
+            "price": "92,59",
+            "availability": 1
+        },
+        "11-01-2025": {
+            "price": "92,59",
+            "availability": 1
+        },
+        "12-01-2025": {
+            "price": "92,59",
+            "availability": 1
+        },
+        "13-01-2025": {
+            "price": "92,59",
+            "availability": 1
+        },
+        "14-01-2025": {
+            "price": "91,11",
+            "availability": 1
+        },
+        "15-01-2025": {
+            "price": "90,65",
+            "availability": 1
+        },
+        "16-01-2025": {
+            "price": "90,25",
+            "availability": 1
+        },
+        "17-01-2025": {
+            "price": "91,70",
+            "availability": 1
+        },
+        "18-01-2025": {
+            "price": "91,70",
+            "availability": 1
+        }
     },
     "AMD Ryzen Threadripper PRO 5995WX, BOX, bez chladia": {
-        "link": "https:\/\/www.datacomp.skamd-ryzen-threadripper-pro-5995wx-box-bez-chladica_d448246.html",
+        "link": "https:\/\/www.datacomp.sk\/amd-ryzen-threadripper-pro-5995wx-box-bez-chladica_d448246.html",
         "name": "AMD Ryzen Threadripper PRO 5995WX, BOX, bez chladia",
         "06-01-2025": {
             "price": "7349,90",
@@ -1740,10 +4624,46 @@
             "price": "7359,20",
             "availability": 1
         },
-        "image": "https:\/\/img.datacomp.sk\/intel-core-i3-13100f_igb453381.jpg"
+        "image": "https:\/\/img.datacomp.sk\/intel-core-ultra-5-245kf_igb494789.jpg",
+        "10-01-2025": {
+            "price": "7345,55",
+            "availability": 1
+        },
+        "11-01-2025": {
+            "price": "7346,30",
+            "availability": 1
+        },
+        "12-01-2025": {
+            "price": "7346,30",
+            "availability": 1
+        },
+        "13-01-2025": {
+            "price": "7346,30",
+            "availability": 1
+        },
+        "14-01-2025": {
+            "price": "7422,59",
+            "availability": 1
+        },
+        "15-01-2025": {
+            "price": "7388,60",
+            "availability": 1
+        },
+        "16-01-2025": {
+            "price": "7349,15",
+            "availability": 1
+        },
+        "17-01-2025": {
+            "price": "7369,20",
+            "availability": 1
+        },
+        "18-01-2025": {
+            "price": "7350,55",
+            "availability": 1
+        }
     },
     "Intel Pentium Gold G7400": {
-        "link": "https:\/\/www.datacomp.skintel-pentium-gold-g7400_d432185.html",
+        "link": "https:\/\/www.datacomp.sk\/intel-pentium-gold-g7400_d432185.html",
         "name": "Intel Pentium Gold G7400",
         "06-01-2025": {
             "price": "108,60",
@@ -1761,10 +4681,46 @@
             "price": "108,10",
             "availability": 1
         },
-        "image": "https:\/\/img.datacomp.sk\/intel-core-i3-13100f_igb453381.jpg"
+        "image": "https:\/\/img.datacomp.sk\/intel-core-ultra-5-245kf_igb494789.jpg",
+        "10-01-2025": {
+            "price": "108,10",
+            "availability": 1
+        },
+        "11-01-2025": {
+            "price": "108,06",
+            "availability": 1
+        },
+        "12-01-2025": {
+            "price": "108,06",
+            "availability": 1
+        },
+        "13-01-2025": {
+            "price": "107,90",
+            "availability": 1
+        },
+        "14-01-2025": {
+            "price": "106,75",
+            "availability": 1
+        },
+        "15-01-2025": {
+            "price": "106,25",
+            "availability": 1
+        },
+        "16-01-2025": {
+            "price": "105,64",
+            "availability": 1
+        },
+        "17-01-2025": {
+            "price": "105,95",
+            "availability": 1
+        },
+        "18-01-2025": {
+            "price": "105,69",
+            "availability": 1
+        }
     },
     "Intel Core i5-12600": {
-        "link": "https:\/\/www.datacomp.skintel-core-i5-12600_d432182.html",
+        "link": "https:\/\/www.datacomp.sk\/intel-core-i5-12600_d432182.html",
         "name": "Intel Core i5-12600",
         "06-01-2025": {
             "price": "300,21",
@@ -1782,10 +4738,46 @@
             "price": "299,65",
             "availability": 1
         },
-        "image": "https:\/\/img.datacomp.sk\/intel-core-i3-13100f_igb453381.jpg"
+        "image": "https:\/\/img.datacomp.sk\/intel-core-ultra-5-245kf_igb494789.jpg",
+        "10-01-2025": {
+            "price": "300,21",
+            "availability": 1
+        },
+        "11-01-2025": {
+            "price": "300,26",
+            "availability": 1
+        },
+        "12-01-2025": {
+            "price": "300,26",
+            "availability": 1
+        },
+        "13-01-2025": {
+            "price": "300,26",
+            "availability": 1
+        },
+        "14-01-2025": {
+            "price": "303,15",
+            "availability": 1
+        },
+        "15-01-2025": {
+            "price": "300,50",
+            "availability": 1
+        },
+        "16-01-2025": {
+            "price": "300,21",
+            "availability": 1
+        },
+        "17-01-2025": {
+            "price": "299,90",
+            "availability": 1
+        },
+        "18-01-2025": {
+            "price": "300,21",
+            "availability": 1
+        }
     },
     "Intel Core i9-12900": {
-        "link": "https:\/\/www.datacomp.skintel-core-i9-12900_d432179.html",
+        "link": "https:\/\/www.datacomp.sk\/intel-core-i9-12900_d432179.html",
         "name": "Intel Core i9-12900",
         "06-01-2025": {
             "price": "459,90",
@@ -1803,10 +4795,46 @@
             "price": "460,50",
             "availability": 1
         },
-        "image": "https:\/\/img.datacomp.sk\/intel-core-i7-12700f_igb432181.jpg"
+        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-threadripper-pro-7965wx-str5-wrx90-trx50-max-5-3ghz-24c-48t-152mb-350w-tdp-box-bez-chladice_igb473558.jpg",
+        "10-01-2025": {
+            "price": "459,65",
+            "availability": 1
+        },
+        "11-01-2025": {
+            "price": "459,70",
+            "availability": 1
+        },
+        "12-01-2025": {
+            "price": "459,70",
+            "availability": 1
+        },
+        "13-01-2025": {
+            "price": "459,70",
+            "availability": 1
+        },
+        "14-01-2025": {
+            "price": "464,50",
+            "availability": 1
+        },
+        "15-01-2025": {
+            "price": "462,34",
+            "availability": 1
+        },
+        "16-01-2025": {
+            "price": "459,85",
+            "availability": 1
+        },
+        "17-01-2025": {
+            "price": "461,15",
+            "availability": 1
+        },
+        "18-01-2025": {
+            "price": "459,95",
+            "availability": 1
+        }
     },
     "Intel Core i9-12900KF": {
-        "link": "https:\/\/www.datacomp.skintel-core-i9-12900kf_d428936.html",
+        "link": "https:\/\/www.datacomp.sk\/intel-core-i9-12900kf_d428936.html",
         "name": "Intel Core i9-12900KF",
         "06-01-2025": {
             "price": "415,15",
@@ -1824,10 +4852,46 @@
             "price": "415,70",
             "availability": 1
         },
-        "image": "https:\/\/img.datacomp.sk\/intel-core-i3-13100f_igb453381.jpg"
+        "image": "https:\/\/img.datacomp.sk\/intel-core-i9-14900f_igb480406.jpg",
+        "10-01-2025": {
+            "price": "414,95",
+            "availability": 1
+        },
+        "11-01-2025": {
+            "price": "415,00",
+            "availability": 1
+        },
+        "12-01-2025": {
+            "price": "415,00",
+            "availability": 1
+        },
+        "13-01-2025": {
+            "price": "415,00",
+            "availability": 1
+        },
+        "14-01-2025": {
+            "price": "419,29",
+            "availability": 1
+        },
+        "15-01-2025": {
+            "price": "417,35",
+            "availability": 1
+        },
+        "16-01-2025": {
+            "price": "415,15",
+            "availability": 1
+        },
+        "17-01-2025": {
+            "price": "416,24",
+            "availability": 1
+        },
+        "18-01-2025": {
+            "price": "415,20",
+            "availability": 1
+        }
     },
     "AMD Ryzen 7 8700G - 4.2 GHz - 8-jdrov - 16 vlken - 16 MB vyrovnvac pam - Socket AM5 - OEM": {
-        "link": "https:\/\/www.datacomp.skamd-ryzen-7-8700g-4-2-ghz-8-jadrovy-16-vlaken-16-mb-vyrovnavaci-pamet-socket-am5-oem_d493793.html",
+        "link": "https:\/\/www.datacomp.sk\/amd-ryzen-7-8700g-4-2-ghz-8-jadrovy-16-vlaken-16-mb-vyrovnavaci-pamet-socket-am5-oem_d493793.html",
         "name": "AMD Ryzen 7 8700G - 4.2 GHz - 8-jdrov - 16 vlken - 16 MB vyrovnvac pam - Socket AM5 - OEM",
         "06-01-2025": {
             "price": "371,55",
@@ -1845,10 +4909,46 @@
             "price": "372,05",
             "availability": 0
         },
-        "image": "https:\/\/img.datacomp.sk\/intel-core-i7-14700k-rozbalene-_igb481460.jpg"
+        "image": "https:\/\/img.datacomp.sk\/intel-core-ultra-5-245kf_igb494789.jpg",
+        "10-01-2025": {
+            "price": "371,35",
+            "availability": 0
+        },
+        "11-01-2025": {
+            "price": "371,40",
+            "availability": 0
+        },
+        "12-01-2025": {
+            "price": "371,40",
+            "availability": 0
+        },
+        "13-01-2025": {
+            "price": "371,40",
+            "availability": 0
+        },
+        "14-01-2025": {
+            "price": "375,25",
+            "availability": 0
+        },
+        "15-01-2025": {
+            "price": "373,55",
+            "availability": 0
+        },
+        "16-01-2025": {
+            "price": "371,55",
+            "availability": 0
+        },
+        "17-01-2025": {
+            "price": "372,55",
+            "availability": 1
+        },
+        "18-01-2025": {
+            "price": "371,60",
+            "availability": 1
+        }
     },
     "Intel Core i9-12900KS": {
-        "link": "https:\/\/www.datacomp.skintel-core-i9-12900ks_d437710.html",
+        "link": "https:\/\/www.datacomp.sk\/intel-core-i9-12900ks_d437710.html",
         "name": "Intel Core i9-12900KS",
         "06-01-2025": {
             "price": "522,50",
@@ -1866,10 +4966,46 @@
             "price": "522,95",
             "availability": 1
         },
-        "image": "https:\/\/img.datacomp.sk\/intel-core-i3-13100f_igb453381.jpg"
+        "image": "https:\/\/img.datacomp.sk\/intel-core-ultra-5-245kf_igb494789.jpg",
+        "10-01-2025": {
+            "price": "522,05",
+            "availability": 1
+        },
+        "11-01-2025": {
+            "price": "522,05",
+            "availability": 1
+        },
+        "12-01-2025": {
+            "price": "522,05",
+            "availability": 1
+        },
+        "13-01-2025": {
+            "price": "522,05",
+            "availability": 1
+        },
+        "14-01-2025": {
+            "price": "527,50",
+            "availability": 1
+        },
+        "15-01-2025": {
+            "price": "524,80",
+            "availability": 1
+        },
+        "16-01-2025": {
+            "price": "522,50",
+            "availability": 1
+        },
+        "17-01-2025": {
+            "price": "523,75",
+            "availability": 1
+        },
+        "18-01-2025": {
+            "price": "522,55",
+            "availability": 1
+        }
     },
     "Intel Core Ultra 5 245K, (rozbalen)": {
-        "link": "https:\/\/www.datacomp.skintel-core-ultra-5-245k-rozbalene-_d497783.html",
+        "link": "https:\/\/www.datacomp.sk\/intel-core-ultra-5-245k-rozbalene-_d497783.html",
         "name": "Intel Core Ultra 5 245K, (rozbalen)",
         "06-01-2025": {
             "price": "344,62",
@@ -1887,10 +5023,46 @@
             "price": "319,90",
             "availability": 1
         },
-        "image": "https:\/\/img.datacomp.sk\/intel-core-i3-13100f_igb453381.jpg"
+        "image": "https:\/\/img.datacomp.sk\/intel-core-i9-14900f_igb480406.jpg",
+        "10-01-2025": {
+            "price": "319,90",
+            "availability": 1
+        },
+        "11-01-2025": {
+            "price": "319,90",
+            "availability": 1
+        },
+        "12-01-2025": {
+            "price": "319,90",
+            "availability": 1
+        },
+        "13-01-2025": {
+            "price": "319,90",
+            "availability": 1
+        },
+        "14-01-2025": {
+            "price": "319,90",
+            "availability": 1
+        },
+        "15-01-2025": {
+            "price": "319,90",
+            "availability": 1
+        },
+        "16-01-2025": {
+            "price": "319,90",
+            "availability": 1
+        },
+        "17-01-2025": {
+            "price": "319,90",
+            "availability": 1
+        },
+        "18-01-2025": {
+            "price": "319,90",
+            "availability": 1
+        }
     },
     "AMD, Ryzen Threadripper 7970X, Processor BOX, soc sTR5, 350W, bez chladia": {
-        "link": "https:\/\/www.datacomp.skamd-ryzen-threadripper-7970x-processor-box-soc-str5-350w-bez-chladica_d486789.html",
+        "link": "https:\/\/www.datacomp.sk\/amd-ryzen-threadripper-7970x-processor-box-soc-str5-350w-bez-chladica_d486789.html",
         "name": "AMD, Ryzen Threadripper 7970X, Processor BOX, soc sTR5, 350W, bez chladia",
         "06-01-2025": {
             "price": "2851,85",
@@ -1908,10 +5080,46 @@
             "price": "2855,45",
             "availability": 1
         },
-        "image": "https:\/\/img.datacomp.sk\/intel-core-i3-13100f_igb453381.jpg"
+        "image": "https:\/\/img.datacomp.sk\/intel-core-ultra-5-245kf_igb494789.jpg",
+        "10-01-2025": {
+            "price": "2850,16",
+            "availability": 1
+        },
+        "11-01-2025": {
+            "price": "2850,45",
+            "availability": 1
+        },
+        "12-01-2025": {
+            "price": "2850,45",
+            "availability": 1
+        },
+        "13-01-2025": {
+            "price": "2850,45",
+            "availability": 1
+        },
+        "14-01-2025": {
+            "price": "2880,05",
+            "availability": 1
+        },
+        "15-01-2025": {
+            "price": "2866,85",
+            "availability": 1
+        },
+        "16-01-2025": {
+            "price": "2851,55",
+            "availability": 1
+        },
+        "17-01-2025": {
+            "price": "2859,29",
+            "availability": 1
+        },
+        "18-01-2025": {
+            "price": "2852,10",
+            "availability": 1
+        }
     },
     "AMD, Ryzen Threadripper 7980X, Processor BOX, soc sTR5, 350W, bez chladia": {
-        "link": "https:\/\/www.datacomp.skamd-ryzen-threadripper-7980x-processor-box-soc-str5-350w-bez-chladica_d486788.html",
+        "link": "https:\/\/www.datacomp.sk\/amd-ryzen-threadripper-7980x-processor-box-soc-str5-350w-bez-chladica_d486788.html",
         "name": "AMD, Ryzen Threadripper 7980X, Processor BOX, soc sTR5, 350W, bez chladia",
         "06-01-2025": {
             "price": "5704,80",
@@ -1929,10 +5137,46 @@
             "price": "5712,00",
             "availability": 1
         },
-        "image": "https:\/\/img.datacomp.sk\/intel-core-i3-13100f_igb453381.jpg"
+        "image": "https:\/\/img.datacomp.sk\/intel-core-ultra-5-245kf_igb494789.jpg",
+        "10-01-2025": {
+            "price": "5701,46",
+            "availability": 1
+        },
+        "11-01-2025": {
+            "price": "5702,05",
+            "availability": 1
+        },
+        "12-01-2025": {
+            "price": "5702,05",
+            "availability": 1
+        },
+        "13-01-2025": {
+            "price": "5702,05",
+            "availability": 1
+        },
+        "14-01-2025": {
+            "price": "5761,25",
+            "availability": 1
+        },
+        "15-01-2025": {
+            "price": "5734,85",
+            "availability": 1
+        },
+        "16-01-2025": {
+            "price": "5704,20",
+            "availability": 1
+        },
+        "17-01-2025": {
+            "price": "5719,75",
+            "availability": 1
+        },
+        "18-01-2025": {
+            "price": "5705,36",
+            "availability": 1
+        }
     },
     "Intel Core i7-14700K, (rozbalen)": {
-        "link": "https:\/\/www.datacomp.skintel-core-i7-14700k-rozbalene-_d481460.html",
+        "link": "https:\/\/www.datacomp.sk\/intel-core-i7-14700k-rozbalene-_d481460.html",
         "name": "Intel Core i7-14700K, (rozbalen)",
         "06-01-2025": {
             "price": "412,90",
@@ -1950,10 +5194,46 @@
             "price": "399,90",
             "availability": 1
         },
-        "image": "https:\/\/img.datacomp.sk\/intel-core-i7-14700k-rozbalene-_igb481460.jpg"
+        "image": "https:\/\/img.datacomp.sk\/intel-core-ultra-5-245kf_igb494789.jpg",
+        "10-01-2025": {
+            "price": "399,90",
+            "availability": 1
+        },
+        "11-01-2025": {
+            "price": "399,90",
+            "availability": 1
+        },
+        "12-01-2025": {
+            "price": "399,90",
+            "availability": 1
+        },
+        "13-01-2025": {
+            "price": "399,90",
+            "availability": 1
+        },
+        "14-01-2025": {
+            "price": "399,90",
+            "availability": 1
+        },
+        "15-01-2025": {
+            "price": "399,90",
+            "availability": 1
+        },
+        "16-01-2025": {
+            "price": "399,90",
+            "availability": 1
+        },
+        "17-01-2025": {
+            "price": "399,90",
+            "availability": 1
+        },
+        "18-01-2025": {
+            "price": "399,90",
+            "availability": 1
+        }
     },
     "AMD Ryzen Threadripper PRO 7985WX \/ sTR5 \/ WRX90\/TRX50 \/ max. 5,1GHz \/ 64C\/128T \/ 320MB \/ 350W TDP \/ BOX bez chladie": {
-        "link": "https:\/\/www.datacomp.skamd-ryzen-threadripper-pro-7985wx-str5-wrx90-trx50-max-5-1ghz-64c-128t-320mb-350w-tdp-box-bez-chladice_d473560.html",
+        "link": "https:\/\/www.datacomp.sk\/amd-ryzen-threadripper-pro-7985wx-str5-wrx90-trx50-max-5-1ghz-64c-128t-320mb-350w-tdp-box-bez-chladice_d473560.html",
         "name": "AMD Ryzen Threadripper PRO 7985WX \/ sTR5 \/ WRX90\/TRX50 \/ max. 5,1GHz \/ 64C\/128T \/ 320MB \/ 350W TDP \/ BOX bez chladie",
         "06-01-2025": {
             "price": "8580,75",
@@ -1971,10 +5251,46 @@
             "price": "8591,65",
             "availability": 1
         },
-        "image": "https:\/\/img.datacomp.sk\/intel-core-i3-13100f_igb453381.jpg"
+        "image": "https:\/\/img.datacomp.sk\/intel-core-ultra-5-245kf_igb494789.jpg",
+        "10-01-2025": {
+            "price": "8575,74",
+            "availability": 1
+        },
+        "11-01-2025": {
+            "price": "8576,61",
+            "availability": 1
+        },
+        "12-01-2025": {
+            "price": "8576,61",
+            "availability": 1
+        },
+        "13-01-2025": {
+            "price": "8576,61",
+            "availability": 1
+        },
+        "14-01-2025": {
+            "price": "8665,69",
+            "availability": 1
+        },
+        "15-01-2025": {
+            "price": "8626,00",
+            "availability": 1
+        },
+        "16-01-2025": {
+            "price": "8579,90",
+            "availability": 1
+        },
+        "17-01-2025": {
+            "price": "8603,30",
+            "availability": 1
+        },
+        "18-01-2025": {
+            "price": "8581,55",
+            "availability": 1
+        }
     },
     "AMD Ryzen Threadripper PRO 7965WX \/ sTR5 \/ WRX90\/TRX50 \/ max. 5,3GHz \/ 24C\/48T \/ 152MB \/ 350W TDP \/ BOX bez chladie": {
-        "link": "https:\/\/www.datacomp.skamd-ryzen-threadripper-pro-7965wx-str5-wrx90-trx50-max-5-3ghz-24c-48t-152mb-350w-tdp-box-bez-chladice_d473558.html",
+        "link": "https:\/\/www.datacomp.sk\/amd-ryzen-threadripper-pro-7965wx-str5-wrx90-trx50-max-5-3ghz-24c-48t-152mb-350w-tdp-box-bez-chladice_d473558.html",
         "name": "AMD Ryzen Threadripper PRO 7965WX \/ sTR5 \/ WRX90\/TRX50 \/ max. 5,3GHz \/ 24C\/48T \/ 152MB \/ 350W TDP \/ BOX bez chladie",
         "06-01-2025": {
             "price": "3063,79",
@@ -1992,10 +5308,46 @@
             "price": "3067,71",
             "availability": 1
         },
-        "image": "https:\/\/img.datacomp.sk\/intel-core-i7-14700k-rozbalene-_igb481460.jpg"
+        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-threadripper-pro-7965wx-str5-wrx90-trx50-max-5-3ghz-24c-48t-152mb-350w-tdp-box-bez-chladice_igb473558.jpg",
+        "10-01-2025": {
+            "price": "3062,05",
+            "availability": 1
+        },
+        "11-01-2025": {
+            "price": "3062,36",
+            "availability": 1
+        },
+        "12-01-2025": {
+            "price": "3062,36",
+            "availability": 1
+        },
+        "13-01-2025": {
+            "price": "3062,36",
+            "availability": 1
+        },
+        "14-01-2025": {
+            "price": "3094,15",
+            "availability": 1
+        },
+        "15-01-2025": {
+            "price": "3080,01",
+            "availability": 1
+        },
+        "16-01-2025": {
+            "price": "3063,50",
+            "availability": 1
+        },
+        "17-01-2025": {
+            "price": "3071,85",
+            "availability": 1
+        },
+        "18-01-2025": {
+            "price": "3064,10",
+            "availability": 1
+        }
     },
     "AMD Ryzen 7 5700G - 3.8 GHz - 8-jdrov - 16 vlken - 16 MB vyrovnvac pam - Socket AM4 - OEM": {
-        "link": "https:\/\/www.datacomp.skamd-ryzen-7-5700g-3-8-ghz-8-jadrovy-16-vlaken-16-mb-vyrovnavaci-pamet-socket-am4-oem_d472754.html",
+        "link": "https:\/\/www.datacomp.sk\/amd-ryzen-7-5700g-3-8-ghz-8-jadrovy-16-vlaken-16-mb-vyrovnavaci-pamet-socket-am4-oem_d472754.html",
         "name": "AMD Ryzen 7 5700G - 3.8 GHz - 8-jdrov - 16 vlken - 16 MB vyrovnvac pam - Socket AM4 - OEM",
         "06-01-2025": {
             "price": "415,70",
@@ -2013,10 +5365,46 @@
             "price": "416,20",
             "availability": 1
         },
-        "image": "https:\/\/img.datacomp.sk\/intel-core-i7-14700k-rozbalene-_igb481460.jpg"
+        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-threadripper-pro-7965wx-str5-wrx90-trx50-max-5-3ghz-24c-48t-152mb-350w-tdp-box-bez-chladice_igb473558.jpg",
+        "10-01-2025": {
+            "price": "415,44",
+            "availability": 1
+        },
+        "11-01-2025": {
+            "price": "415,49",
+            "availability": 1
+        },
+        "12-01-2025": {
+            "price": "415,49",
+            "availability": 1
+        },
+        "13-01-2025": {
+            "price": "415,49",
+            "availability": 1
+        },
+        "14-01-2025": {
+            "price": "419,80",
+            "availability": 1
+        },
+        "15-01-2025": {
+            "price": "417,90",
+            "availability": 1
+        },
+        "16-01-2025": {
+            "price": "415,65",
+            "availability": 1
+        },
+        "17-01-2025": {
+            "price": "416,80",
+            "availability": 1
+        },
+        "18-01-2025": {
+            "price": "415,75",
+            "availability": 1
+        }
     },
     "AMD Ryzen 5 5600G - 3.9 GHz - 6-jdrov - 12 vlken - 16 MB vyrovnvac pam - Socket AM4 - OEM": {
-        "link": "https:\/\/www.datacomp.skamd-ryzen-5-5600g-3-9-ghz-6-jadrovy-12-vlaken-16-mb-vyrovnavaci-pamet-socket-am4-oem_d469774.html",
+        "link": "https:\/\/www.datacomp.sk\/amd-ryzen-5-5600g-3-9-ghz-6-jadrovy-12-vlaken-16-mb-vyrovnavaci-pamet-socket-am4-oem_d469774.html",
         "name": "AMD Ryzen 5 5600G - 3.9 GHz - 6-jdrov - 12 vlken - 16 MB vyrovnvac pam - Socket AM4 - OEM",
         "06-01-2025": {
             "price": "301,90",
@@ -2034,10 +5422,46 @@
             "price": "302,30",
             "availability": 1
         },
-        "image": "https:\/\/img.datacomp.sk\/intel-core-i7-14700k-rozbalene-_igb481460.jpg"
+        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-threadripper-pro-7965wx-str5-wrx90-trx50-max-5-3ghz-24c-48t-152mb-350w-tdp-box-bez-chladice_igb473558.jpg",
+        "10-01-2025": {
+            "price": "301,76",
+            "availability": 1
+        },
+        "11-01-2025": {
+            "price": "301,81",
+            "availability": 1
+        },
+        "12-01-2025": {
+            "price": "301,81",
+            "availability": 1
+        },
+        "13-01-2025": {
+            "price": "301,81",
+            "availability": 1
+        },
+        "14-01-2025": {
+            "price": "304,90",
+            "availability": 0
+        },
+        "15-01-2025": {
+            "price": "303,50",
+            "availability": 0
+        },
+        "16-01-2025": {
+            "price": "301,90",
+            "availability": 0
+        },
+        "17-01-2025": {
+            "price": "302,70",
+            "availability": 0
+        },
+        "18-01-2025": {
+            "price": "301,95",
+            "availability": 0
+        }
     },
     "AMD Ryzen Threadripper PRO 5955WX, TRAY, bez chladia": {
-        "link": "https:\/\/www.datacomp.skamd-ryzen-threadripper-pro-5955wx-tray-bez-chladica_d466422.html",
+        "link": "https:\/\/www.datacomp.sk\/amd-ryzen-threadripper-pro-5955wx-tray-bez-chladica_d466422.html",
         "name": "AMD Ryzen Threadripper PRO 5955WX, TRAY, bez chladia",
         "06-01-2025": {
             "price": "1100,05",
@@ -2055,10 +5479,46 @@
             "price": "1101,45",
             "availability": 1
         },
-        "image": "https:\/\/img.datacomp.sk\/intel-core-i7-14700k-rozbalene-_igb481460.jpg"
+        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-threadripper-pro-7965wx-str5-wrx90-trx50-max-5-3ghz-24c-48t-152mb-350w-tdp-box-bez-chladice_igb473558.jpg",
+        "10-01-2025": {
+            "price": "1099,40",
+            "availability": 1
+        },
+        "11-01-2025": {
+            "price": "1523,60",
+            "availability": 0
+        },
+        "12-01-2025": {
+            "price": "1523,60",
+            "availability": 0
+        },
+        "13-01-2025": {
+            "price": "1523,60",
+            "availability": 0
+        },
+        "14-01-2025": {
+            "price": "1531,10",
+            "availability": 0
+        },
+        "15-01-2025": {
+            "price": "1517,65",
+            "availability": 0
+        },
+        "16-01-2025": {
+            "price": "1516,20",
+            "availability": 0
+        },
+        "17-01-2025": {
+            "price": "1514,75",
+            "availability": 0
+        },
+        "18-01-2025": {
+            "price": "1516,20",
+            "availability": 0
+        }
     },
     "Intel Core i9-13900": {
-        "link": "https:\/\/www.datacomp.skintel-core-i9-13900_d459365.html",
+        "link": "https:\/\/www.datacomp.sk\/intel-core-i9-13900_d459365.html",
         "name": "Intel Core i9-13900",
         "06-01-2025": {
             "price": "672,40",
@@ -2076,10 +5536,46 @@
             "price": "680,85",
             "availability": 1
         },
-        "image": "https:\/\/img.datacomp.sk\/intel-core-i7-14700k-rozbalene-_igb481460.jpg"
+        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-threadripper-pro-7965wx-str5-wrx90-trx50-max-5-3ghz-24c-48t-152mb-350w-tdp-box-bez-chladice_igb473558.jpg",
+        "10-01-2025": {
+            "price": "679,60",
+            "availability": 1
+        },
+        "11-01-2025": {
+            "price": "679,70",
+            "availability": 1
+        },
+        "12-01-2025": {
+            "price": "679,70",
+            "availability": 1
+        },
+        "13-01-2025": {
+            "price": "679,70",
+            "availability": 1
+        },
+        "14-01-2025": {
+            "price": "686,75",
+            "availability": 1
+        },
+        "15-01-2025": {
+            "price": "683,60",
+            "availability": 1
+        },
+        "16-01-2025": {
+            "price": "679,94",
+            "availability": 1
+        },
+        "17-01-2025": {
+            "price": "681,80",
+            "availability": 1
+        },
+        "18-01-2025": {
+            "price": "680,10",
+            "availability": 1
+        }
     },
     "Intel Core i7-13700": {
-        "link": "https:\/\/www.datacomp.skintel-core-i7-13700_d459363.html",
+        "link": "https:\/\/www.datacomp.sk\/intel-core-i7-13700_d459363.html",
         "name": "Intel Core i7-13700",
         "06-01-2025": {
             "price": "372,95",
@@ -2097,10 +5593,46 @@
             "price": "372,65",
             "availability": 1
         },
-        "image": "https:\/\/img.datacomp.sk\/intel-core-i3-13100f_igb453381.jpg"
+        "image": "https:\/\/img.datacomp.sk\/intel-core-i9-14900f_igb480406.jpg",
+        "10-01-2025": {
+            "price": "372,70",
+            "availability": 1
+        },
+        "11-01-2025": {
+            "price": "372,75",
+            "availability": 1
+        },
+        "12-01-2025": {
+            "price": "372,75",
+            "availability": 1
+        },
+        "13-01-2025": {
+            "price": "372,75",
+            "availability": 1
+        },
+        "14-01-2025": {
+            "price": "376,65",
+            "availability": 1
+        },
+        "15-01-2025": {
+            "price": "373,75",
+            "availability": 1
+        },
+        "16-01-2025": {
+            "price": "372,90",
+            "availability": 1
+        },
+        "17-01-2025": {
+            "price": "373,00",
+            "availability": 1
+        },
+        "18-01-2025": {
+            "price": "372,95",
+            "availability": 1
+        }
     },
     "AMD Ryzen Threadripper PRO 5955WX, BOX, bez chladia": {
-        "link": "https:\/\/www.datacomp.skamd-ryzen-threadripper-pro-5955wx-box-bez-chladica_d458570.html",
+        "link": "https:\/\/www.datacomp.sk\/amd-ryzen-threadripper-pro-5955wx-box-bez-chladica_d458570.html",
         "name": "AMD Ryzen Threadripper PRO 5955WX, BOX, bez chladia",
         "06-01-2025": {
             "price": "1470,05",
@@ -2118,10 +5650,46 @@
             "price": "1471,90",
             "availability": 1
         },
-        "image": "https:\/\/img.datacomp.sk\/intel-core-i7-14700k-rozbalene-_igb481460.jpg"
+        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-threadripper-pro-7965wx-str5-wrx90-trx50-max-5-3ghz-24c-48t-152mb-350w-tdp-box-bez-chladice_igb473558.jpg",
+        "10-01-2025": {
+            "price": "1469,20",
+            "availability": 1
+        },
+        "11-01-2025": {
+            "price": "1469,35",
+            "availability": 1
+        },
+        "12-01-2025": {
+            "price": "1469,35",
+            "availability": 1
+        },
+        "13-01-2025": {
+            "price": "1469,35",
+            "availability": 1
+        },
+        "14-01-2025": {
+            "price": "1484,60",
+            "availability": 1
+        },
+        "15-01-2025": {
+            "price": "1477,80",
+            "availability": 1
+        },
+        "16-01-2025": {
+            "price": "1469,90",
+            "availability": 1
+        },
+        "17-01-2025": {
+            "price": "1473,90",
+            "availability": 1
+        },
+        "18-01-2025": {
+            "price": "1470,19",
+            "availability": 1
+        }
     },
     "INTEL Core i9-13900KS": {
-        "link": "https:\/\/www.datacomp.skintel-core-i9-13900ks_d455315.html",
+        "link": "https:\/\/www.datacomp.sk\/intel-core-i9-13900ks_d455315.html",
         "name": "INTEL Core i9-13900KS",
         "06-01-2025": {
             "price": "808,29",
@@ -2139,10 +5707,46 @@
             "price": "809,30",
             "availability": 1
         },
-        "image": "https:\/\/img.datacomp.sk\/intel-core-i3-13100f_igb453381.jpg"
+        "image": "https:\/\/img.datacomp.sk\/intel-core-ultra-5-245kf_igb494789.jpg",
+        "10-01-2025": {
+            "price": "807,80",
+            "availability": 1
+        },
+        "11-01-2025": {
+            "price": "807,90",
+            "availability": 1
+        },
+        "12-01-2025": {
+            "price": "807,90",
+            "availability": 1
+        },
+        "13-01-2025": {
+            "price": "807,90",
+            "availability": 1
+        },
+        "14-01-2025": {
+            "price": "816,30",
+            "availability": 1
+        },
+        "15-01-2025": {
+            "price": "812,55",
+            "availability": 1
+        },
+        "16-01-2025": {
+            "price": "808,20",
+            "availability": 1
+        },
+        "17-01-2025": {
+            "price": "810,40",
+            "availability": 1
+        },
+        "18-01-2025": {
+            "price": "808,36",
+            "availability": 1
+        }
     },
     "AMD Ryzen Threadripper PRO 5975WX, BOX, bez chladia": {
-        "link": "https:\/\/www.datacomp.skamd-ryzen-threadripper-pro-5975wx-box-bez-chladica_d451944.html",
+        "link": "https:\/\/www.datacomp.sk\/amd-ryzen-threadripper-pro-5975wx-box-bez-chladica_d451944.html",
         "name": "AMD Ryzen Threadripper PRO 5975WX, BOX, bez chladia",
         "06-01-2025": {
             "price": "3738,15",
@@ -2160,10 +5764,46 @@
             "price": "3742,85",
             "availability": 1
         },
-        "image": "https:\/\/img.datacomp.sk\/intel-core-i7-14700k-rozbalene-_igb481460.jpg"
+        "image": "https:\/\/img.datacomp.sk\/intel-core-ultra-5-245kf_igb494789.jpg",
+        "10-01-2025": {
+            "price": "3735,95",
+            "availability": 1
+        },
+        "11-01-2025": {
+            "price": "3736,30",
+            "availability": 1
+        },
+        "12-01-2025": {
+            "price": "3736,30",
+            "availability": 1
+        },
+        "13-01-2025": {
+            "price": "3736,30",
+            "availability": 1
+        },
+        "14-01-2025": {
+            "price": "3775,10",
+            "availability": 1
+        },
+        "15-01-2025": {
+            "price": "3757,85",
+            "availability": 1
+        },
+        "16-01-2025": {
+            "price": "3737,75",
+            "availability": 1
+        },
+        "17-01-2025": {
+            "price": "3747,95",
+            "availability": 1
+        },
+        "18-01-2025": {
+            "price": "3738,45",
+            "availability": 1
+        }
     },
     "Intel Core i9-13900KF": {
-        "link": "https:\/\/www.datacomp.skintel-core-i9-13900kf_d447877.html",
+        "link": "https:\/\/www.datacomp.sk\/intel-core-i9-13900kf_d447877.html",
         "name": "Intel Core i9-13900KF",
         "06-01-2025": {
             "price": "505,00",
@@ -2181,10 +5821,46 @@
             "price": "517,45",
             "availability": 1
         },
-        "image": "https:\/\/img.datacomp.sk\/intel-core-i3-13100f_igb453381.jpg"
+        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-threadripper-pro-7965wx-str5-wrx90-trx50-max-5-3ghz-24c-48t-152mb-350w-tdp-box-bez-chladice_igb473558.jpg",
+        "10-01-2025": {
+            "price": "517,45",
+            "availability": 1
+        },
+        "11-01-2025": {
+            "price": "517,45",
+            "availability": 1
+        },
+        "12-01-2025": {
+            "price": "517,45",
+            "availability": 1
+        },
+        "13-01-2025": {
+            "price": "517,45",
+            "availability": 1
+        },
+        "14-01-2025": {
+            "price": "517,45",
+            "availability": 1
+        },
+        "15-01-2025": {
+            "price": "517,45",
+            "availability": 1
+        },
+        "16-01-2025": {
+            "price": "507,60",
+            "availability": 1
+        },
+        "17-01-2025": {
+            "price": "507,60",
+            "availability": 1
+        },
+        "18-01-2025": {
+            "price": "507,60",
+            "availability": 1
+        }
     },
     "Intel Core i9-12900F": {
-        "link": "https:\/\/www.datacomp.skintel-core-i9-12900f_d432178.html",
+        "link": "https:\/\/www.datacomp.sk\/intel-core-i9-12900f_d432178.html",
         "name": "Intel Core i9-12900F",
         "06-01-2025": {
             "price": "422,65",
@@ -2202,10 +5878,46 @@
             "price": "423,14",
             "availability": 1
         },
-        "image": "https:\/\/img.datacomp.sk\/intel-core-i7-14700k-rozbalene-_igb481460.jpg"
+        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-threadripper-pro-7965wx-str5-wrx90-trx50-max-5-3ghz-24c-48t-152mb-350w-tdp-box-bez-chladice_igb473558.jpg",
+        "10-01-2025": {
+            "price": "422,39",
+            "availability": 1
+        },
+        "11-01-2025": {
+            "price": "422,46",
+            "availability": 1
+        },
+        "12-01-2025": {
+            "price": "422,46",
+            "availability": 1
+        },
+        "13-01-2025": {
+            "price": "422,46",
+            "availability": 1
+        },
+        "14-01-2025": {
+            "price": "426,80",
+            "availability": 1
+        },
+        "15-01-2025": {
+            "price": "424,85",
+            "availability": 1
+        },
+        "16-01-2025": {
+            "price": "422,60",
+            "availability": 1
+        },
+        "17-01-2025": {
+            "price": "423,75",
+            "availability": 1
+        },
+        "18-01-2025": {
+            "price": "422,70",
+            "availability": 1
+        }
     },
     "AMD Ryzen 7 9800X3D": {
-        "link": "https:\/\/www.datacomp.skamd-ryzen-7-9800x3d_d495299.html",
+        "link": "https:\/\/www.datacomp.sk\/amd-ryzen-7-9800x3d_d495299.html",
         "name": "AMD Ryzen 7 9800X3D",
         "06-01-2025": {
             "price": "602,60",
@@ -2223,10 +5935,46 @@
             "price": "602,60",
             "availability": 0
         },
-        "image": "https:\/\/img.datacomp.sk\/intel-core-i7-14700k-rozbalene-_igb481460.jpg"
+        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-7-9800x3d_igb495299.jpg",
+        "10-01-2025": {
+            "price": "602,90",
+            "availability": 1
+        },
+        "11-01-2025": {
+            "price": "602,90",
+            "availability": 1
+        },
+        "12-01-2025": {
+            "price": "602,90",
+            "availability": 0
+        },
+        "13-01-2025": {
+            "price": "602,90",
+            "availability": 0
+        },
+        "14-01-2025": {
+            "price": "612,90",
+            "availability": 1
+        },
+        "15-01-2025": {
+            "price": "604,90",
+            "availability": 0
+        },
+        "16-01-2025": {
+            "price": "604,90",
+            "availability": 0
+        },
+        "17-01-2025": {
+            "price": "604,90",
+            "availability": 0
+        },
+        "18-01-2025": {
+            "price": "604,90",
+            "availability": 0
+        }
     },
     "Intel Core i5-13600K": {
-        "link": "https:\/\/www.datacomp.skintel-core-i5-13600k_d447876.html",
+        "link": "https:\/\/www.datacomp.sk\/intel-core-i5-13600k_d447876.html",
         "name": "Intel Core i5-13600K",
         "06-01-2025": {
             "price": "374,02",
@@ -2247,7 +5995,7 @@
         "image": "https:\/\/img.datacomp.sk\/intel-core-i7-14700k-rozbalene-_igb481460.jpg"
     },
     "Intel Core Ultra 9 285K": {
-        "link": "https:\/\/www.datacomp.skintel-core-ultra-9-285k_d494753.html",
+        "link": "https:\/\/www.datacomp.sk\/intel-core-ultra-9-285k_d494753.html",
         "name": "Intel Core Ultra 9 285K",
         "06-01-2025": {
             "price": "720,23",
@@ -2265,10 +6013,46 @@
             "price": "700,96",
             "availability": 1
         },
-        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-7-7800x3d_igb459254.jpg"
+        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-7-9800x3d_igb495299.jpg",
+        "10-01-2025": {
+            "price": "682,67",
+            "availability": 1
+        },
+        "11-01-2025": {
+            "price": "682,65",
+            "availability": 1
+        },
+        "12-01-2025": {
+            "price": "682,65",
+            "availability": 1
+        },
+        "13-01-2025": {
+            "price": "682,65",
+            "availability": 1
+        },
+        "14-01-2025": {
+            "price": "689,80",
+            "availability": 1
+        },
+        "15-01-2025": {
+            "price": "686,27",
+            "availability": 1
+        },
+        "16-01-2025": {
+            "price": "720,23",
+            "availability": 0
+        },
+        "17-01-2025": {
+            "price": "720,23",
+            "availability": 0
+        },
+        "18-01-2025": {
+            "price": "720,23",
+            "availability": 0
+        }
     },
     "AMD Ryzen 9 7900X3D": {
-        "link": "https:\/\/www.datacomp.skamd-ryzen-9-7900x3d_d456685.html",
+        "link": "https:\/\/www.datacomp.sk\/amd-ryzen-9-7900x3d_d456685.html",
         "name": "AMD Ryzen 9 7900X3D",
         "06-01-2025": {
             "price": "694,67",
@@ -2286,10 +6070,46 @@
             "price": "693,34",
             "availability": 0
         },
-        "image": "https:\/\/img.datacomp.sk\/intel-core-i7-14700k-rozbalene-_igb481460.jpg"
+        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-threadripper-pro-7965wx-str5-wrx90-trx50-max-5-3ghz-24c-48t-152mb-350w-tdp-box-bez-chladice_igb473558.jpg",
+        "10-01-2025": {
+            "price": "694,67",
+            "availability": 0
+        },
+        "11-01-2025": {
+            "price": "698,06",
+            "availability": 0
+        },
+        "12-01-2025": {
+            "price": "698,06",
+            "availability": 0
+        },
+        "13-01-2025": {
+            "price": "698,06",
+            "availability": 0
+        },
+        "14-01-2025": {
+            "price": "701,48",
+            "availability": 0
+        },
+        "15-01-2025": {
+            "price": "695,33",
+            "availability": 0
+        },
+        "16-01-2025": {
+            "price": "694,65",
+            "availability": 0
+        },
+        "17-01-2025": {
+            "price": "693,99",
+            "availability": 0
+        },
+        "18-01-2025": {
+            "price": "694,65",
+            "availability": 0
+        }
     },
     "Intel Core i7-12700KF": {
-        "link": "https:\/\/www.datacomp.skintel-core-i7-12700kf_d428934.html",
+        "link": "https:\/\/www.datacomp.sk\/intel-core-i7-12700kf_d428934.html",
         "name": "Intel Core i7-12700KF",
         "06-01-2025": {
             "price": "463,00",
@@ -2307,10 +6127,46 @@
             "price": "303,40",
             "availability": 0
         },
-        "image": "https:\/\/img.datacomp.sk\/intel-core-i3-13100f_igb453381.jpg"
+        "image": "https:\/\/img.datacomp.sk\/intel-core-ultra-5-245kf_igb494789.jpg",
+        "10-01-2025": {
+            "price": "303,05",
+            "availability": 0
+        },
+        "11-01-2025": {
+            "price": "303,05",
+            "availability": 0
+        },
+        "12-01-2025": {
+            "price": "303,05",
+            "availability": 0
+        },
+        "13-01-2025": {
+            "price": "303,05",
+            "availability": 0
+        },
+        "14-01-2025": {
+            "price": "307,25",
+            "availability": 0
+        },
+        "15-01-2025": {
+            "price": "306,41",
+            "availability": 0
+        },
+        "16-01-2025": {
+            "price": "304,11",
+            "availability": 0
+        },
+        "17-01-2025": {
+            "price": "305,80",
+            "availability": 0
+        },
+        "18-01-2025": {
+            "price": "305,80",
+            "availability": 0
+        }
     },
     "AMD Ryzen Threadripper PRO 7975WX \/ sTR5 \/ WRX90\/TRX50 \/ max. 5,3GHz \/ 32C\/64T \/ 160MB \/ 350W TDP \/ BOX bez chladie": {
-        "link": "https:\/\/www.datacomp.skamd-ryzen-threadripper-pro-7975wx-str5-wrx90-trx50-max-5-3ghz-32c-64t-160mb-350w-tdp-box-bez-chladice_d473559.html",
+        "link": "https:\/\/www.datacomp.sk\/amd-ryzen-threadripper-pro-7975wx-str5-wrx90-trx50-max-5-3ghz-32c-64t-160mb-350w-tdp-box-bez-chladice_d473559.html",
         "name": "AMD Ryzen Threadripper PRO 7975WX \/ sTR5 \/ WRX90\/TRX50 \/ max. 5,3GHz \/ 32C\/64T \/ 160MB \/ 350W TDP \/ BOX bez chladie",
         "06-01-2025": {
             "price": "4952,90",
@@ -2328,10 +6184,46 @@
             "price": "4953,30",
             "availability": 0
         },
-        "image": "https:\/\/img.datacomp.sk\/intel-core-i7-14700k-rozbalene-_igb481460.jpg"
+        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-threadripper-pro-7965wx-str5-wrx90-trx50-max-5-3ghz-24c-48t-152mb-350w-tdp-box-bez-chladice_igb473558.jpg",
+        "10-01-2025": {
+            "price": "4941,00",
+            "availability": 0
+        },
+        "11-01-2025": {
+            "price": "4941,00",
+            "availability": 0
+        },
+        "12-01-2025": {
+            "price": "4941,00",
+            "availability": 0
+        },
+        "13-01-2025": {
+            "price": "4935,90",
+            "availability": 0
+        },
+        "14-01-2025": {
+            "price": "5015,35",
+            "availability": 0
+        },
+        "15-01-2025": {
+            "price": "5002,59",
+            "availability": 0
+        },
+        "16-01-2025": {
+            "price": "4965,10",
+            "availability": 0
+        },
+        "17-01-2025": {
+            "price": "4979,50",
+            "availability": 0
+        },
+        "18-01-2025": {
+            "price": "4979,50",
+            "availability": 0
+        }
     },
     "AMD Ryzen Threadripper PRO 5965WX, TRAY, bez chladia": {
-        "link": "https:\/\/www.datacomp.skamd-ryzen-threadripper-pro-5965wx-tray-bez-chladica_d466421.html",
+        "link": "https:\/\/www.datacomp.sk\/amd-ryzen-threadripper-pro-5965wx-tray-bez-chladica_d466421.html",
         "name": "AMD Ryzen Threadripper PRO 5965WX, TRAY, bez chladia",
         "06-01-2025": {
             "price": "2780,55",
@@ -2349,10 +6241,46 @@
             "price": "2775,15",
             "availability": 0
         },
-        "image": "https:\/\/img.datacomp.sk\/intel-core-i7-14700k-rozbalene-_igb481460.jpg"
+        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-threadripper-pro-7965wx-str5-wrx90-trx50-max-5-3ghz-24c-48t-152mb-350w-tdp-box-bez-chladice_igb473558.jpg",
+        "10-01-2025": {
+            "price": "2780,55",
+            "availability": 0
+        },
+        "11-01-2025": {
+            "price": "2794,15",
+            "availability": 0
+        },
+        "12-01-2025": {
+            "price": "2794,15",
+            "availability": 0
+        },
+        "13-01-2025": {
+            "price": "2794,15",
+            "availability": 0
+        },
+        "14-01-2025": {
+            "price": "2807,84",
+            "availability": 0
+        },
+        "15-01-2025": {
+            "price": "2783,24",
+            "availability": 0
+        },
+        "16-01-2025": {
+            "price": "2780,55",
+            "availability": 0
+        },
+        "17-01-2025": {
+            "price": "2777,84",
+            "availability": 0
+        },
+        "18-01-2025": {
+            "price": "2780,55",
+            "availability": 0
+        }
     },
     "AMD Ryzen Threadripper PRO 5995WX, TRAY, bez chladia": {
-        "link": "https:\/\/www.datacomp.skamd-ryzen-threadripper-pro-5995wx-tray-bez-chladica_d466418.html",
+        "link": "https:\/\/www.datacomp.sk\/amd-ryzen-threadripper-pro-5995wx-tray-bez-chladica_d466418.html",
         "name": "AMD Ryzen Threadripper PRO 5995WX, TRAY, bez chladia",
         "06-01-2025": {
             "price": "7580,00",
@@ -2370,10 +6298,46 @@
             "price": "6185,55",
             "availability": 1
         },
-        "image": "https:\/\/img.datacomp.sk\/intel-core-i7-14700k-rozbalene-_igb481460.jpg"
+        "image": "https:\/\/img.datacomp.sk\/intel-core-ultra-5-245kf_igb494789.jpg",
+        "10-01-2025": {
+            "price": "6174,10",
+            "availability": 1
+        },
+        "11-01-2025": {
+            "price": "6174,70",
+            "availability": 1
+        },
+        "12-01-2025": {
+            "price": "6174,70",
+            "availability": 1
+        },
+        "13-01-2025": {
+            "price": "6174,70",
+            "availability": 1
+        },
+        "14-01-2025": {
+            "price": "6238,90",
+            "availability": 1
+        },
+        "15-01-2025": {
+            "price": "6210,29",
+            "availability": 1
+        },
+        "16-01-2025": {
+            "price": "6177,10",
+            "availability": 1
+        },
+        "17-01-2025": {
+            "price": "6193,95",
+            "availability": 1
+        },
+        "18-01-2025": {
+            "price": "6178,30",
+            "availability": 1
+        }
     },
     "AMD Ryzen Threadripper PRO 5965WX, BOX, bez chladia": {
-        "link": "https:\/\/www.datacomp.skamd-ryzen-threadripper-pro-5965wx-box-bez-chladica_d458569.html",
+        "link": "https:\/\/www.datacomp.sk\/amd-ryzen-threadripper-pro-5965wx-box-bez-chladica_d458569.html",
         "name": "AMD Ryzen Threadripper PRO 5965WX, BOX, bez chladia",
         "06-01-2025": {
             "price": "2832,30",
@@ -2391,6 +6355,64 @@
             "price": "2832,60",
             "availability": 0
         },
-        "image": "https:\/\/img.datacomp.sk\/intel-core-i7-14700k-rozbalene-_igb481460.jpg"
+        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-threadripper-pro-7965wx-str5-wrx90-trx50-max-5-3ghz-24c-48t-152mb-350w-tdp-box-bez-chladice_igb473558.jpg",
+        "10-01-2025": {
+            "price": "2825,49",
+            "availability": 0
+        },
+        "11-01-2025": {
+            "price": "2825,49",
+            "availability": 0
+        },
+        "12-01-2025": {
+            "price": "2825,49",
+            "availability": 0
+        },
+        "13-01-2025": {
+            "price": "2822,60",
+            "availability": 0
+        },
+        "14-01-2025": {
+            "price": "2868,05",
+            "availability": 0
+        },
+        "15-01-2025": {
+            "price": "2860,75",
+            "availability": 0
+        },
+        "16-01-2025": {
+            "price": "2695,75",
+            "availability": 1
+        },
+        "17-01-2025": {
+            "price": "2703,10",
+            "availability": 1
+        },
+        "18-01-2025": {
+            "price": "2696,30",
+            "availability": 1
+        }
+    },
+    "AMD Ryzen 7 9800X3D, TRAY": {
+        "link": "https:\/\/www.datacomp.sk\/amd-ryzen-7-9800x3d-tray_d497485.html",
+        "name": "AMD Ryzen 7 9800X3D, TRAY",
+        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-7-8700f_igb484248.jpg",
+        "14-01-2025": {
+            "price": "567,85",
+            "availability": 1
+        }
+    },
+    "AMD Ryzen 7 9800X3D, TRAY balenie - iba na integraciu": {
+        "link": "https:\/\/www.datacomp.sk\/amd-ryzen-7-9800x3d-tray-balenie-iba-na-integraciu_d497485.html",
+        "name": "AMD Ryzen 7 9800X3D, TRAY balenie - iba na integraciu",
+        "image": "https:\/\/img.datacomp.sk\/amd-ryzen-7-7800x3d_igb459254.jpg",
+        "15-01-2025": {
+            "price": "595,90",
+            "availability": 1
+        },
+        "16-01-2025": {
+            "price": "595,90",
+            "availability": 1
+        }
     }
 }

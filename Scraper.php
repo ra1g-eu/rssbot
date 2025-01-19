@@ -114,6 +114,9 @@ class Scraper
             $price = $this->cleanString(
                 $xpath->query(".//span[contains(@class, 'price-box__price')]", $productNode)?->item(0)?->textContent ?? ''
             );
+            $couponPrice = $this->cleanString(
+                $xpath->query(".//span[contains(@class, 'coupon-block__price')]", $productNode)?->item(0)?->textContent ?? '-1'
+            );
             $availability = (int)preg_replace(
                 '/[^0-9]/',
                 '',
@@ -143,9 +146,12 @@ class Scraper
 
             if (isset($savedJson[$name])) {
                 $savedJson[$name][$currentDateAndHour] = [
-                    "price" => $price,
+                    "price" => $couponPrice !== '-1' ? $couponPrice : $price,
                     "availability" => $availability,
                 ];
+                if ($couponPrice !== '-1') {
+                    $savedJson[$name][$currentDateAndHour]["coupon"] = true;
+                }
             } else {
                 $savedJson[$name] = [
                     "link" => "https://www.alza.sk" . $link,

@@ -62,6 +62,10 @@
         "18-01-2025": {
             "price": "66,90",
             "availability": 5
+        },
+        "19-01-2025": {
+            "price": "66,90",
+            "availability": 5
         }
     },
     "AMD Ryzen 5 4500": {
@@ -125,6 +129,10 @@
             "availability": 5
         },
         "18-01-2025": {
+            "price": "74,90",
+            "availability": 5
+        },
+        "19-01-2025": {
             "price": "74,90",
             "availability": 5
         }
@@ -192,6 +200,10 @@
         "18-01-2025": {
             "price": "74,90",
             "availability": 5
+        },
+        "19-01-2025": {
+            "price": "74,90",
+            "availability": 5
         }
     },
     "AMD Ryzen 5 5500": {
@@ -255,6 +267,10 @@
             "availability": 5
         },
         "18-01-2025": {
+            "price": "86,90",
+            "availability": 5
+        },
+        "19-01-2025": {
             "price": "86,90",
             "availability": 5
         }
@@ -322,6 +338,10 @@
         "18-01-2025": {
             "price": "90,90",
             "availability": 5
+        },
+        "19-01-2025": {
+            "price": "90,90",
+            "availability": 5
         }
     },
     "Intel Core i3-12100F": {
@@ -387,6 +407,10 @@
         "18-01-2025": {
             "price": "96,90",
             "availability": 5
+        },
+        "19-01-2025": {
+            "price": "89,90",
+            "availability": 5
         }
     },
     "Intel Core i3-14100F": {
@@ -450,6 +474,10 @@
             "availability": 5
         },
         "18-01-2025": {
+            "price": "93,90",
+            "availability": 5
+        },
+        "19-01-2025": {
             "price": "93,90",
             "availability": 5
         }
@@ -517,6 +545,10 @@
         "18-01-2025": {
             "price": "116,90",
             "availability": 5
+        },
+        "19-01-2025": {
+            "price": "116,90",
+            "availability": 5
         }
     },
     "Intel Core i5-12400F": {
@@ -580,6 +612,10 @@
             "availability": 5
         },
         "18-01-2025": {
+            "price": "120,90",
+            "availability": 5
+        },
+        "19-01-2025": {
             "price": "120,90",
             "availability": 5
         }
@@ -647,6 +683,10 @@
         "18-01-2025": {
             "price": "128,90",
             "availability": 5
+        },
+        "19-01-2025": {
+            "price": "128,90",
+            "availability": 5
         }
     },
     "Intel Core i3-12100": {
@@ -706,6 +746,10 @@
             "availability": 5
         },
         "18-01-2025": {
+            "price": "127,90",
+            "availability": 5
+        },
+        "19-01-2025": {
             "price": "127,90",
             "availability": 5
         }
@@ -773,6 +817,10 @@
         "18-01-2025": {
             "price": "131,90",
             "availability": 5
+        },
+        "19-01-2025": {
+            "price": "131,90",
+            "availability": 5
         }
     },
     "AMD Ryzen 5 5600GT": {
@@ -836,6 +884,10 @@
             "availability": 5
         },
         "18-01-2025": {
+            "price": "136,90",
+            "availability": 5
+        },
+        "19-01-2025": {
             "price": "136,90",
             "availability": 5
         }
@@ -903,6 +955,10 @@
         "18-01-2025": {
             "price": "136,90",
             "availability": 5
+        },
+        "19-01-2025": {
+            "price": "136,90",
+            "availability": 5
         }
     },
     "AMD Ryzen 5 8500G": {
@@ -966,6 +1022,10 @@
             "availability": 5
         },
         "18-01-2025": {
+            "price": "151,90",
+            "availability": 5
+        },
+        "19-01-2025": {
             "price": "151,90",
             "availability": 5
         }
@@ -1033,6 +1093,10 @@
         "18-01-2025": {
             "price": "153,90",
             "availability": 5
+        },
+        "19-01-2025": {
+            "price": "152,90",
+            "availability": 5
         }
     },
     "Intel Core i5-13400F": {
@@ -1097,6 +1161,10 @@
         },
         "18-01-2025": {
             "price": "153,90",
+            "availability": 5
+        },
+        "19-01-2025": {
+            "price": "152,90",
             "availability": 5
         }
     },
@@ -1163,6 +1231,10 @@
         "18-01-2025": {
             "price": "181,90",
             "availability": 5
+        },
+        "19-01-2025": {
+            "price": "180,90",
+            "availability": 5
         }
     },
     "AMD Ryzen 5 5600T": {
@@ -1226,6 +1298,10 @@
             "availability": 5
         },
         "18-01-2025": {
+            "price": "152,90",
+            "availability": 5
+        },
+        "19-01-2025": {
             "price": "152,90",
             "availability": 5
         }
@@ -1293,6 +1369,10 @@
         "18-01-2025": {
             "price": "163,90",
             "availability": 5
+        },
+        "19-01-2025": {
+            "price": "163,90",
+            "availability": 5
         }
     },
     "AMD Ryzen 5 8400F": {
@@ -1356,6 +1436,10 @@
             "availability": 5
         },
         "18-01-2025": {
+            "price": "152,90",
+            "availability": 5
+        },
+        "19-01-2025": {
             "price": "152,90",
             "availability": 5
         }
@@ -1423,6 +1507,10 @@
         "18-01-2025": {
             "price": "181,90",
             "availability": 5
+        },
+        "19-01-2025": {
+            "price": "180,90",
+            "availability": 5
         }
     },
     "Intel Core i5-14400": {
@@ -1486,6 +1574,10 @@
             "availability": 5
         },
         "18-01-2025": {
+            "price": "177,90",
+            "availability": 5
+        },
+        "19-01-2025": {
             "price": "177,90",
             "availability": 5
         }
@@ -1553,6 +1645,10 @@
         "18-01-2025": {
             "price": "176,90",
             "availability": 5
+        },
+        "19-01-2025": {
+            "price": "176,90",
+            "availability": 5
         }
     },
     "Intel Core i5-13400": {
@@ -1616,6 +1712,10 @@
             "availability": 5
         },
         "18-01-2025": {
+            "price": "177,90",
+            "availability": 5
+        },
+        "19-01-2025": {
             "price": "177,90",
             "availability": 5
         }
@@ -1683,6 +1783,10 @@
         "18-01-2025": {
             "price": "191,90",
             "availability": 5
+        },
+        "19-01-2025": {
+            "price": "191,90",
+            "availability": 5
         }
     },
     "AMD Ryzen 5 5600XT": {
@@ -1746,6 +1850,10 @@
             "availability": 5
         },
         "18-01-2025": {
+            "price": "172,90",
+            "availability": 5
+        },
+        "19-01-2025": {
             "price": "172,90",
             "availability": 5
         }
@@ -1812,6 +1920,10 @@
         },
         "18-01-2025": {
             "price": "213,90",
+            "availability": 5
+        },
+        "19-01-2025": {
+            "price": "212,90",
             "availability": 5
         }
     },
@@ -1898,6 +2010,10 @@
         "18-01-2025": {
             "price": "233,90",
             "availability": 5
+        },
+        "19-01-2025": {
+            "price": "233,90",
+            "availability": 5
         }
     },
     "Intel Core i5-14600KF": {
@@ -1961,6 +2077,10 @@
             "availability": 5
         },
         "18-01-2025": {
+            "price": "241,90",
+            "availability": 5
+        },
+        "19-01-2025": {
             "price": "241,90",
             "availability": 5
         }
@@ -2028,6 +2148,10 @@
         "18-01-2025": {
             "price": "265,90",
             "availability": 5
+        },
+        "19-01-2025": {
+            "price": "265,90",
+            "availability": 5
         }
     },
     "AMD Ryzen 9 5900X": {
@@ -2091,6 +2215,10 @@
             "availability": 1
         },
         "18-01-2025": {
+            "price": "261,90",
+            "availability": 0
+        },
+        "19-01-2025": {
             "price": "261,90",
             "availability": 0
         }
@@ -2207,6 +2335,10 @@
         "18-01-2025": {
             "price": "209,90",
             "availability": 5
+        },
+        "19-01-2025": {
+            "price": "208,90",
+            "availability": 5
         }
     },
     "AMD Ryzen 5 9600X": {
@@ -2270,6 +2402,10 @@
             "availability": 5
         },
         "18-01-2025": {
+            "price": "269,90",
+            "availability": 5
+        },
+        "19-01-2025": {
             "price": "269,90",
             "availability": 5
         }
@@ -2337,6 +2473,10 @@
         "18-01-2025": {
             "price": "317,90",
             "availability": 5
+        },
+        "19-01-2025": {
+            "price": "317,90",
+            "availability": 5
         }
     },
     "AMD Ryzen 7 7700X": {
@@ -2401,6 +2541,10 @@
         },
         "18-01-2025": {
             "price": "338,90",
+            "availability": 5
+        },
+        "19-01-2025": {
+            "price": "337,90",
             "availability": 5
         }
     },
@@ -2488,6 +2632,10 @@
         "18-01-2025": {
             "price": "340,90",
             "availability": 5
+        },
+        "19-01-2025": {
+            "price": "340,90",
+            "availability": 5
         }
     },
     "Intel Core Ultra 5 245K": {
@@ -2551,6 +2699,10 @@
             "availability": 5
         },
         "18-01-2025": {
+            "price": "360,90",
+            "availability": 5
+        },
+        "19-01-2025": {
             "price": "360,90",
             "availability": 5
         }
@@ -2618,6 +2770,10 @@
         "18-01-2025": {
             "price": "402,90",
             "availability": 5
+        },
+        "19-01-2025": {
+            "price": "401,90",
+            "availability": 5
         }
     },
     "AMD Ryzen 9 7900": {
@@ -2682,6 +2838,10 @@
         },
         "18-01-2025": {
             "price": "378,90",
+            "availability": 5
+        },
+        "19-01-2025": {
+            "price": "377,90",
             "availability": 5
         }
     },
@@ -2748,6 +2908,10 @@
         "18-01-2025": {
             "price": "401,90",
             "availability": 3
+        },
+        "19-01-2025": {
+            "price": "401,90",
+            "availability": 1
         }
     },
     "AMD Ryzen 9 7900X": {
@@ -2849,6 +3013,10 @@
         },
         "18-01-2025": {
             "price": "386,90",
+            "availability": 5
+        },
+        "19-01-2025": {
+            "price": "385,90",
             "availability": 5
         }
     },
@@ -2968,6 +3136,10 @@
         "18-01-2025": {
             "price": "453,90",
             "availability": 4
+        },
+        "19-01-2025": {
+            "price": "453,90",
+            "availability": 4
         }
     },
     "Intel Core Ultra 7 265K": {
@@ -3031,6 +3203,10 @@
             "availability": 5
         },
         "18-01-2025": {
+            "price": "468,90",
+            "availability": 5
+        },
+        "19-01-2025": {
             "price": "468,90",
             "availability": 5
         }
@@ -3098,6 +3274,10 @@
         "18-01-2025": {
             "price": "483,90",
             "availability": 52012025
+        },
+        "19-01-2025": {
+            "price": "482,90",
+            "availability": 52012025
         }
     },
     "Intel Core i9-14900KF": {
@@ -3161,6 +3341,10 @@
             "availability": 5
         },
         "18-01-2025": {
+            "price": "501,90",
+            "availability": 5
+        },
+        "19-01-2025": {
             "price": "501,90",
             "availability": 5
         }
@@ -3228,6 +3412,10 @@
         "18-01-2025": {
             "price": "522,90",
             "availability": 5
+        },
+        "19-01-2025": {
+            "price": "522,90",
+            "availability": 5
         }
     },
     "AMD Ryzen 7 7800X3D": {
@@ -3272,6 +3460,10 @@
         },
         "18-01-2025": {
             "price": "527,90",
+            "availability": 5
+        },
+        "19-01-2025": {
+            "price": "526,90",
             "availability": 5
         }
     },
@@ -3338,6 +3530,10 @@
         "18-01-2025": {
             "price": "547,90",
             "availability": 5
+        },
+        "19-01-2025": {
+            "price": "546,90",
+            "availability": 5
         }
     },
     "AMD Ryzen 7 9800X3D": {
@@ -3401,6 +3597,10 @@
             "availability": 0
         },
         "18-01-2025": {
+            "price": "604,90",
+            "availability": 0
+        },
+        "19-01-2025": {
             "price": "604,90",
             "availability": 0
         }
@@ -3468,6 +3668,10 @@
         "18-01-2025": {
             "price": "701,90",
             "availability": 5
+        },
+        "19-01-2025": {
+            "price": "701,90",
+            "availability": 5
         }
     },
     "AMD Ryzen 9 9950X": {
@@ -3532,6 +3736,10 @@
         },
         "18-01-2025": {
             "price": "708,90",
+            "availability": 5
+        },
+        "19-01-2025": {
+            "price": "707,90",
             "availability": 5
         }
     },
@@ -3598,6 +3806,10 @@
         "18-01-2025": {
             "price": "765,90",
             "availability": 5
+        },
+        "19-01-2025": {
+            "price": "764,90",
+            "availability": 5
         }
     },
     "AMD Ryzen Threadripper 7960X": {
@@ -3663,6 +3875,10 @@
         "18-01-2025": {
             "price": "1459",
             "availability": 0
+        },
+        "19-01-2025": {
+            "price": "1449",
+            "availability": 0
         }
     },
     "AMD Ryzen Threadripper 7970X": {
@@ -3726,6 +3942,10 @@
             "availability": 0
         },
         "18-01-2025": {
+            "price": "2539",
+            "availability": 1
+        },
+        "19-01-2025": {
             "price": "2539",
             "availability": 1
         }
@@ -3858,6 +4078,10 @@
         "18-01-2025": {
             "price": "4589",
             "availability": 0
+        },
+        "19-01-2025": {
+            "price": "4589",
+            "availability": 0
         }
     },
     "AMD Ryzen Threadripper 7980X": {
@@ -3921,6 +4145,10 @@
             "availability": 0
         },
         "18-01-2025": {
+            "price": "5319",
+            "availability": 0
+        },
+        "19-01-2025": {
             "price": "5319",
             "availability": 0
         }
@@ -3988,6 +4216,10 @@
         "18-01-2025": {
             "price": "8779",
             "availability": 0
+        },
+        "19-01-2025": {
+            "price": "8779",
+            "availability": 0
         }
     },
     "AMD Ryzen Threadripper PRO 7995WX": {
@@ -4053,6 +4285,10 @@
         "18-01-2025": {
             "price": "12109",
             "availability": 0
+        },
+        "19-01-2025": {
+            "price": "12109",
+            "availability": 0
         }
     },
     "AMD Ryzen 5 5600X": {
@@ -4110,6 +4346,10 @@
         "18-01-2025": {
             "price": "136,90",
             "availability": 5
+        },
+        "19-01-2025": {
+            "price": "136,90",
+            "availability": 5
         }
     },
     "Intel Core i9-12900K": {
@@ -4163,6 +4403,10 @@
         "18-01-2025": {
             "price": "249,90",
             "availability": 5
+        },
+        "19-01-2025": {
+            "price": "249,90",
+            "availability": 5
         }
     },
     "Intel Core Ultra 5 225F": {
@@ -4206,6 +4450,10 @@
             "availability": 3
         },
         "18-01-2025": {
+            "price": "279,90",
+            "availability": 3
+        },
+        "19-01-2025": {
             "price": "279,90",
             "availability": 3
         }
@@ -4253,6 +4501,10 @@
         "18-01-2025": {
             "price": "301,90",
             "availability": 1
+        },
+        "19-01-2025": {
+            "price": "301,90",
+            "availability": 1
         }
     },
     "AMD Ryzen 5 8600G": {
@@ -4280,6 +4532,10 @@
             "availability": 5
         },
         "18-01-2025": {
+            "price": "187,90",
+            "availability": 5
+        },
+        "19-01-2025": {
             "price": "187,90",
             "availability": 5
         }
